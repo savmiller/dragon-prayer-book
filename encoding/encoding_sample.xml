@@ -1,0 +1,2873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="./out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title/>
+            </titleStmt>
+            <extent/>
+            <publicationStmt>
+                <p>unpublished draft</p>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Northeastern University Special Collections</repository>
+                        <idno>Dragon Prayer Book</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="m1"/>
+                            <handNote xml:id="m2"/>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="deu">German</language>
+                <language ident="eng">English</language>
+                <language ident="lat">Latin</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc/>
+    </teiHeader>
+    <text xml:lang="la">
+          <body>
+      
+        <pb n="1r" 
+             facs="img/pages/prayerbook_0015.jpg"/>
+          <ab>
+            <handShift new="m1" />
+            <lb n="1" />
+            <hi rend="red">
+              Ad
+              <choice>
+                <!-- use <abbr> and <expan> when there are brevigraphs that need expansion, and then reg for the fully regularized version -->
+                  <abbr>v&#x1dd3;s</abbr>                
+                  <expan>veſperas</expan>                
+                  <reg>vesperas</reg>
+              </choice>
+		        <lb n="2" />
+              <choice>
+                <!-- if any text is unclear, the <unclear> markup should only be present in the abbreviated (i.e. closest to original) version -->
+                  <abbr>Memo&#x1dd3;<unclear>ria</unclear></abbr>
+                  <expan>Memoria</expan>
+                  <reg>Memoria</reg>
+                <!-- even if the expanded and regularized versions are the same, they should both be included -->
+              </choice>
+            </hi>
+          <lb n="3" />
+		        <hi rend="dragon">R</hi>egali ex
+		      <lb n="4" />
+            <choice>
+              <abbr>ꝓgenie</abbr>
+              <expan>progenie</expan>
+              <reg>progenie</reg>
+            </choice>
+          <lb n="5" />
+            <!-- in cases where there are no brevigraphs or other abbreviations, no <expan> is needed; <orig> is used instead -->
+            <choice>
+              <orig>mᴀriᴀ</orig>
+              <reg>Maria</reg>
+            </choice>
+	        <lb n="6" />
+		        <choice>
+              <orig>exoꝛta</orig>
+              <reg>exorta</reg>
+            </choice>
+            <!-- When a line break falls inside a word, use break="no" to show that the word itself is unbroken. 
+                 Only include the <lb> element inside the <orig> or <abbr>, not inside <reg>-->
+            <choice>
+              <orig>re-<lb n="7" break="no"/>fulget
+              </orig>
+              <reg>refulget</reg>
+            </choice>
+            <choice>
+              <abbr>cuiꝰ</abbr>
+              <expan>cuius</expan>
+              <reg>cuius</reg>
+            </choice>
+		        <lb n="8" />
+            precibus nos
+            <choice>
+              <orig>ᴀdiuuᴀri</orig>
+              <reg>adiuvari</reg>
+            </choice>
+            
+            <!-- in cases where missing or illegibly deleted or damaged letters are supplied, use <supplied> with an appropriate reason-->
+            <choice>
+              <abbr>me&#x0304;<supplied reason="lost">-</supplied><lb n="9" break="no"/>te</abbr>
+              <expan>mente</expan>
+              <reg>mente</reg>
+            </choice>
+            et
+
+            <!-- hic desunt multae -->
+
+            <!-- examples of @rend -->
+            <!-- use <hi> with appropriate @rend value around the letters or words affected -->
+            <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <orig><hi rend="redbar">O</hi>ꝛa</orig>
+              <reg>Ora</reg>
+            </choice>
+          </ab>
+        
+        
+        <pb n="1v" facs="img/pages/prayerbook_0016.jpg"/>
+          <ab>
+            
+            
+            <lb n="6" />
+            <hi rend="floatright"><hi rend="red">
+              <choice>
+                <lem>
+                  <expan>oꝛ<am>&#x0304;</am><ex>acio</ex></expan>
+                </lem>
+                <reg>oratio</reg>
+              </choice>
+            </hi></hi>
+            <choice>
+              <lem>
+                <hi rend="twoline"><hi rend="blue">P</hi></hi><hi rend="redbar">R</hi>otege
+              </lem>
+              <reg>Protege</reg>
+            </choice>
+        <!-- line 11 -->
+            <choice>
+              <orig><hi rend="bigred">M</hi>ᴀgne</orig>
+              <reg>Magne</reg>
+            </choice>
+            
+            <lb n="12" />
+            <choice>
+              <lem> 
+                <expan>ſ<ex>an</ex>c<ex>t</ex>e<am>&#x0304;</am></expan>
+              </lem>
+              <reg>sancte</reg>
+            </choice>
+            <choice>
+              <lem> 
+                <expan>d<ex>o</ex>m<am>&#x0304;</am><ex>ini</ex>ce</expan>
+              </lem>
+              <reg>Dominice</reg>
+            </choice>
+            <choice>
+              <lem>moꝛtis</lem>
+              <reg>mortis</reg>
+            </choice> 
+            <choice>
+              <lem>hoꝛa</lem>
+              <reg>hora</reg>
+            </choice>
+            nos
+            <lb n="13" />
+            tecum
+            <choice>
+              <lem>ſuſcipe</lem>
+              <reg>suscipe</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            hic
+            <choice>
+              <lem>
+                <expan>ſem<am>ꝑ</am><ex>per</ex></expan>
+              </lem>
+              <reg>semper</reg>
+            </choice>
+            <lb n="14" />
+            nos
+            pie
+            <choice>
+              <lem>reſpice</lem>
+              <reg>respice</reg>
+            </choice>
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <hi rend="redbar">O</hi>s
+            <lb n="15" />
+            <choice>
+              <lem>iuſti</lem>
+              <reg>iusti</reg>
+            </choice>
+            <expan>meditabit<am>&#xf153;</am><ex>ur</ex></expan>
+            <choice>
+              <lem><expan>ſapi<am>&#x0304;</am><ex>enti</ex>am</expan></lem>
+              <reg>sapientiam</reg>
+            </choice>&#xf161;
+          </ab>
+        
+        
+        <pb n="2r" 
+             facs="img/pages/prayerbook_0017.jpg"/>
+          <ab>
+            <handShift new="m2" />
+            <lb n="1" />
+            <hi rend="redbar">E</hi>t
+            <expan>li<am>&#x0304;</am><ex>n</ex>gua</expan>
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>
+            <expan>loq<am>&#x0304;</am><ex>ue</ex>t<am>&#xf153;</am><ex>ur</ex></expan>
+            <choice>
+              <lem>
+                <expan>indi-<lb n="2" break="no" />ciu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>indicium</reg>
+            </choice>.
+            <hi rend="red">
+              <expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <expan>
+              <hi rend="bigblue">B</hi><ex>e</ex>n<am>&#x0304;</am><ex>e</ex>d<ex>i</ex>c<ex>tu</ex><am>&#x0304;</am>s
+            </expan>
+            <choice>
+              <lem>
+                <expan>rede<am>&#x0304;</am><ex>m</ex>p-<lb n="3" break="no" />toꝛ</expan>
+              </lem>
+              <reg>redemptor</reg>
+            </choice>
+            <expan>o<ex>mn</ex>i<am>&#x0304;</am><ex>u</ex>m</expan>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <choice>
+              <lem>ſaluti</lem>
+              <reg>saluti</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>uide<am>&#x0304;</am><ex>n</ex>s</expan>
+              </lem>
+              <reg>providens</reg>
+            </choice>
+            <lb n="4" />
+            <choice>
+              <lem>
+                <expan>ho<am>&#x0304;</am><ex>m</ex>i<ex>nu</ex>ꝫ</expan>
+              </lem>
+              <reg>hominum</reg>
+            </choice>
+            <expan>m<ex>un</ex>d<am>&#x02bc;</am>o</expan>
+            dedit
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>ctu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>sanctum</reg>
+            </choice>
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>i<lb n="5" break="no" />cu<am>&#x0304;</am><ex>m</ex></expan>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <hi rend="redbar">L</hi>ex
+            dei
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>coꝛde</lem>
+              <reg>corde</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ip-<lb n="6" break="no" />ſi<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>ipsius</reg>
+            </choice>&#xf161;
+            <hi rend="redbar">E</hi>t
+            <expan>n<am>&#x0304;</am><ex>on</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſuppla<am>&#x0304;</am><ex>n</ex>tabu<am>&#x0304;</am><ex>n</ex>t<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>supplantabuntur</reg>
+            </choice>
+            <lb n="7" />
+            <hi rend="floatright">
+              <choice>
+                <lem>
+                  <expan>greſſ<am>ꝰ</am><ex>us</ex></expan>
+                </lem>
+                <reg>gressus</reg>
+              </choice>
+              <expan>e<am>ꝰ</am><ex>ius</ex></expan>.
+            </hi>
+            <hi rend="floatright">
+              <hi rend="red">
+                <choice>
+                  <lem>
+                    <expan>Oꝛ<am>&#x0304;</am><ex>acio</ex></expan>
+                  </lem>
+                  <reg>Oratio</reg>
+                  </choice>.&#x00a0;
+              </hi>
+            </hi>
+            
+            <choice>
+              <lem>
+                <expan><hi rend="twoline"><hi rend="red">D</hi></hi><hi rend="redbar">E</hi><am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <choice>
+              <lem>
+                <expan>ec-<lb n="8" break="no" />cl<am>&#x02bc;</am><ex>esi</ex>aꝫ</expan>
+              </lem>
+              <reg>ecclesiam</reg>
+            </choice>
+            <expan>tua<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>b<ex>ea</ex>t<am>&#x0304;</am>i</expan>
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>ici</expan>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>feſſoꝛis</expan>
+              </lem>
+              <reg>confessoris</reg>
+            </choice>
+            tui.
+            <expan>illu<ex>m</ex>i<am>&#x0304;</am><ex>n</ex>are</expan>
+            <choice>
+              <lem>
+                <expan>dig<am>&#x1dd3;</am><ex>na</ex>-<lb n="10" break="no" />t<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>dignatus</reg>
+            </choice>
+            es
+            <expan>m<am>&#x02bc;</am><ex>er</ex>itis</expan>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>doct<am>&#x02bc;</am><ex>ri</ex>nis</expan>.
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>ce-<lb n="11" break="no" />de</expan>
+              </lem>
+              <reg>concede</reg>
+            </choice>
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex>t<am>&#x02bc;</am><ex>er</ex>ceſſio<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>intercessione</reg>
+            </choice>
+            <expan>t<ex>em</ex><am>ꝑ</am><ex>por</ex>alib<am>ꝫ</am><ex>us</ex></expan>
+            <lb n="13" />
+            <expan>no<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>deſtituat<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>destituatur</reg>
+            </choice>
+            <choice>
+              <lem>auxilijs</lem>
+              <reg>auxiliis</reg>
+            </choice>&#xf161;
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <lb n="14" />
+            <choice>
+              <lem>
+                <expan>ſp<ex>irit</ex>u<am>&#x0304;</am>alib<am>ꝫ</am><ex>us</ex></expan>
+              </lem>
+              <reg>spiritualibus</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>em</ex><am>ꝑ</am><ex>per</ex></expan>
+              </lem>
+              <reg>semper</reg>
+            </choice>
+            <expan><am>ꝓ</am><ex>pro</ex>ficiat</expan>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex>cre-<lb n="15" break="no" />me<am>&#x0304;</am><ex>n</ex>tis</expan>
+              </lem>
+              <reg>incrementis</reg>
+            </choice>:
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>.
+            <hi rend="red">
+              <expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <hi rend="bigblue">A</hi>d
+            <choice>
+              <lem>
+                <expan>ſa<am>&#x0304;</am><ex>n</ex>cti</expan>
+              </lem>
+              <reg>sancti</reg>
+            </choice>
+            <lb n="15" />
+            <expan><hi rend="redbar">P</hi>et<am>&#x02bc;</am><ex>ri</ex></expan>
+            <expan>tumulu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>freq<am>&#x0304;</am><ex>ue</ex>ns</expan>
+            lux
+          </ab>
+        
+        
+        <pb n="2v" 
+             facs="img/pages/prayerbook_0018.jpg"/>
+          <ab>
+            
+            <lb n="13" />
+            <choice>
+              <abbr>
+                <hi rend="twolineup"><hi rend="blue">P</hi></hi><hi rend="redbar">R<am>&#x0304;</am></hi><ex>est</ex>a
+              </abbr>
+              <expan>Presta</expan>
+              <reg>Præsta</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>q<ex>uesu</ex>m<am>&#x0304;</am><ex>u</ex>s</expan>
+              </lem>
+              <reg>quæsumus</reg>
+            </choice>
+            <expan>om<ex>ni</ex>p<am>&#x0304;</am><ex>oten</ex>s</expan>
+            <choice>
+              <lem>
+                <expan>d<am>&#x02bc;</am><ex>eu</ex>s</expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>:
+            <lb n="14" />
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <expan>b<ex>ea</ex>t<am>&#x0304;</am>i</expan>
+            <expan><hi rend="redbar">P</hi>et<am>&#x02bc;</am><ex>ri</ex></expan>
+            <expan>m<ex>a</ex>r<am>&#x1dd3;</am><ex>tyr</ex>is</expan>
+            tui
+            <expan>fide<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="15" />
+            <expan><am>ↄ</am><ex>con</ex>grua</expan>
+            <choice>
+              <lem>
+                <expan>deuoc<ex>i</ex>o<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>devotione</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſectem<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>sectemur</reg>
+            </choice>&#xf161;
+          </ab>
+       
+        
+        <pb n="3r" 
+             facs="img/pages/prayerbook_0019.jpg"/>
+          <ab>
+            <lb n="1" />
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <choice>
+              <lem>
+                <expan>eiuſde<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>eiusdem</reg>
+            </choice>
+            fidei
+            <choice>
+              <lem>
+                <expan>dilat<surplus>a</surplus>io<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>dilatione</reg>
+            </choice>
+            <lb n="2" />
+            <choice>
+              <lem>
+                <expan>m<ex>a</ex>r<am>&#x1dd3;</am><ex>tyr</ex>ij</expan>
+              </lem>
+              <reg>martyrii</reg>
+            </choice>
+            <expan>palma<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>m<am>&#x02bc;</am><ex>er</ex>uit</expan>
+            <choice>
+              <lem>
+                <expan>obti-<lb n="3" break="no" />ne<am>&#x02bc;</am><ex>re</ex></expan>
+              </lem>
+              <reg>obtinere</reg>
+            </choice>:
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>.
+            <hi rend="red">
+              <expan>an<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <hi rend="bigred">O</hi>
+            <choice>
+              <lem>
+                <expan>tho<am>&#x0304;</am><ex>m</ex>a</expan>
+              </lem>
+              <reg>Thoma</reg>
+            </choice>
+            laus
+            <lb n="4" />
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>gl<am>&#x02bc;</am><ex>oꝛi</ex>a</expan>
+              </lem>
+              <reg>gloria</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>dicato<am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>prædicatorum</reg>
+            </choice>
+            <choice>
+              <lem>oꝛdinis</lem>
+              <reg>ordinis</reg>
+            </choice>
+            <lb n="5" />
+            nos
+            <choice>
+              <lem>
+                <expan>tra<am>&#x0304;</am><ex>n</ex>ſfer</expan>
+              </lem>
+              <reg>transfer</reg>
+            </choice>
+            ad
+            <choice>
+              <lem>celeſtia</lem>
+              <reg>cælestia</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>-<lb n="6" break="no" />feſſoꝛ</expan>
+              </lem>
+              <reg>professor</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſac<am>&#x02bc;</am><ex>ri</ex></expan>
+              </lem>
+              <reg>sacri</reg>
+            </choice>
+            <expan>numi<am>&#x0304;</am><ex>ni</ex>s</expan>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">D</hi>e-<lb n="7" break="no" />cl<am>&#x02bc;</am><ex>ar</ex>ac<ex>i</ex>o<am>&#x0304;</am></expan>
+              </lem>
+              <reg>Declaratio</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſermonu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>sermonum</reg>
+            </choice>
+            <expan>tuo<am>ꝝ</am><ex>rum</ex></expan>
+            <choice>
+              <lem>
+                <expan>il-<lb n="8" break="no" />l<ex>u</ex>m<am>&#x0304;</am><ex>in</ex>at</expan>
+              </lem>
+              <reg>illuminat</reg>
+            </choice>&#xf161;
+            <hi rend="redbar">E</hi>t
+            <expan>i<am>&#x0304;</am><ex>n</ex>tell<ex>e</ex>c<ex>tu</ex>m<am>&#x0304;</am></expan>
+            dat
+            <choice>
+              <lem>
+                <expan><am>ꝑ</am><ex>par</ex>-<lb n="9" break="no" />uul<am>&#x02bc;</am><ex>is</ex></expan>
+              </lem>
+              <reg>parvulis</reg>
+            </choice>&#xf161;
+            <hi rend="red">
+              <expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <expan><hi rend="bigblue">C</hi>ollaudet<am>&#xf153;</am><ex>ur</ex></expan>
+            <lb n="10" />
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>christu</ex>s</expan>
+              </lem>
+              <reg>Christus</reg>
+            </choice>
+            rex
+            <choice>
+              <lem>
+                <expan>gl<am>&#x02bc;</am><ex>ori</ex>e</expan>
+              </lem>
+              <reg>gloriæ</reg>
+            </choice>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <expan><am>ꝑ</am><ex>per</ex></expan>
+            <expan><hi rend="redbar">T</hi>homa<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="11" />
+            <expan>lume<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>eccl<am>&#x02bc;</am><ex>esi</ex>e</expan>
+              </lem>
+              <reg>ecclesiæ</reg>
+            </choice>
+            <expan>mu<am>&#x0304;</am><ex>n</ex>du<am>&#x0304;</am><ex>m</ex></expan>
+            replet
+            <lb n="12" />
+            <expan>doct<am>&#x02bc;</am><ex>ri</ex>na</expan>
+            <choice>
+              <lem>
+                <expan>gr<am>&#x0304;</am><ex>ati</ex>e</expan>
+              </lem>
+              <reg>gratiæ</reg>
+            </choice>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <expan><hi rend="redbar">R</hi>iga<am>&#x0304;</am><ex>n</ex>s</expan>
+            <choice>
+              <lem>
+                <expan>mo<am>&#x0304;</am><ex>n</ex>-<lb n="13" break="no" />tes</expan>
+              </lem>
+              <reg>montes</reg>
+            </choice>
+            de
+            <choice>
+              <lem>
+                <expan>ſu<am>ꝑ</am><ex>per</ex>ioꝛib<am>ꝫ</am><ex>us</ex></expan>
+              </lem>
+              <reg>superioribus</reg>
+            </choice>&#xf161;
+            <hi rend="redbar">D</hi>e
+            <lb n="14" />
+            fructu
+            <expan>ope<am>ꝝ</am><ex>rum</ex></expan>
+            <expan>tuo<am>ꝝ</am><ex>rum</ex></expan>
+            <choice>
+              <lem>ſacia-<lb n="15" break="no" />bitur</lem>
+              <reg>satiabitur</reg>
+            </choice>
+            terra.
+            <hi rend="red">
+              <choice>
+                <lem>Oracio</lem>
+                <reg>Oratio</reg>
+              </choice>.
+            </hi>
+          </ab>
+        
+        
+        <pb n="3v" 
+             facs="img/pages/prayerbook_0020.jpg"/>
+          <ab>
+            <lb n="1" />
+            <choice>
+              <lem>
+                <expan><hi rend="twoline"><hi rend="red">D</hi></hi><hi rend="redbar">E</hi><am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <choice>
+              <lem>
+                <expan>eccl<am>&#x02bc;</am><ex>esi</ex>aꝫ</expan>
+              </lem>
+              <reg>ecclesiam</reg>
+            </choice>
+            <expan>tua<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>mi-<lb n="2" break="no" />ra</lem>
+              <reg>mira</reg>
+            </choice>
+            <expan>b<ex>ea</ex>t<am>&#x0304;</am>i</expan>
+            <choice>
+              <lem><hi rend="redbar">T</hi>home</lem>
+              <reg>Thomæ</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>feſ-<lb n="3" break="no" />ſoꝛis</expan>
+              </lem>
+              <reg>confessoris</reg>
+            </choice>
+            tui
+            <choice>
+              <lem>
+                <expan>erudic<ex>i</ex>o<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>eruditione</reg>
+            </choice>
+            <choice>
+              <lem>clarifi-<lb n="4" break="no" />cas</lem>
+              <reg>clarificas</reg>
+            </choice>&#xf161;
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>a</expan>
+              </lem>
+              <reg>sancta</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>o<am>ꝑ</am><ex>per</ex>ac<ex>i</ex>o<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>operatione</reg>
+            </choice>
+            <choice>
+              <lem>fecun-<lb n="5" break="no" />das</lem>
+              <reg>fecundas</reg>
+            </choice>:
+            da
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <expan>q<am>&#x0304;</am><ex>uæsumu</ex>s</expan>.
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>q<am>&#x0304;</am><ex>uæ</ex></expan>
+            <choice>
+              <lem>docu-<lb n="6" break="no" />it</lem>
+              <reg>docuit</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex>tell<ex>ec</ex>t<am>&#x0304;</am>a</expan>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>ſpice<am>&#x02bc;</am><ex>re</ex></expan>
+              </lem>
+              <reg>conspicere</reg>
+            </choice>&#xf161;
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>q<am>&#x0304;</am><ex>uæ</ex></expan>
+            egit
+            <lb n="7" />
+            <choice>
+              <lem>
+                <expan>imitac<ex>i</ex>o<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>imitatione</reg>
+            </choice>
+            <expan><am>ↄ</am><ex>com</ex>ple<am>&#x02bc;</am><ex>re</ex></expan>:
+            
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>.
+            <hi rend="red"><expan>an<am>&#x1dd3;</am><ex>tiphona</ex></expan></hi>
+            <choice>
+              <lem><hi rend="bigblue">A</hi>ſ-<lb n="8" break="no" />ſit</lem>
+              <reg>Assit</reg>
+            </choice>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>pici<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>propitius</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>hui<am>ꝰ</am><ex>us</ex></expan>
+            <choice>
+              <lem>vite</lem>
+              <reg>vitæ</reg>
+            </choice>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan>veſ<am>ꝑ</am><ex>per</ex>e</expan>
+              </lem>
+              <reg>vespere</reg>
+            </choice>
+            ad
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>christu</ex>m</expan>
+              </lem>
+              <reg>Christum</reg>
+            </choice>
+            nos
+            <choice>
+              <lem>
+                <expan>Vi<am>&#x0304;</am><ex>n</ex>ce<am>&#x0304;</am><ex>n</ex>-<lb n="10" break="no" />ci<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>Vincentius</reg>
+            </choice>
+            tuto
+            <expan>fere<am>&#x0304;</am><ex>n</ex>s</expan>
+            <expan>itine<am>&#x02bc;</am><ex>re</ex></expan>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">T</hi>i-<lb n="11" break="no" />mete</lem>
+              <reg>Timete</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>deu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>Deum</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            date
+            illi
+            <choice>
+              <lem>
+                <expan>hono-<lb n="12" break="no" />re<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>honorem</reg>
+            </choice>&#xf161;
+            <expan><hi rend="redbar">Q</hi><am>&#x02bc;</am><ex>ui</ex>a</expan>
+            <expan>ve<am>&#x0304;</am><ex>n</ex>it</expan>
+            <choice>
+              <lem>hoꝛa</lem>
+              <reg>hora</reg>
+            </choice>
+            <choice>
+              <lem>iudicij</lem>
+              <reg>iudicii</reg>
+            </choice>
+            <lb n="13" />
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>.
+            <hi rend="red"><expan>an<am>&#x1dd3;</am><ex>tiphona</ex></expan>.</hi>
+            <choice>
+              <lem><hi rend="bigred">P</hi>eruigil</lem>
+              <reg>Pervigil</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>christ</ex>i</expan>
+              </lem>
+              <reg>Christi</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>nu<am>&#x0304;</am><ex>n</ex>-<lb n="14" break="no" />ci<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>nuntius</reg>
+            </choice>
+            <expan>voca<am>&#x0304;</am><ex>n</ex>s</expan>
+            ad
+            lucis
+            <expan>o<am>ꝑ</am><ex>per</ex>a</expan>
+            <lb n="15" />
+            ad
+            <expan>frue<am>&#x0304;</am><ex>n</ex>da</expan>
+            <choice>
+              <lem>
+                <expan>vi<am>&#x0304;</am><ex>n</ex>ce<am>&#x0304;</am><ex>n</ex>ci<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>Vincentius</reg>
+            </choice>
+            nos
+            <choice>
+              <lem>du-</lem>
+              <reg>durat</reg>
+            </choice>
+          </ab>
+        
+        
+        <pb n="4r" 
+             facs="img/pages/prayerbook_0021.jpg"/>
+          <ab>
+            <lb n="1" />
+            <choice>
+              <lem>rat</lem>
+              <reg>durat</reg>
+            </choice>
+            <choice>
+              <lem>vite</lem>
+              <reg>vitæ</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>mǔn<am>&#x02bc;</am><ex>er</ex>a</expan>
+              </lem>
+              <reg>munera</reg>
+              </choice>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <expan><hi rend="redbar">D</hi>ab<am>&#x02bc;</am><ex>is</ex></expan>
+            <lb n="2" />
+            <expan>eu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>b<ex>e</ex>n<am>&#x0304;</am><ex>e</ex>dicc<ex>i</ex>o<am>&#x0304;</am><ex>ne</ex>ꝫ</expan>
+              </lem>
+              <reg>benedictionem</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>e</ex>c<ex>u</ex>l<am>&#x02bc;</am><ex>u</ex>m</expan>
+              </lem>
+              <reg>sæculum</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>e</ex>c<ex>u</ex>l<am>&#x02bc;</am>i</expan>
+              </lem>
+              <reg>sæculi</reg>
+            </choice>&#xf161;
+            <lb n="3" />
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">L</hi>etificab<am>&#x02bc;</am><ex>is</ex></expan>
+              </lem>
+              <reg>Lætificabis</reg>
+            </choice>
+            <expan>eu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            gaudio
+            <expan>cu<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="4" />
+            <hi rend="floatright">
+              vultu
+              tuo&#xf161;
+            </hi>
+            <hi rend="floatright">
+              <hi rend="red">
+                <choice>
+                  <lem>
+                    <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                  </lem>
+                  <reg>Oratio</reg>
+                  </choice>.&#x00a0;
+              </hi>
+            </hi>
+            <choice>
+              <lem>
+                <expan><hi rend="twoline"><hi rend="blue">D</hi></hi><hi rend="redbar">E</hi><am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <lb n="5" />
+            <choice>
+              <lem>
+                <expan>ge<am>&#x0304;</am><ex>n</ex>ciu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>gentium</reg>
+            </choice>
+            <expan>m<ex>u</ex>l<am>&#x02bc;</am>titudine<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>mi-<lb n="6" break="no" />ra</lem>
+              <reg>mira</reg>
+            </choice>
+            <expan>b<am>&#x0304;</am><ex>ea</ex>ti</expan>
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">V</hi>i<am>&#x0304;</am><ex>n</ex>ce<am>&#x0304;</am><ex>n</ex>cij</expan>
+              </lem>
+              <reg>Vincentii</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>feſſo<am>&#x02bc;</am><ex>ꝛ</ex>is</expan>
+              </lem>
+              <reg>confessoris</reg>
+            </choice>
+            tui
+            <lb n="7" />
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>dicac<ex>i</ex>o<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>prædicatione</reg>
+            </choice>
+            ad
+            <choice>
+              <lem>
+                <expan>ag<am>&#x02bc;</am><ex>ni</ex>c<ex>i</ex>o<am>&#x0304;</am><ex>ne</ex>ꝫ</expan>
+              </lem>
+              <reg>agnitionem</reg>
+            </choice>
+            tui
+            <lb n="8" />
+            <expan>no<am>&#x0304;</am><ex>min</ex>is</expan>
+            <expan>ve<am>&#x0304;</am><ex>n</ex>ire</expan>
+            <choice>
+              <lem>
+                <expan>t<am>&#x02bc;</am><ex>ri</ex>buiſti</expan>
+              </lem>
+              <reg>tribuisti</reg>
+            </choice>:
+            <choice>
+              <lem>
+                <expan>pr<am>&#x0304;</am><ex>eſt</ex>a</expan>
+              </lem>
+              <reg>præsta</reg>
+            </choice>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan>q<am>&#x0304;</am><ex>uesumu</ex>s</expan>
+              </lem>
+              <reg>quæsumus</reg>
+            </choice>.
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <expan>que<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>ve<am>&#x0304;</am><ex>n</ex>tu<am>ꝝ</am><ex>rum</ex></expan>
+            <expan>iudice<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="10" />
+            <choice>
+              <lem>
+                <expan>nu<am>&#x0304;</am><ex>n</ex>ciauit</expan>
+              </lem>
+              <reg>nuntiavit</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>t<am>&#x02bc;</am><ex>er</ex>ris</expan>&#xf161;
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>miato-<lb n="11" break="no" />re<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>præmiatorem</reg>
+            </choice>
+            <expan>h<ex>abe</ex>r<am>&#x0304;</am>e</expan>
+            <expan>me<am>&#x02bc;</am><ex>re</ex>am<am>&#xf153;</am><ex>ur</ex></expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>cel<am>&#x02bc;</am><ex>is</ex></expan>
+              </lem>
+              <reg>cælis</reg>
+            </choice>.
+            <hi rend="redbar"><expan><am>Xp&#x0304;</am><ex>Christu</ex>m</expan></hi>.
+            <lb n="12" />
+            <hi rend="red"><expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>.</hi>
+            <choice>
+              <lem><hi rend="bigred">C</hi>riſti</lem>
+              <reg>Christi</reg>
+            </choice>
+            pia
+            <expan>gr<am>&#x0304;</am><ex>ati</ex>a</expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<ex>t</ex>o<am>&#x0304;</am>s</expan>
+              </lem>
+              <reg>sanctos</reg>
+            </choice>
+            <lb n="13" />
+            <choice>
+              <lem>
+                <expan>ſ<ex>u</ex>b<am>&#x02bc;</am>li<am>&#x0304;</am><ex>m</ex>auit</expan>
+              </lem>
+              <reg>sublimavit</reg>
+            </choice>
+            quos
+            <expan>p<ex>at</ex>r<am>&#x0304;</am>is</expan>
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">D</hi><ex>o</ex>m<am>&#x0304;</am><ex>ini</ex>-<lb n="14" break="no" />ci</expan>
+              </lem>
+              <reg>Dominici</reg>
+            </choice>
+            <choice>
+              <lem>oꝛdo</lem>
+              <reg>ordo</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>pagauit</expan>
+              </lem>
+              <reg>propagavit</reg>
+            </choice>
+            nos
+            <choice>
+              <lem>
+                <expan>eo-<lb n="15" break="no" /><am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>eorum</reg>
+            </choice>
+            <expan>m<am>&#x02bc;</am><ex>er</ex>itis</expan>
+            <expan>petim<am>ꝰ</am><ex>us</ex></expan>
+            <choice>
+              <lem>iuuari</lem>
+              <reg>iuvari</reg>
+            </choice>
+          </ab>
+        
+        
+        <pb n="4v" 
+             facs="img/pages/prayerbook_0022.jpg"/>
+          <ab>
+            <lb n="1" />
+            <expan>atq<am>ꝫ</am><ex>ue</ex></expan>
+            <choice>
+              <lem>ſuis</lem>
+              <reg>suis</reg>
+            </choice>
+            <expan>p<am>&#x0304;</am><ex>re</ex>cib<am>ꝫ</am><ex>us</ex></expan>
+            <choice>
+              <lem>deo</lem>
+              <reg>Deo</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>com</ex>me<am>&#x0304;</am><ex>n</ex>-<lb n="2" break="no" />dari</expan>
+              </lem>
+              <reg>commendari</reg>
+            </choice>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">S</hi>api<am>&#x0304;</am><ex>ent</ex>aꝫ</expan>
+              </lem>
+              <reg>Sapientam</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<ex>t</ex>o<am>&#x0304;</am><am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sanctorum</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>nar-<lb n="3" break="no" />ra<am>&#x0304;</am><ex>n</ex>t</expan>
+              </lem>
+              <reg>narrant</reg>
+            </choice>
+            <expan>p<ex>o</ex>p<ex>u</ex>l<am>&#x02bc;</am>i</expan>&#xf161;
+            <hi rend="redbar">E</hi>t
+            <expan>laude<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>eoꝛu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>eorum</reg>
+            </choice>
+            <lb n="3" />
+            <choice>
+              <lem>
+                <expan>nu<am>&#x0304;</am><ex>n</ex>ciat</expan>
+              </lem>
+              <reg>nuntiat</reg>
+            </choice>
+            <expan>eccl<am>&#x02bc;</am><ex>esi</ex>a</expan>.
+            <hi rend="red"><expan>an<am>&#x1dd3;</am><ex>tiphona</ex></expan>.</hi>
+            <hi rend="bigblue">O</hi>
+            <expan><am>ꝙ&#x1dd3;</am><ex>quam</ex></expan>
+            <lb n="4" />
+            felix
+            <expan>gl<am>&#x02bc;</am><ex>ori</ex>a</expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>em</ex><am>ꝑ</am><ex>per</ex></expan>
+              </lem>
+              <reg>semper</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>e<am>&#x0304;</am><ex>ſt</ex></expan>
+              </lem>
+              <reg>est</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<ex>t</ex>o<am>&#x0304;</am><am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sanctorum</reg>
+            </choice>
+            <expan><am>ꝙ&#x1dd3;</am><ex>quam</ex></expan>
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>cla-<lb n="5" break="no" />ra</expan>
+              </lem>
+              <reg>præclara</reg>
+            </choice>
+            <expan>m<am>&#x02bc;</am><ex>er</ex>ita</expan>
+            <choice>
+              <lem>
+                <expan>ſu<am>&#x0304;</am><ex>n</ex>t</expan>
+              </lem>
+              <reg>sunt</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>dicato<am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>prædicatorum</reg>
+            </choice>
+            <lb n="6" />
+            <expan>q<am>&#x0366;</am><ex>uo</ex><am>ꝝ</am><ex>rum</ex></expan>
+            <expan>v<am>&#x02bc;</am><ex>er</ex>bo</expan>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>o<am>ꝑ</am><ex>per</ex>e</expan>
+            <expan>m<am>&#x0304;</am><ex>un</ex>d<am>ꝰ</am><ex>us</ex></expan>
+            <choice>
+              <lem>
+                <expan>deco-<lb n="7" break="no" />rat<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>decoratur</reg>
+            </choice>
+            <expan>eo<am>ꝝ</am><ex>rum</ex>q<am>ꝫ</am><ex>ue</ex></expan>
+            <expan>mune<am>&#x02bc;</am><ex>re</ex></expan>
+            <expan>me<am>&#x0304;</am><ex>n</ex>s</expan>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>-<lb n="8" break="no" />ſolidat<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>consolidatur</reg>
+            </choice>
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">E</hi>xultabu<am>&#x0304;</am><ex>n</ex>t</expan>
+              </lem>
+              <reg>Exsultabunt</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>i</expan>
+              </lem>
+              <reg>sancti</reg>
+            </choice>
+            <lb n="9" />
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>gl<am>&#x02bc;</am><ex>ori</ex>a</expan>.
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">L</hi>etabu<am>&#x0304;</am><ex>n</ex>t<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>Lætabuntur</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>cubilib<am>ꝫ</am><ex>us</ex></expan>
+            <lb n="10" />
+            <hi rend="floatright">
+              <choice>
+                <lem>ſuis</lem>
+                <reg>suis</reg>
+              </choice>.
+            </hi>
+            <hi rend="floatright">
+              <hi rend="red">
+                <choice>
+                  <lem>
+                    <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                  </lem>
+                  <reg>Oratio</reg>
+                  </choice>.&#x00a0;
+              </hi>
+            </hi>
+            <choice>
+              <lem>
+                <hi rend="twoline"><hi rend="red">C</hi></hi><hi rend="redbar">O</hi>ncede
+              </lem>
+              <reg>Concede</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>q<am>&#x0304;</am><ex>uesumu</ex>s</expan>
+              </lem>
+              <reg>quæsumus</reg>
+            </choice>
+            <lb n="11" />
+            <expan>o<ex>mni</ex>p<am>&#x0304;</am><ex>oten</ex>s</expan>
+            <choice>
+              <lem>
+                <expan>d<am>&#x02bc;</am><ex>eu</ex>s</expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            ad
+            <choice>
+              <lem>
+                <expan>melio-<lb n="12" break="no" />re<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>meliorem</reg>
+            </choice>
+            <expan>vita<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<ex>t</ex>o<am>&#x0304;</am><am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sanctorum</reg>
+            </choice>
+            <expan>tuo<am>ꝝ</am><ex>rum</ex></expan>
+            <hi rend="redbar">P</hi>etri
+            <lb n="13" />
+            <choice>
+              <lem>thome</lem>
+              <reg>Thomæ</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>vi<am>&#x0304;</am><ex>n</ex>ce<am>&#x0304;</am><ex>n</ex>cij</expan>
+              </lem>
+              <reg>Vincentii</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">K</hi>ath<am>&#x02bc;</am><ex>er</ex>ine</expan>
+              </lem>
+              <reg>Katherinæ</reg>
+            </choice>
+            <lb n="14" />
+            <expan>exe<am>&#x0304;</am><ex>m</ex>pla</expan>
+            nos
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>uoce<am>&#x0304;</am><ex>n</ex>t</expan>
+              </lem>
+              <reg>provocent</reg>
+            </choice>&#xf161;
+            <expan>q<am>&#x1dd3;</am><ex>ua</ex>ten<am>ꝰ</am><ex>us</ex></expan>
+          </ab>
+        
+        
+        <pb n="5r" 
+             facs="img/pages/prayerbook_0023.jpg"/>
+          <ab>
+            <lb n="1" />
+            <expan>quo<am>ꝝ</am><ex>rum</ex></expan>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>com</ex>me<am>&#x0304;</am><ex>m</ex>oꝛac<ex>i</ex>o<am>&#x0304;</am><ex>ne</ex>ꝫ</expan>
+              </lem>
+              <reg>commemorationem</reg>
+            </choice>
+            <expan>agim<am>ꝰ</am><ex>us</ex></expan>
+            <lb n="2" />
+            <choice>
+              <lem>
+                <expan>ecia<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>etiam</reg>
+            </choice>
+            <del rend="erasure"><expan><am>&#xf158;</am><ex>et</ex></expan></del>
+            <expan>act<am>ꝰ</am><ex>us</ex></expan>
+            <expan>imite<ex>m</ex>ur</expan>.
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>.
+            <hi rend="red"><expan>an<am>&#x1dd3;</am><ex>tiphona</ex></expan>.</hi>
+            <lb n="3" />
+            <choice>
+              <lem><hi rend="bigblue">A</hi><hi rend="redbar">V</hi>e</lem>
+              <reg>Ave</reg>
+            </choice>
+            <expan>v<am>&#x02bc;</am><ex>ir</ex>go</expan>
+            <expan><hi rend="redbar">K</hi>ath<am>&#x02bc;</am><ex>er</ex>ina</expan>
+            <choice>
+              <lem>ce-<lb n="4" break="no" />li</lem>
+              <reg>cæli</reg>
+            </choice>
+            <choice>
+              <lem>decoꝛ</lem>
+              <reg>decor</reg>
+            </choice>
+            <expan>mo<am>&#x0304;</am><ex>n</ex>tis</expan>
+            <choice>
+              <lem>ſyna</lem>
+              <reg>Sina</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>the-<lb n="5" break="no" />ꝫauris</expan>
+              </lem>
+              <reg>thesaurus</reg>
+            </choice>
+            <expan>indeficie<am>&#x0304;</am><ex>n</ex>s</expan>
+            iure
+            <lb n="6" />
+            bina
+            tu
+            regina
+            reis
+            <choice>
+              <lem>
+                <expan>au-<lb n="7" break="no" />re<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>aurem</reg>
+            </choice>
+            <expan>nu<am>&#x0304;</am><ex>n</ex>c</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex>clina</expan>
+            <expan>p<am>&#x0304;</am><ex>re</ex>cat<am>&#x02bc;</am><ex>ri</ex>x</expan>
+            es
+            <lb n="8" />
+            <choice>
+              <lem>
+                <expan>ſufficie<am>&#x0304;</am><ex>n</ex>s</expan>
+              </lem>
+              <reg>sufficiens</reg>
+            </choice>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">O</hi>ꝛa</lem>
+              <reg>Ora</reg>
+            </choice>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>a</expan>
+              </lem>
+              <reg>sancta</reg>
+            </choice>
+            <expan><hi rend="redbar">K</hi>ath<am>&#x02bc;</am><ex>er</ex>ina</expan>.
+            <choice>
+              <lem><hi rend="redbar">V</hi>t</lem>
+              <reg>Ut</reg>
+            </choice>
+            <expan>dig<am>&#x02bc;</am><ex>ni</ex></expan>.
+            <hi rend="red">
+              <expan>an<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <lb n="10" />
+            <expan><hi rend="bigred">K</hi>ath<am>&#x02bc;</am><ex>er</ex>ina<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>em</ex><am>ꝑ</am><ex>per</ex></expan>
+              </lem>
+              <reg>semper</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex>uoce<am>&#x0304;</am><ex>m</ex><am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>invocemus</reg>
+            </choice>
+            <choice>
+              <lem>oꝛe</lem>
+              <reg>ore</reg>
+            </choice>
+            <lb n="11" />
+            <choice>
+              <lem>coꝛde</lem>
+              <reg>corde</reg>
+            </choice>
+            laudes
+            <expan>dig<am>&#x1dd3;</am><ex>natu</ex>s</expan>
+            <expan>dem<am>ꝰ</am><ex>us</ex></expan>
+            <lb n="12" />
+            <expan><am>&#xf158;</am><ex>et</ex></expan>            
+            <expan>vita<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>n<ex>ost</ex>r<am>&#x0304;</am>aꝫ</expan>
+              </lem>
+              <reg>nostram</reg>
+            </choice>
+            <choice>
+              <lem>ſibi</lem>
+              <reg>sibi</reg>
+            </choice>
+            <expan><am>ↄ</am><ex>com</ex>me<am>&#x0304;</am><ex>n</ex>de<am>&#x0304;</am><ex>m</ex><am>ꝰ</am><ex>us</ex></expan>
+            <lb n="13" />
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>.
+            </hi>
+            <expan><hi rend="redbar">A</hi>dducent<am>&#xf153;</am><ex>ur</ex></expan>
+            regi
+            <choice>
+              <lem>
+                <expan>v<am>&#x02bc;</am><ex>ir</ex>gi-<lb n="14" break="no" />nes</expan>
+              </lem>
+              <reg>virgines</reg>
+            </choice>
+            <choice>
+              <lem>poſt</lem>
+              <reg>post</reg>
+            </choice>
+            <expan>ea<am>&#x0304;</am><ex>m</ex></expan>.
+            <choice>
+              <lem>
+                <expan><hi rend="redbar"><am>Ꝓ</am><ex>Pro</ex>xime</hi></expan>
+              </lem>
+              <reg>Proximæ</reg>
+            </choice>
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>
+            <lb n="15" />
+            <expan>afferent<am>&#xf153;</am><ex>ur</ex></expan>
+            tibi.
+          </ab>
+        
+        
+        <pb n="5v" 
+             facs="img/pages/prayerbook_0024.jpg"/>
+          <ab>
+            <lb n="1" />
+            <choice>
+              <lem>
+                <expan><hi rend="twoline"><hi rend="blue">D</hi></hi><hi rend="redbar">E</hi><am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <choice>
+              <lem>dediſti</lem>
+              <reg>dedisti</reg>
+            </choice>
+            <choice>
+              <lem>legeꝫ</lem>
+              <reg>legem</reg>
+            </choice>
+            <lb n="2" />
+            <choice>
+              <lem>Moyſi</lem>
+              <reg>Moysi</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſu<am>&#x0304;</am><ex>m</ex>mitate</expan>
+              </lem>
+              <reg>summitate</reg>
+            </choice>
+            <lb n="3" />
+            <expan>mo<am>&#x0304;</am><ex>n</ex>tis</expan>
+            <choice>
+              <lem>ſynai</lem>
+              <reg>Sinai</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>            
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>eode<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>lo-<lb n="4" break="no" />co</lem>
+              <reg>loco</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>coꝛp<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>corpus</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>b<ex>ea</ex>t<am>&#x0304;</am>e</expan>
+              </lem>
+              <reg>beatæ</reg>
+            </choice> 
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">K</hi>ath<am>&#x02bc;</am><ex>er</ex>ine</expan>
+              </lem>
+              <reg>Katherinæ</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>v<am>&#x02bc;</am><ex>ir</ex>-<lb n="5" break="no" />ginis</expan>
+              </lem>
+              <reg>virginis</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>            
+            <expan>m<ex>a</ex>r<am>&#x1dd3;</am><ex>tyr</ex>is</expan>
+            <choice>
+              <lem>tue</lem>
+              <reg>tuæ</reg>
+            </choice>
+            <expan><am>ꝑ</am><ex>per</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<ex>t</ex>o<am>&#x0304;</am>s</expan>
+              </lem>
+              <reg>sanctos</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>a<am>&#x0304;</am><ex>n</ex>-<lb n="5" break="no" />gelos</expan>
+              </lem>
+              <reg>angelos</reg>
+            </choice>
+            tuos
+            mirabiliter
+            <lb n="6" />
+            <choice>
+              <lem>collocaſti</lem>
+              <reg>collocasti</reg>
+            </choice>:
+            <expan><am>ↄ</am><ex>con</ex>cede</expan>
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>pici<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>propitius</reg>
+            </choice>.
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <lb n="7" />
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>
+            <expan>m<am>&#x02bc;</am><ex>er</ex>itis</expan>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>            
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex>t<am>&#x02bc;</am><ex>er</ex>ceſſio<am>&#x0304;</am><ex>n</ex>e</expan>
+              </lem>
+              <reg>intercessione</reg>
+            </choice>&#xf161;
+            ad
+            <lb n="8" />
+            <expan>mo<am>&#x0304;</am><ex>n</ex>te<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <expan>e<am>&#x0304;</am><ex>st</ex></expan>
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>christu</ex>s</expan>
+              </lem>
+              <reg>Christus</reg>
+            </choice>
+            <expan>valeam<am>ꝰ</am><ex>us</ex></expan>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan><am>ꝑ</am><ex>per</ex>ue<am>&#x0304;</am><ex>n</ex>ire</expan>
+              </lem>
+              <reg>pervenire</reg>
+            </choice>:
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>
+            <expan>eu<am>&#x0304;</am><ex>n</ex>de<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>d<ex>omi</ex>n<am>&#x0304;</am><ex>u</ex>ꝫ</expan>
+              </lem>
+              <reg>dominum</reg>,
+            </choice>
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am><ex>u</ex>m</expan>
+            <lb n="10" />
+            <choice>
+              <lem>
+                <expan>i<am>h&#x02bc;</am><ex>esu</ex>m</expan>
+              </lem>
+              <reg>Iesum</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>christu</ex>m</expan>
+              </lem>
+              <reg>Christum</reg>
+            </choice>
+            <expan>filiu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>tuu<am>&#x0304;</am><ex>m</ex></expan>&#xf161;
+            <expan><hi rend="redbar">Q<am>&#x02bc;</am></hi><ex>ui</ex></expan>
+            <lb n="11" />
+            <expan>tecu<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>viuit</lem>
+              <reg>vivit</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>            
+            <expan>reg<am>&#x1dd3;</am><ex>na</ex>t</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>vnita-<lb n="12" break="no" />te</lem>
+              <reg>unitate</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſp<ex>irit</ex>u<am>&#x0304;</am>s</expan>
+              </lem>
+              <reg>Spiritus</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>i</expan>
+              </lem>
+              <reg>Sancti</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>d<am>&#x02bc;</am><ex>eu</ex>s</expan>
+              </lem>
+              <reg>Deus</reg>
+            </choice>:
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>
+            <expan>o<ex>mn</ex>i<am>&#x0304;</am>a</expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>e</ex>c<ex>u</ex>l<am>&#x02bc;</am>a</expan>
+              </lem>
+              <reg>sæcula</reg>
+            </choice>
+            <lb n="13" />
+            <choice>
+              <lem>
+                <expan>ſ<ex>e</ex>c<ex>u</ex>l<am>&#x02bc;</am>o<am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sæculorum</reg>
+            </choice>.
+            <expan><hi rend="redbar">A</hi>m<am>&#x0304;</am>e<ex>n</ex></expan>.
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            <expan>ex<ex cert="low">audi</ex></expan>.
+            <hi rend="redbar">E</hi>t
+            <lb n="15" />
+            <choice>
+              <lem>clamoꝛ</lem>
+              <reg>clamor</reg>
+            </choice>.
+            <expan><hi rend="redbar">B</hi><ex>e</ex>n<am>&#x0304;</am><ex>e</ex>dicam<am>ꝰ</am><ex>us</ex></expan>
+            <expan>do<am>&#x00ba;</am><ex>mino</ex></expan>.
+          </ab>
+        
+        
+        <pb n="6r" 
+             facs="img/pages/prayerbook_0025.jpg"/>
+          <ab>
+            <lb n="1" />
+            <hi rend="redbar">D</hi>eo
+            <expan>g<am>&#x1dd3;</am><ex>ratias</ex></expan>.
+            <expan><hi rend="redbar">F</hi>ideliu<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>a<ex>n</ex>i<am>&#x0304;</am><ex>m</ex>e</expan>
+              </lem>
+              <reg>animæ</reg>
+            </choice>
+            <expan><am>ꝑ</am><ex>per</ex></expan>
+            <lb n="2" />
+            <choice>
+              <lem>
+                <expan>mi<am>&#x0304;</am><ex>ſericoꝛdi</ex>aꝫ</expan>
+              </lem>
+              <reg>misericordiam</reg>
+            </choice>
+            <choice>
+              <lem>dei</lem>
+              <reg>Dei</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>req<am>&#x02bc;</am><ex>ui</ex>eſca<am>&#x0304;</am><ex>n</ex>t</expan>
+              </lem>
+              <reg>requiescant</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            pace.
+            <lb n="3" />
+            <hi rend="red">
+              <expan>Do<am>&#x1dd3;</am><ex cert="low">minica</ex></expan>
+              <choice>
+                <lem>
+                  <expan>v<am>&#x1dd3;</am><ex>eſpera</ex>s</expan>
+                </lem>
+                <reg>vesperas</reg>
+              </choice>
+              <expan>a<am>&#x1dd3;</am><ex>ntiphona</ex></expan>.
+            </hi>
+            <choice>
+              <lem><hi rend="bigred">A</hi>ue</lem>
+              <reg>Ave</reg>
+            </choice>
+            <expan>v<am>&#x02bc;</am><ex>ir</ex>ginu<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="4" />
+            <expan>ge<am>&#x0304;</am><ex>m</ex>ma</expan>
+            <expan>Kath<am>&#x02bc;</am><ex>er</ex>ina</expan>
+            <choice>
+              <lem>aue</lem>
+              <reg>ave</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſpo<am>&#x0304;</am><ex>n</ex>-<lb n="5" break="no" />ſa</expan>
+              </lem>
+              <reg>sponsa</reg>
+            </choice>
+            regis
+            <expan>regu<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>gl<am>&#x02bc;</am><ex>oꝛi</ex>oſa</expan>
+              </lem>
+              <reg>gloriosa</reg>
+            </choice>
+            <choice>
+              <lem>aue</lem>
+              <reg>ave</reg>
+            </choice>
+            <lb n="6" />
+            <choice>
+              <lem>viua</lem>
+              <reg>viva</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>christ</ex>i</expan>
+              </lem>
+              <reg>Christi</reg>
+            </choice>
+            <choice>
+              <lem>hoſtia</lem>
+              <reg>hostia</reg>
+            </choice>
+            tua
+            <choice>
+              <lem><expan>ve-<lb n="7" break="no" />n<am>&#x02bc;</am><ex>er</ex>antib</expan><am>&#xa76b;</am><ex>us</ex></lem>
+              <reg>venerantibus</reg>
+            </choice>
+            <expan>p<ex>at</ex>r<am>&#x0304;</am>ocinia</expan>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>m</ex>pet<am>&#x1dd3;</am><ex>ra</ex>-<lb n="8" break="no" />ta</expan>
+              </lem>
+              <reg>impetrata</reg>
+            </choice>
+            <expan>n<am>&#x0304;</am><ex>on</ex></expan>
+            deneges
+            <choice>
+              <lem>ſuffragia</lem>
+              <reg>suffragia</reg>
+            </choice>
+            <lb n="9" />
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">O</hi>ꝛa</lem>
+              <reg>Ora</reg>
+            </choice>.
+            <hi rend="red">
+              <expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>
+              <expan>m<ex>a</ex>t<am>&#x1dd3;</am><ex>utinas</ex></expan>.
+            </hi>
+            <choice>
+              <lem><hi rend="bigblue">P</hi>rude<am>&#x0304;</am><ex>n</ex>s</lem>
+              <reg>Prudens</reg>
+            </choice>
+            <lb n="10" />
+            <expan><am>&#xf158;</am><ex>et</ex></expan>            
+            <expan>vigila<am>&#x0304;</am><ex>n</ex>s</expan>
+            <expan>v<am>&#x02bc;</am><ex>ir</ex>go</expan>
+            <expan>q<am>&#x1dd3;</am><ex>ua</ex>l<am>&#x02bc;</am><ex>is</ex></expan>
+            es
+            <expan>cu<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="11" />
+            <choice>
+              <lem>
+                <expan>ſpo<am>&#x0304;</am><ex>n</ex>ſo</expan>
+              </lem>
+              <reg>sponso</reg>
+            </choice>
+            illo
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            te
+            elegit
+            de
+            <lb n="12" />
+            <expan>m<ex>un</ex>d<am>&#x02bc;</am>o</expan>
+            <expan><am>ꝙ&#x1dd3;</am><ex>quam</ex></expan>
+            <expan>pulch<am>&#x1dd3;</am><ex>ra</ex></expan>
+            <expan><am>ꝙ&#x1dd3;</am><ex>quam</ex></expan>
+            <choice>
+              <lem>mirabi-<lb n="13" break="no" />lis</lem>
+              <reg>mirabilis</reg>
+            </choice>
+            <expan>q<am>&#x1dd3;</am><ex>ua</ex>nta</expan>
+            luce
+            <choice>
+              <lem><expan>ſpectabil<am>&#x02bc;</am><ex>is</ex></expan></lem>
+              <reg>spectabilis</reg>
+            </choice>
+            <lb n="14" />
+            <expan>int<am>&#x02bc;</am><ex>er</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſyo<am>&#x0304;</am><ex>n</ex></expan>
+              </lem>
+              <reg>Sion</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>iuue<am>&#x0304;</am><ex>n</ex>c<ex>u</ex>l<am>&#x02bc;</am>as</expan>
+              </lem>
+              <reg>iuvenculas</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>i<ex>e</ex>r<ex>usa</ex>l<am>&#x02bc;</am><ex>e</ex>m</expan>
+              </lem>
+              <reg>Ierusalem</reg>
+            </choice>
+            <lb n="15" />
+            filias
+            thalamo
+            gaudes
+          </ab>
+        
+        
+        <pb n="6v" 
+             facs="img/pages/prayerbook_0026.jpg"/>
+          <ab>
+            <lb n="1" />
+            regio
+            <expan><am>ↄ</am><ex>con</ex>iu<am>&#x0304;</am><ex>n</ex>cta</expan>
+            dei
+            filio.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>.
+            </hi>
+            <lb n="2" />
+            <expan><hi rend="redbar">A</hi>ddu<ex cert="low">centur</ex></expan>.
+            <hi rend="red">
+              <expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <choice>
+              <lem>
+                <hi rend="bigred">R</hi>ecoꝛdare
+              </lem>
+              <reg>Recordare</reg>
+            </choice>
+            <lb n="3" />
+            <expan>v<am>&#x02bc;</am><ex>ir</ex>go</expan>
+            <expan>m<ex>ate</ex>r<am>&#x0304;</am></expan>
+            <expan>du<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſtet<am>&#x02bc;</am><ex>er</ex>is</expan>
+              </lem>
+              <reg>steteris</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>ſp<ex>e</ex>c<ex>t</ex>u<am>&#x0304;</am></expan>
+              </lem>
+              <reg>conspectu</reg>
+            </choice>
+            <lb n="4" />
+            dei
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <expan>loq<am>&#x1dd3;</am><ex>ua</ex>ris</expan>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <expan>bo<am>&#x0304;</am><ex>n</ex>a</expan>
+            <lb n="5" />
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <choice>
+              <lem><expan>au<am>&#x02bc;</am><ex>er</ex>tas</expan></lem>
+              <reg>avertas</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex>dig<am>&#x1dd3;</am><ex>na</ex>c<ex>i</ex>o<am>&#x0304;</am><ex>n</ex><am>&#xa76b;</am><ex>em</ex></expan>
+              </lem>
+              <reg>indignationem</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſua<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>suam</reg>
+            </choice>
+            <lb n="6" />
+            a 
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>.
+            <hi rend="redbar">A</hi>b
+            hac
+            <expan>fa<am>&#x0304;</am><ex>m</ex>ilia</expan>
+            tu
+            <lb n="7" />
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>picia</expan>
+              </lem>
+              <reg>propitia</reg>
+            </choice>
+            <expan>m<ex>ate</ex>r<am>&#x0304;</am></expan>
+            eximia
+            pelle
+            <lb n="8" />
+            <choice>
+              <lem>vicia</lem>
+              <reg>vitia</reg>
+            </choice>
+            fer
+            remedia
+            reis
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <lb n="9" />
+            via
+            <expan>da<am>&#x0304;</am><ex>n</ex>s</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>p<ex>at</ex>r<am>&#x0304;</am>ia</expan>
+            <choice>
+              <lem>vite</lem>
+              <reg>vitæ</reg>
+            </choice>
+            <choice>
+              <lem>gau-<lb n="10" break="no" />dia</lem>
+              <reg>gaudia</reg>
+            </choice>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex>b<am>&#xa76b;</am><ex>us</ex></expan>
+            dulcia
+            tu
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>co-<lb n="11" break="no" />nia</expan>
+              </lem>
+              <reg>præconia</reg>
+            </choice>
+            laudes
+            <expan>cu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>gl<am>&#x02bc;</am><ex>ori</ex>a</expan>
+            <choice>
+              <lem>ſuſci-<lb n="12" break="no" />pe</lem>
+              <reg>suscipe</reg>
+            </choice>
+            pia.
+            <expan>v<am>&#x02bc;</am><ex>ir</ex>go</expan>
+            <choice>
+              <lem>maria</lem>
+              <reg>Maria</reg>
+            </choice>
+            da
+            <lb n="13" />
+            gaudia
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">O</hi>ꝛa</lem>
+              <reg>Ora</reg>
+            </choice>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <lb n="14" />
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>a</expan>
+              </lem>
+              <reg>sancta</reg>
+            </choice>
+            dei
+            <expan>ge<am>&#x0304;</am><ex>n</ex>it<am>&#x02bc;</am><ex>ri</ex>x</expan>.
+            <choice>
+              <lem><hi rend="redbar">V</hi>t</lem>
+              <reg>Ut</reg>
+            </choice>
+            <expan>dig<am>&#x02bc;</am><ex>ni</ex></expan>
+            <lb n="15" />
+            <expan>efficiam<am>&#xf153;</am><ex>ur</ex></expan>
+            <choice>
+              <lem>
+                <expan><am>ꝓ</am><ex>pro</ex>miſſio<am>&#x0304;</am><ex>n</ex>ib<am>&#xa76b;</am><ex>us</ex></expan>
+              </lem>
+              <reg>promissionibus</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>x</am><ex>christ</ex><am>&#x0365;</am><ex>i</ex></expan>.
+              </lem>
+              <reg>Christi</reg>
+            </choice>
+          </ab>
+        
+        
+        <pb n="7r" 
+             facs="img/pages/prayerbook_0027.jpg"/>
+          <ab>
+            <lb n="1" />
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">E</hi>ſto</lem>
+              <reg>Esto</reg>
+            </choice>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>e</expan>.
+            turris
+            <lb n="2" />
+            <choice>
+              <lem>
+                <expan>foꝛtitudi<am>&#x0304;</am><ex>ni</ex>s</expan>
+              </lem>
+              <reg>fortitudinis</reg>
+            </choice>&#xf161; 
+            <hi rend="redbar">A</hi>
+            facie
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex>imi-<lb n="3" break="no" />ci</expan>
+              </lem>
+              <reg>inimici</reg>
+            </choice>&#xf161;
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            exaudi
+            <choice>
+              <lem><expan>oꝛ<ex>acionem</ex></expan></lem>
+              <reg>orationem</reg>
+            </choice>.
+            <hi rend="floatright"><hi rend="red">
+              <choice>
+                <lem>
+                  <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                </lem>
+                <reg>Oratio</reg>
+              </choice>.
+            </hi></hi>
+            <lb n="4" />
+            <choice>
+              <lem>
+                <hi rend="twoline"><hi rend="blue">P</hi></hi><hi rend="redbar">R</hi>otege
+              </lem>
+              <reg>Protege</reg>
+            </choice>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            <expan>fam<ex>u</ex>l<am>&#x02bc;</am>os</expan>
+            <lb n="5" />
+            tuos
+            <choice>
+              <lem>
+                <expan>ſ<ex>u</ex>b<am>&#x02bc;</am>ſidijs</expan>
+              </lem>
+              <reg>subsidiis</reg>
+            </choice>
+            pacis:
+            <lb n="6" />
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>b<ex>ea</ex>t<am>&#x0304;</am>e</expan>
+              </lem>
+              <reg>beatæ</reg>
+            </choice>
+            <choice>
+              <lem>Marie</lem>
+              <reg>Mariæ</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>em</ex><am>ꝑ</am><ex>per</ex></expan>
+              </lem>
+              <reg>semper</reg>
+            </choice>
+            <expan>v<am>&#x02bc;</am><ex>ir</ex>gi<am>&#x0304;</am><ex>ni</ex>s</expan>
+            <choice>
+              <lem>
+                <expan>p<ex>at</ex>r<am>&#x0304;</am>o-<lb n="7" break="no" />cinijs</expan>
+              </lem>
+              <reg>patrociniis</reg>
+            </choice> 
+            <expan><am>ↄ</am><ex>con</ex>fide<am>&#x0304;</am><ex>n</ex>tes</expan>&#xf161;
+            a
+            <expan>cu<am>&#x0304;</am><ex>n</ex>ctis</expan>
+            <lb n="8" />
+            <choice>
+              <lem>
+                <expan>hoſtib<am>&#xa76b;</am><ex>us</ex></expan>
+              </lem>
+              <reg>hostibus</reg>
+            </choice>
+            redde
+            <choice>
+              <lem>ſecuros</lem>
+              <reg>securos</reg>
+            </choice>:
+            <hi rend="redbar"><expan><am>Ꝑ</am><ex>Per</ex></expan></hi>.
+            <lb n="9" />
+            <hi rend="floatright"><hi rend="red">
+              <choice>
+                <lem>
+                  <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                </lem>
+                <reg>Oratio</reg>
+              </choice>.
+            </hi></hi>
+            <choice>
+              <lem>
+                <expan><hi rend="twoline"><hi rend="red">E</hi></hi><hi rend="redbar">C</hi>cl<am>&#x02bc;</am><ex>esi</ex>e</expan>
+              </lem>
+              <reg>Ecclesiæ</reg>
+            </choice>
+            <choice>
+              <lem>tue</lem>
+              <reg>tuæ</reg>
+            </choice>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            <lb n="10" />
+            <expan>p<am>&#x0304;</am><ex>re</ex>ces</expan>
+            <expan>placat<am>ꝰ</am><ex>us</ex></expan>
+            <choice>
+              <lem>admit-<lb n="11" break="no" />te</lem>
+              <reg>admitte</reg>
+            </choice>:
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <choice>
+              <lem>deſtructis</lem>
+              <reg>destructis</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>adu<am>&#x02bc;</am><ex>er</ex>ſita-<lb n="12" break="no" />tib<am>&#xa76b;</am><ex>us</ex></expan>
+              </lem>
+              <reg>adversitatibus</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>erroꝛib<am>&#xa76b;</am><ex>us</ex></expan>
+              </lem>
+              <reg>erroribus</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>vniu<am>&#x02bc;</am><ex>er</ex>ſis</expan>
+              </lem>
+              <reg>universis</reg>
+              </choice>&#xf161;
+            <lb n="13" />
+            <choice>
+              <lem>
+                <expan>ſec<am>&#xf153;</am><ex>ur</ex>a</expan>
+              </lem>
+              <reg>secura</reg>
+            </choice>
+            <expan>t<am>&#x02bc;</am><ex>ibi</ex></expan>
+            <choice>
+              <lem>ſeruiat</lem>
+              <reg>serviat</reg>
+            </choice>
+            <expan>lib<am>&#x02bc;</am><ex>er</ex>tate</expan>:
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <lb n="14" />
+            <expan>fam<ex>u</ex>l<am>&#x02bc;</am><ex>u</ex>m</expan>
+            <expan>tuu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>papa<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am><ex>u</ex>m</expan>
+            <lb n="15" />
+            <expan>atq<am>&#xa76b;</am><ex>ue</ex></expan>
+            <choice>
+              <lem>
+                <expan>p<am>&#x0304;</am><ex>re</ex>latos</expan>
+              </lem>
+              <reg>prælatos</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>p<am>&#x0304;</am><ex>ri</ex>ncipes</expan>
+          </ab>
+        
+        
+        <pb n="7v" 
+             facs="img/pages/prayerbook_0028.jpg"/>
+          <ab>
+            <lb n="1" />
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am>os</expan>.
+            <choice>
+              <lem>vna</lem>
+              <reg>una</reg>
+            </choice>
+            <expan>cu<am>&#x0304;</am><ex>m</ex></expan>
+            grege
+            <choice>
+              <lem>ſibi</lem>
+              <reg>sibi</reg>
+            </choice>
+            <lb n="2" />
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>com</ex>miſſo</expan>
+              </lem>
+              <reg>commisso</reg>
+            </choice>.
+            ab
+            <expan>o<am>&#x0304;</am><ex>mn</ex>i</expan>
+            <choice>
+              <lem>
+                <expan>adu<am>&#x02bc;</am><ex>er</ex>ſita-<lb n="3" break="no" />te</expan>
+              </lem>
+              <reg>adversitate</reg>
+            </choice>
+            <choice>
+              <lem>cuſtodi</lem>
+              <reg>custodi</reg>
+            </choice>:
+            <add place="overstrike">ac</add>
+            dirige
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>via<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="4" />
+            <choice>
+              <lem>ſalutis</lem>
+              <reg>salutis</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>et<am>&#x02bc;</am><ex>er</ex>ne</expan>
+              </lem>
+              <reg>æternæ</reg>
+            </choice>.
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>pace<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>tua<am>&#x0304;</am><ex>m</ex></expan>
+            <lb n="5" />
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am>is</expan>
+            <expan><am>ↄ</am><ex>con</ex>cede</expan>
+            <expan>t<ex>em</ex><am>ꝑ</am><ex>por</ex>ib<am>&#xa76b;</am><ex>us</ex></expan>:
+            <hi rend="redbar"><expan><am>Ꝑ</am><ex>Per</ex></expan></hi>.
+            <hi rend="red">
+              <expan>An<am>&#x1dd3;</am><ex>tiphona</ex></expan>.
+            </hi>
+            <lb n="6" />
+            <hi rend="bigblue">O</hi>
+            <choice>
+              <lem>
+                <expan>ſac<am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sacrum</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan><am>ↄ</am><ex>con</ex>uiuiu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>convivium</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>q<am>&#x0366;</am><ex>uo</ex></expan>
+            <choice>
+              <lem>
+                <expan><am>xp&#x0304;</am><ex>chris</ex>t<ex>us</ex></expan>
+              </lem>
+              <reg>Christus</reg>
+            </choice>
+            <lb n="7" />
+            <choice>
+              <lem>
+                <expan>ſu<am>&#x0304;</am><ex>m</ex>it<am>&#xf153;</am><ex>ur</ex></expan>
+              </lem>
+              <reg>sumitur</reg>
+            </choice>
+            <expan>recolit<am>&#xf153;</am><ex>ur</ex></expan>
+            <choice>
+              <lem>
+                <expan>me<am>&#x0304;</am><ex>m</ex>oꝛia</expan>
+              </lem>
+              <reg>memoria</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>paſ-<lb n="8" break="no" />ſio<am>&#x0304;</am><ex>n</ex>is</expan>
+              </lem>
+              <reg>passionis</reg>
+            </choice>
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>
+            <expan>me<am>&#x0304;</am><ex>n</ex>s</expan>
+            <expan>i<am>&#x0304;</am><ex>m</ex>plet<am>&#xf153;</am><ex>ur</ex></expan>
+            <expan>gr<am>&#x0304;</am><ex>ati</ex>a</expan>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan>fut<am>&#xf153;</am><ex>ur</ex>e</expan>
+              </lem>
+              <reg>futuræ</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>gl<am>&#x02bc;</am><ex>ori</ex>e</expan>
+              </lem>
+              <reg>gloriæ</reg>
+            </choice>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <expan>pign<am>ꝰ</am><ex>us</ex></expan>
+            <expan>dat<am>&#xf153;</am><ex>ur</ex></expan>
+            <lb n="10" />
+            <expan>all<am>&#x02bc;</am><ex>elui</ex>a</expan>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <expan><hi rend="redbar">P</hi>ane<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>celi</lem>
+              <reg>cæli</reg>
+            </choice>.
+            dedit
+            <lb n="11" />
+            eis&#xf161;
+            <expan><hi rend="redbar">P</hi>ane<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>a<am>&#x0304;</am><ex>n</ex>g<ex>e</ex>l<am>&#x02bc;</am>o<am>ꝝ</am><ex>rum</ex></expan>
+            <choice>
+              <lem>
+                <expan>ma<am>&#x0304;</am><ex>n</ex>du-<lb n="12" break="no" />cauit</expan>
+              </lem>
+              <reg>manducavit</reg>
+            </choice>
+            <expan>ho<am>&#x0304;</am><ex>mo</ex></expan>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">O</hi>ꝛa</lem>
+              <reg>Ora</reg>
+            </choice>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <lb n="13" />
+            <expan>b<ex>ea</ex>t<am>&#x0304;</am>a</expan>
+            <expan><hi rend="redbar">K</hi>ath<am>&#x02bc;</am><ex>er</ex>i<am>&#x0304;</am><ex>n</ex>a</expan>.
+            <choice>
+              <lem><hi rend="redbar">V</hi>t</lem>
+              <reg>Ut</reg>
+            </choice>
+            <expan>dig<am>&#x02bc;</am><ex>ni</ex></expan>.
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            <lb n="14" />
+            <hi rend="floatright"><expan>exau<ex>di</ex></expan>.</hi>
+            <hi rend="floatright"><hi rend="red">
+              <choice>
+                <lem>
+                  <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                </lem>
+                <reg>Oratio</reg>
+              </choice>.&#x00a0;
+            </hi></hi>
+            <expan><hi rend="twoline"><hi rend="red">D</hi></hi><hi rend="redbar">E</hi><am>ꝰ</am><ex>us</ex></expan>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <lb n="15" />
+            <choice>
+              <lem>
+                <expan>ſ<ex>u</ex>b<am>&#x02bc;</am></expan>
+              </lem>
+              <reg>sub</reg>
+            </choice>
+            <choice>
+              <lem> 
+                <expan>ſac<am>&#x1dd3;</am><ex>ra</ex>m<am>&#x0304;</am><ex>en</ex>to</expan>
+              </lem>
+              <reg>sacramento</reg>
+            </choice>
+            mirabili
+          </ab>
+        
+        
+        <pb n="8r" 
+             facs="img/pages/prayerbook_0029.jpg"/>
+          <ab>
+            <lb n="1" />
+            <choice>
+              <lem>
+                <expan>paſſio<am>&#x0304;</am><ex>n</ex>is</expan>
+              </lem>
+              <reg>passionis</reg>
+            </choice>
+            <choice>
+              <lem>tue</lem>
+              <reg>tuæ</reg>
+            </choice>.
+            <choice>
+              <lem>
+                <expan>me<am>&#x0304;</am><ex>m</ex>oꝛia<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>memoriam</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>re-<lb n="2" break="no" />liq<am>&#x02bc;</am><ex>ui</ex>ſti</expan>
+              </lem>
+              <reg>reliquisti</reg>
+            </choice>:
+            <expan>t<am>&#x02bc;</am><ex>ri</ex>bue</expan>
+            <expan>q<am>&#x0304;</am><ex>uæsumu</ex>s</expan>.
+            ita
+            nos
+            <lb n="3" />
+            <choice>
+              <lem>
+                <expan>coꝛ<am>ꝑ</am><ex>por</ex>is</expan>
+              </lem>
+              <reg>corporis</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſa<am>&#x0304;</am><ex>n</ex>gui<am>&#x0304;</am><ex>ni</ex>s</expan>
+              </lem>
+              <reg>sanguinis</reg>
+            </choice>
+            tui
+            <choice>
+              <lem>
+                <expan>ſac<am>&#x1dd3;</am><ex>ra</ex></expan>
+              </lem>
+              <reg>sacra</reg>
+            </choice>
+            <lb n="4" />
+            <choice>
+              <lem>
+                <expan>miſt<am>&#x02bc;</am><ex>er</ex>ia</expan>
+              </lem>
+              <reg>mysteria</reg>
+            </choice>
+            <expan>ven<am>&#x02bc;</am><ex>er</ex>ari</expan>
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>rede<am>&#x0304;</am><ex>m</ex>p-<lb n="5" break="no" />c<ex>i</ex>o<am>&#x0304;</am><ex>n</ex>is</expan>
+              </lem>
+              <reg>redemptionis</reg>
+            </choice>
+            <choice>
+              <lem>tue</lem>
+              <reg>tuæ</reg>
+            </choice>
+            <expan>fructu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            <choice>
+              <lem>
+                <expan>iu-<lb n="6" break="no" />git<am>&#x02bc;</am><ex>er</ex></expan>
+              </lem>
+              <reg>iugiter</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſe<am>&#x0304;</am><ex>n</ex>ciam<am>ꝰ</am><ex>us</ex></expan>
+              </lem>
+              <reg>sentiamus</reg>
+            </choice>.
+            <hi rend="red">
+              <choice>
+                <lem>
+                  <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                </lem>
+                <reg>Oratio</reg>
+                </choice>.
+            </hi>
+            <expan><hi rend="redbar">D</hi><am>&#x02bc;</am><ex>eu</ex>s</expan>
+            <expan>q<am>&#x02bc;</am><ex>ui</ex></expan>
+            <lb n="7" />
+            <choice>
+              <lem>dediſti</lem>
+              <reg>dedisti</reg>
+            </choice>
+            <expan>lege<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>moyſi</lem>
+              <reg>Moysi</reg>
+            </choice>.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="bigblue">P</hi>re-<lb n="8" break="no" />cioſa</lem>
+              <reg>Pretiosa</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem> 
+                <expan><am>ↄ</am><ex>con</ex>ſp<ex>e</ex>c<ex>t</ex>u<am>&#x0304;</am></expan>
+              </lem>
+              <reg>conspectu</reg>
+            </choice>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>i</expan>&#xf161;
+            <choice>
+              <lem><hi rend="redbar">M</hi>oꝛs</lem>
+              <reg>Mors</reg>
+            </choice>
+            <lb n="9" />
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<ex>t</ex>o<am>&#x0304;</am><am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sanctorum</reg>
+            </choice>
+            <expan>ei<am>ꝰ</am><ex>us</ex></expan>.
+            <expan><hi rend="bigred">S</hi><ex>an</ex>c<am>&#x0304;</am><ex>t</ex>a</expan>
+            <choice>
+              <lem>maria</lem>
+              <reg>Maria</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>o<am>&#x0304;</am><ex>mni</ex>s</expan>
+            <lb n="10" />
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>i</expan>
+              </lem>
+              <reg>sancti</reg>
+            </choice>
+            <expan>i<am>&#x0304;</am><ex>n</ex>t<am>&#x02bc;</am><ex>er</ex>ceda<am>&#x0304;</am><ex>n</ex>t</expan>
+            <expan><am>ꝓ</am><ex>pro</ex></expan>
+            <expan>nob<am>&#x02bc;</am><ex>is</ex></expan>
+            ad
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am><am>&#xa76b;</am><ex>um</ex></expan>:
+            <lb n="11" />
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <expan>me<am>&#x02bc;</am><ex>re</ex>am<am>&#xf153;</am><ex>ur</ex></expan>
+            <choice>
+              <lem><expan>adiuua<am>&#x02bc;</am><ex>r</ex>i</expan></lem>
+              <reg>adiuvari</reg>
+            </choice>
+            ab
+            <lb n="12" />
+            eo.
+            <expan><hi rend="redbar">Q</hi><am>&#x02bc;</am><ex>ui</ex></expan>
+            <choice>
+              <lem>viuit</lem>
+              <reg>vivit</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>reg<am>&#x1dd3;</am><ex>na</ex>t</expan>.
+            <hi rend="redbar">
+              <expan><am>Ꝑ</am><ex>Per</ex></expan>
+            </hi>
+            <lb n="13" />
+            <expan>o<am>&#x0304;</am><ex>mn</ex>ia</expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>e</ex>c<ex>u</ex>l<am>&#x02bc;</am>a</expan>
+              </lem>
+              <reg>sæcula</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſ<ex>e</ex>c<ex>u</ex>l<am>&#x02bc;</am>o<am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>sæculorum</reg>
+            </choice>&#xf161;
+            <hi rend="redbar">A</hi>men.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>.
+            </hi>
+            <lb n="14" />
+            <expan><hi rend="redbar">D</hi><am>&#x02bc;</am><ex>eu</ex>s</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem>
+                <expan>adiutoꝛu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg>adiutorum</reg>
+            </choice>
+            <expan>meu<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n</ex><supplied reason="lost">-</supplied><lb n="15" break="no" />te<am>&#x0304;</am><ex>n</ex>de</expan>
+              </lem>
+              <reg>intende</reg>
+            </choice>.
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            ad.
+            <expan><hi rend="redbar">D</hi><am>&#x02bc;</am><ex>eu</ex>s</expan>
+            in
+            <expan>ad<ex>iutorum</ex></expan>.
+          </ab>
+        
+        
+        <pb n="8v" 
+             facs="img/pages/prayerbook_0030.jpg"/>
+          <ab>
+            <lb n="1" />
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>e</expan>.
+            <expan><hi rend="redbar">D</hi><am>&#x02bc;</am><ex>eu</ex>s</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>ad<ex>iutorum</ex></expan>.
+            <expan><hi rend="redbar">D</hi><ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            ad.
+            <lb n="2" />
+            <expan><hi rend="redbar">G</hi>l<am>&#x02bc;</am><ex>ori</ex>a</expan>
+            <expan>p<ex>at</ex>r<am>&#x0304;</am>i</expan>.
+            <hi rend="redbar"><expan>K<ex>yrie eleison</ex></expan></hi>.
+            <hi rend="redbar"><expan><am>X</am><ex>Christe eleison</ex></expan></hi>.
+            <hi rend="redbar"><expan>K<ex>yrie eleison</ex></expan></hi>.
+            <choice>
+              <lem>
+                <expan><hi rend="redbar">P</hi><ex>ate</ex>ꝛ<am>&#x0304;</am></expan>
+              </lem>
+              <reg>Pater</reg>
+            </choice>.
+            <hi rend="redbar">E</hi>t
+            <lb n="3" />
+            ne.
+		        <hi rend="red">
+              <expan>V<am>&#x02bc;</am><ex>ersiculus</ex></expan>
+            </hi>
+            <choice>
+              <lem><hi rend="redbar">R</hi>eſpice</lem>
+              <reg>Respice</reg>
+            </choice>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <choice>
+              <lem><expan>ſer-<lb n="4" break="no" />uos</expan></lem>
+              <reg>servos</reg>
+            </choice>
+            tuos.
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>o<am>ꝑ</am><ex>per</ex>a</expan>
+            tua
+            <lb n="5" />
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            dirige
+            filios
+            <expan>eo<am>ꝝ</am><ex>rum</ex></expan>.
+            <hi rend="redbar">E</hi>t
+            <lb n="6" />
+            <choice>
+              <lem>ſit</lem>
+              <reg>sit</reg>
+            </choice>
+            <choice>
+              <lem>
+                <expan>ſple<am>&#x0304;</am><ex>n</ex>doꝛ</expan>
+              </lem>
+              <reg>splendor</reg>
+            </choice>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>i</expan>
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am>i</expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>upe</ex>r<am>&#x0304;</am></expan>
+              </lem>
+              <reg>super</reg>
+            </choice>
+            <lb n="7" />
+            nos
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>o<am>ꝑ</am><ex>per</ex>a</expan>
+            <expan>manuu<am>&#x0304;</am><ex>m</ex></expan>
+            <choice>
+              <lem>
+                <expan>n<ex>ost</ex>r<am>&#x0304;</am>a-<lb n="8" /><am>ꝝ</am><ex>rum</ex></expan>
+              </lem>
+              <reg>nostrarum</reg>
+            </choice>
+            dirige
+            <choice>
+              <lem>
+                <expan>ſ<ex>upe</ex>r<am>&#x0304;</am></expan>
+              </lem>
+              <reg>super</reg>
+            </choice>
+            nos:
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <expan>op<am>ꝰ</am><ex>us</ex></expan>
+            <lb n="9" />
+            <expan>manuu<am>&#x0304;</am><ex>m</ex></expan>
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am>a<am>ꝝ</am><ex>rum</ex></expan>
+            dirige&#xf161;
+            <lb n="10" />
+            <hi rend="red">
+              <choice>
+                <lem>
+                  <expan>Oꝛ<am>&#x0304;</am><ex>aci</ex>o</expan>
+                </lem>
+                <reg>Oratio</reg>
+                </choice>
+            </hi>
+            <expan><hi rend="bigblue">D</hi>irige<am>&#x02bc;</am><ex>re</ex></expan>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>ificare</expan>
+              </lem>
+              <reg>sanctificare</reg>
+            </choice>
+            <lb n="11" />
+            <expan>dign<am>&#x02bc;</am><ex>er</ex>is</expan>
+            <expan>d<ex>omi</ex>n<am>&#x0304;</am>e</expan>
+            <choice>
+              <lem>
+                <expan>ſ<ex>an</ex>c<am>&#x0304;</am><ex>t</ex>e</expan>
+              </lem>
+              <reg>sancte</reg>
+            </choice>
+            <expan>p<ex>ate</ex>r<am>&#x0304;</am></expan>
+            <expan>o<ex>mni</ex>p<am>&#x0304;</am><ex>oten</ex>s</expan>
+            <lb n="12" />
+            <choice>
+              <lem>
+                <expan>et<am>&#x02bc;</am><ex>er</ex>ne</expan>
+              </lem>
+              <reg>æterne</reg>
+            </choice>
+            <expan>d<am>&#x02bc;</am><ex>eu</ex>s</expan>:
+            hodie
+            <choice>
+              <lem>coꝛda</lem>
+              <reg>corda</reg>
+            </choice>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <lb n="13" />
+            <choice>
+              <lem>
+                <expan>coꝛ<am>ꝑ</am><ex>por</ex>a</expan>
+              </lem>
+              <reg>corpora</reg>
+            </choice>
+            <expan>n<ex>ost</ex>r<am>&#x0304;</am>a</expan>
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            lege
+            tua.
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <lb n="14" />
+            <expan>i<am>&#x0304;</am><ex>n</ex></expan>
+            <expan>o<am>ꝑ</am><ex>per</ex>ib<am>&#xa76b;</am><ex>us</ex></expan>
+            <expan>ma<am>&#x0304;</am><ex>n</ex>dato<am>ꝝ</am><ex>rum</ex></expan>
+            <expan>tuo<am>ꝝ</am><ex>rum</ex></expan>&#xf161;
+            <lb n="15" />
+            <choice>
+              <lem>vt</lem>
+              <reg>ut</reg>
+            </choice>
+            <expan>h<am>&#x02bc;</am><ex>ic</ex></expan>
+            <expan><am>&#xf158;</am><ex>et</ex></expan>
+            <choice>
+              <lem>
+                <expan>i<am>&#x0304;</am><ex>n </ex>et<am>&#x02bc;</am><ex>er</ex>nu<am>&#x0304;</am><ex>m</ex></expan>
+              </lem>
+              <reg><w>in</w> <w>æternum</w></reg>
+            </choice>
+            te
+            <choice>
+              <lem>
+                <expan>auxilia<am>&#x0304;</am><ex>n</ex>-</expan>
+              </lem>
+              <reg>auxiliante</reg>
+            </choice>
+          </ab>
+        
+      
+    </body>
+  
+  
+    </text>
+</TEI>

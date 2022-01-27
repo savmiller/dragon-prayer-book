@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_customization.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_customization.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dragon Prayer Book Markup Language</title>
+            <author>Julia Flanders</author>
+            <editor><!-- editor or secondary author --></editor>
+         </titleStmt>
+         <publicationStmt>
+        <p>Unpublished draft</p>
+      </publicationStmt>
+         <sourceDesc>
+            <p>born digital</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <head>Dragon Prayer Book Markup Language</head>
+         <p>This schema is intended to support simple transcription of medieval manuscripts.</p>
+         <schemaSpec ident="DPB">
+            <desc>This schema is intended to support simple transcription of medieval manuscripts.</desc>
+            <moduleRef key="tei"/>
+            <moduleRef key="core" include="abbr add author bibl choice corr date del editor emph expan foreign gap graphic head hi l lb lg milestone name note orig p pb publisher reg resp respStmt rs sic title unclear"/>
+            <moduleRef key="header" include="availability editorialDecl encodingDesc extent fileDesc handNote idno langUsage language notesStmt profileDesc projectDesc publicationStmt revisionDesc scriptNote sourceDesc teiHeader titleStmt"/>
+            <moduleRef key="textstructure" include="TEI div back body front text trailer"/>
+            <moduleRef key="figures" include="figure figDesc notatedMusic"/>
+            <moduleRef key="linking" include="ab seg"/>
+            <moduleRef key="transcr" include="damage handNotes handShift supplied"/>
+            <moduleRef key="msdescription" include="handDesc msDesc msIdentifier physDesc repository"></moduleRef>
+            <!-- ODD-specific elements like <elementSpec> and <classSpec>;
+             or references to <specGrp>s defined above using <specGrpRef>. -->
+         </schemaSpec>
+      </body>
+  </text>
+</TEI>
