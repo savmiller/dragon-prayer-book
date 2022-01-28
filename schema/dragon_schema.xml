@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Dragon Prayer Book Markup Language</title>
-            <author>Julia Flanders</author>
+            <author xml:id="jhf">Julia Flanders</author>
             <editor><!-- editor or secondary author --></editor>
          </titleStmt>
          <publicationStmt>
@@ -17,11 +17,15 @@
             <p>born digital</p>
          </sourceDesc>
       </fileDesc>
+     <revisionDesc>
+        <change when="2022-01-27" who="jhf">Added <gi>div</gi> as a possible root element to support fragment encoding; added constraints on <att>type</att> for <gi>div</gi> and <gi>ab</gi>; removed <gi>abbr</gi> and <gi>expan</gi>.</change>
+        <change when="2021-12-10" who="jhf">Created initial customization file for testing</change>
+     </revisionDesc>
   </teiHeader>
   <text>
       <body>
          <head>Dragon Prayer Book Markup Language</head>
-         <p>This schema is intended to support simple transcription of medieval manuscripts.</p>
+         <p>This schema is intended to support simple transcription of medieval manuscripts for the Dragon Prayer Book project at Northeastern University.</p>
          <schemaSpec ident="DPB" start="TEI div">
             <desc>This schema is intended to support simple transcription of medieval manuscripts.</desc>
             <moduleRef key="tei"/>
