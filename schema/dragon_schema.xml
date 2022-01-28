@@ -22,10 +22,10 @@
       <body>
          <head>Dragon Prayer Book Markup Language</head>
          <p>This schema is intended to support simple transcription of medieval manuscripts.</p>
-         <schemaSpec ident="DPB">
+         <schemaSpec ident="DPB" start="TEI div">
             <desc>This schema is intended to support simple transcription of medieval manuscripts.</desc>
             <moduleRef key="tei"/>
-            <moduleRef key="core" include="abbr add author bibl choice corr date del editor emph expan foreign gap graphic head hi l lb lg milestone name note orig p pb publisher reg resp respStmt rs sic title unclear"/>
+            <moduleRef key="core" include="add author bibl choice corr date del editor emph foreign gap graphic head hi l lb lg milestone name note orig p pb publisher reg resp respStmt rs sic title unclear"/>
             <moduleRef key="header" include="availability editorialDecl encodingDesc extent fileDesc handNote idno langUsage language notesStmt profileDesc projectDesc publicationStmt revisionDesc scriptNote sourceDesc teiHeader titleStmt"/>
             <moduleRef key="textstructure" include="TEI div back body front text trailer"/>
             <moduleRef key="figures" include="figure figDesc notatedMusic"/>
@@ -34,6 +34,27 @@
             <moduleRef key="msdescription" include="handDesc msDesc msIdentifier physDesc repository"></moduleRef>
             <!-- ODD-specific elements like <elementSpec> and <classSpec>;
              or references to <specGrp>s defined above using <specGrpRef>. -->
+            
+            <elementSpec ident="ab" module="linking" mode="change">
+               <attList>
+                  <attDef ident="type" mode="replace">
+                     <valList type="closed">
+                        <valItem ident="transcription"><desc>The transcription of the original source</desc></valItem>
+                        <valItem ident="translation"><desc>The text of the English translation</desc></valItem>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
+            <elementSpec ident="div" module="textstructure" mode="change">
+               <attList>
+                  <attDef ident="type" mode="replace">
+                     <valList type="closed">
+                        <valItem ident="page"><desc>Contains a transcription and translation of a single page of the source</desc></valItem>
+                     </valList>
+                  </attDef>
+               </attList>
+            </elementSpec>
+            
          </schemaSpec>
       </body>
   </text>
