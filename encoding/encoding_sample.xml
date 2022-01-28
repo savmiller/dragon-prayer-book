@@ -33,8 +33,8 @@
     </teiHeader>
     <text>
        <body>
-          <div type="page" n="1r" facs="img/pages/prayerbook_0015.jpg">
-            <ab type="transcription" xml:id="page_1r_transcription" corresp="page_1r_translation">
+          <div type="page" xml:id="p_0015" facs="p_0015.jpg">
+            <ab type="transcription" xml:id="p_0015_transcription" corresp="p_0015_translation">
             <lb n="1"/>Ad
               <choice>
                 <!-- use <orig> to represent the text as it appears on the page, 
@@ -103,7 +103,7 @@
               </choice>
             </note>            
             </ab>
-            <ab type="translation" xml:lang="en" xml:id="page_1r_translation" corresp="page_1r_transcription">
+            <ab type="translation" xml:lang="en" xml:id="p_0015_translation" corresp="p_0015_transcription">
               <!-- include the text of the translation here -->
               
             </ab>
