@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<!-- Enter the 4-digit page number in the value of @xml:id and @facs: e.g. p_0014, p_0014.jpg -->
+<div type="page" xml:id="p0015" facs="p0015.jpg" xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <!-- enter the leaf number in the @xml:id and @corresp: e.g. page_1r_transcription, page_1r_translation -->
+  <ab type="transcription" xml:id="p0015_transcription" corresp="p0015_translation">
+    <lb n="1"/>
+    <!-- Enter the text of the transcription here -->
+    
+    
+  </ab>
+  <ab type="translation" xml:lang="en" xml:id="p0015_translation" corresp="p0015_transcription">
+    <!-- Enter the text of the translation here -->
+    
+    
+  </ab>
+</div>
