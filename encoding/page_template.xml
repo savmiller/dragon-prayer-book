@@ -2,16 +2,16 @@
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <!-- Enter the 4-digit page number in the value of @xml:id and @facs: e.g. p_0014, p_0014.jpg -->
-<div type="page" xml:id="p_XXXX" facs="p_XXXX.jpg" xmlns="http://www.tei-c.org/ns/1.0">
+<div type="page" xml:id="pXXXX" facs="pXXXX.jpg" xmlns="http://www.tei-c.org/ns/1.0">
   
   <!-- enter the leaf number in the @xml:id and @corresp: e.g. page_1r_transcription, page_1r_translation -->
-  <ab type="transcription" xml:id="p_XXXX_transcription" corresp="p_XXXX_translation">
+  <ab type="transcription" xml:id="pXXXX_transcription" corresp="pXXXX_translation">
     <lb n="1"/>
     <!-- Enter the text of the transcription here -->
     
     
   </ab>
-  <ab type="translation" xml:lang="en" xml:id="p_XXXX_translation" corresp="p_XXXX_transcription">
+  <ab type="translation" xml:lang="en" xml:id="pXXXX_translation" corresp="pXXXX_transcription">
     <!-- Enter the text of the translation here -->
     
     

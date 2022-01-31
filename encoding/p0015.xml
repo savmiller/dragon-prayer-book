@@ -6,8 +6,22 @@
   
   <!-- enter the leaf number in the @xml:id and @corresp: e.g. page_1r_transcription, page_1r_translation -->
   <ab type="transcription" xml:id="p0015_transcription" corresp="p0015_translation">
-    <lb n="1"/>
-    <!-- Enter the text of the transcription here -->
+    <lb/>
+    1   Ad v(espera)s
+2   Memo(ra)
+3   Regali ex
+4   p(ro)genie
+5   maria
+6   exorta re⸗
+7   fulget cui(us)
+8   precibus nos adiuvari me(n)⸗
+9   te et sp(irit)u devotissime pos⸗
+10 cimus V(espers?) Ora p(ro) nobis
+11 s(an)c(t)a dei genit(ri)x Ut dig(ni) effi⸗
+12 ciamur p(ro)missio(n)ib(us) (christi) Zu
+13 mette(n) A(ntiphona) Sub tuu(m) p(re)sidiu(m)
+14 co(n)fugim(us) sancta dei genit(ri)x 
+15 n(ost)ras d[epre]catio(n)es ne despi⸗
     
     
   </ab>

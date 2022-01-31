@@ -33,35 +33,35 @@
     </teiHeader>
     <text>
        <body>
-          <div type="page" xml:id="p_0015" facs="p_0015.jpg">
-            <ab type="transcription" xml:id="p_0015_transcription" corresp="p_0015_translation">
-            <lb n="1"/>Ad
+          <div type="page" xml:id="p0015" facs="p0015.jpg">
+            <ab type="transcription" xml:id="p0015_transcription" corresp="p0015_translation">
+            <lb/>Ad
               <choice>
                 <!-- use <orig> to represent the text as it appears on the page, 
                   and <reg> for the fully regularized and expanded version -->
                   <orig>v&#x1dd3;s</orig>                
                   <reg>vesperas</reg>
               </choice>
-		        <lb n="2"/>
+		        <lb/>
               <choice>
                 <!-- if any text is unclear, the <unclear> markup should only be present in the <orig> version -->
                   <orig>Memo&#x1dd3;<unclear>ria</unclear></orig>
                   <reg>Memoria</reg>
               </choice>
             
-          <lb n="3"/>
+          <lb/>
 		        Regali ex
-		      <lb n="4" />
+		      <lb/>
             <choice>
               <orig>ꝓgenie</orig>
               <reg>progenie</reg>
             </choice>
-          <lb n="5" />
+          <lb/>
             <choice>
               <orig>mᴀriᴀ</orig>
               <reg>Maria</reg>
             </choice>
-	        <lb n="6" />
+	        <lb/>
 		        <choice>
               <orig>exoꝛta</orig>
               <reg>exorta</reg>
@@ -69,15 +69,15 @@
             <!-- When a line break falls inside a word, use break="no" to show that the word itself is unbroken. 
                  -->
             <choice>
-              <orig>re-<lb n="7" break="no"/>fulget
+              <orig>re-<lb break="no"/>fulget
               </orig>
-              <reg>re<lb n="7" break="no"/>fulget</reg>
+              <reg>re<lb break="no"/>fulget</reg>
             </choice>
             <choice>
               <orig>cuiꝰ</orig>
               <reg>cuius</reg>
             </choice>
-		        <lb n="8" />
+		        <lb/>
               <!-- use <gap> to mark any places where words or letters are completely illegible -->
             precibus <gap/>
             
@@ -89,13 +89,13 @@
             
             <!-- use <supplied> in cases where missing or illegibly deleted or damaged letters are supplied, -->
             <choice>
-              <orig>me&#x0304;<supplied>-</supplied><lb n="9" break="no"/>te</orig>
-              <reg>men<lb n="9" break="no"/>te</reg>
+              <orig>me&#x0304;<supplied>-</supplied><lb break="no"/>te</orig>
+              <reg>men<lb break="no"/>te</reg>
             </choice>
             et
             
             <!-- skipping ahead to p. 1v -->
-            <lb n="6" />
+            <lb/>
             <note type="marginalia">
               <choice>
                 <orig>oꝛ&#x0304;</orig>
@@ -103,7 +103,7 @@
               </choice>
             </note>            
             </ab>
-            <ab type="translation" xml:lang="en" xml:id="p_0015_translation" corresp="p_0015_transcription">
+            <ab type="translation" xml:lang="en" xml:id="p0015_translation" corresp="p0015_transcription">
               <!-- include the text of the translation here -->
               
             </ab>
