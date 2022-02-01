@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<!-- Enter the 4-digit page number in the value of @xml:id and @facs: e.g. p_0014, p_0014.jpg -->
+<div type="page" xml:id="p0016" facs="p0016.jpg" xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <!-- enter the leaf number in the @xml:id and @corresp: e.g. page_1r_transcription, page_1r_translation -->
+  <ab type="transcription" xml:id="p0016_transcription" corresp="p0016_translation">
+    <lb/>cias ni <choice><orig>nitatib</orig><reg>necessitatibus</reg></choice> sed a <choice><orig>picu
+    <lb break="no"/>lis</orig><reg>pericu
+    <lb break="no"/>lis</reg></choice> <choice><orig>cuctis</orig><reg>cunctis</reg></choice> <choice><orig>liba</orig><reg>libera</reg></choice> nos <choice><orig>semp<reg>semper</reg></orig></choice> <choice><orig>v<lb break="no"/>go</orig><reg>vir<lb break="no"/>go</reg></choice>
+    <choice><orig>bndcta</orig><reg>benedicta</reg></choice> V(espers) Post p(ar)tum 
+    <lb/>v(ir)go i(n)violata p(er)ma(n)sisti 
+    <lb/>Dei genit(ri)x i(n)tercede p(ro) nob(is)
+    <lb/>PRotege d(omi)ne famu or(emus)
+    <lb/>los tuos subsidiis pa
+    <lb break="no"/>cis : (et) b(ea)te marie semp(er) vir
+    <lb break="no"/>ginis p(at)rociniis co(n)fide(n)tes 
+    <lb/>a cu(n)ctis hostibus redde se⸗ 
+    <lb break="no"/>curos P(er) an(tiphona) Magne p(ate)r 
+    <lb/>s(an)c(t)e d(omi)nice mortis hora nos 
+    <lb/>tecum suscipe (et) hic semp(er)
+    <lb/>nos pie respice V(esper) Os
+    <lb/>iusti meditabit(ur) sapi(enti)am ; 
+    
+    
+    
+  </ab>
+  <ab type="translation" xml:lang="en" xml:id="p0016_translation" corresp="p0016_transcription">
+    <!-- Enter the text of the translation here -->
+    
+    
+  </ab>
+</div>
