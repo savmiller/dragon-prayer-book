@@ -13,11 +13,11 @@ o()s
 <orig>it()cedat?</orig>
 <reg>int()cedat?</reg>
 ut meam aduvi() ab
-oi( )a 
+oi( )a <!-- not sure what the expansion should be -->
 te( )de. 
 P( )r Et
-ix. lecce(m?)
-joh(n?)es?
+ix. lecce(m?) <!-- not sure of correct expansion -->
+joh(n?)es? <!-- unsure of the reading -->
 <lb break="no"/>(c?)hil. Tu. 
 n(?)ri. 
 pace ; Am(?)
