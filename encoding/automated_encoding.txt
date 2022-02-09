@@ -1,0 +1,77 @@
+Structural encoding
+1. Find the page boundaries:
+f\. ([0-9rv]+) \(([0-9]+)\)
+
+Replace with
+
+</ab>
+
+<ab type="translation" xml:id="_translation" corresp="_transcription"></ab>
+
+</div>
+
+<div n="\1" xml:id="p\2">
+
+<ab type="transcription" xml:id="p\2_transcription" corresp="p\2_translation">
+
+
+2. Add the line breaks:
+Find
+^[0-9]+ +
+Replace with
+
+3. Find the soft hyphens and add break="no" to the <lb>:
+
+
+************************************
+Iteratively add <choice> markup
+
+1. Find all words containing parentheses and encode them with <choice>:
+
+([a-zA-Z]+\([a-zA-Z]+\)[^ <]+)
+
+And then variants on that, to catch outliers:
+(\([a-zA-Z]+\)[^ <\r\n]+)$
+(\([a-zA-Z]+\)[^ <\r\n]+)
+(\([a-zA-Z]+\) )
+([a-zA-Z]+\([a-zA-Z?]+\)[^ <]+) (to catch the ones with ?)
+
+Replace with
+\r\t<choice>\r\t\t<seg type="lucas">\1</seg>\r\t\t<orig>\1</orig>\r\t\t<reg>\1</reg>\r\t</choice> 
+
+
+2. Remove the parenthetical expansions inside <orig>:
+<orig>([^()<]*)(\([^)]+\))([^<]*)</orig>
+
+1 anything except parens/< zero or more, and remember it
+2 paren followed by anything except close-paren and remember it
+3 anything except < zero or more, and remember it
+
+Replace with 
+<orig>\1\3</orig>
+
+
+3. Remove the parens inside <reg>:
+<reg>([^(<]*)\(([^)]+)\)([^<]*)</reg>
+1 anything except paren/< zero or more, and remember it
+ paren 
+2 anything except close paren, one or more, and remember it
+ close paren
+3 anything except < zero or more, and remember it
+
+<reg>\1\2\3</reg>
+
+4. Escape the parens inside <seg> to protect them
+<seg type="lucas">([^(<]*)\(([^)]+)\)([^<]*)</seg>
+
+replace with 
+<seg type="lucas">\1{\2}\3</seg>
+_____________________________
+
+escape the parens inside <seg> to protect them
+do another pass to capture the unencoded abbreviations
+Still to do: repeat as necessary to find all unencoded abbreviations. Process is done when no parentheses remain.
+
+Finally, fix all escaped characters:
+--change %! and -% to <! and ->
+--replace all the remaining escaped parentheses {} with real ones.
