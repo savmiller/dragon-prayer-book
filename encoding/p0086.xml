@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="35v"
+     xml:id="p0086">
+
+   <ab type="transcription"
+       xml:id="p0086_transcription"
+       corresp="#p0086_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>p</orig>
+		       <reg>pro</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>nob</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christu)m</seg>
+		       <orig>m</orig>
+		       <reg>christum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">dep(re)care</seg>
+		       <orig>depcare</orig>
+		       <reg>deprecare</reg>
+	     </choice>
+      <lb/>ut tuis fulti 
+	<choice>
+		       <seg type="lucas">p(at)rociniis</seg>
+		       <orig>prociniis</orig>
+		       <reg>patrociniis</reg>
+	     </choice>
+      <lb/>ad celestia 
+	<choice>
+		       <seg type="lucas">reg(na)</seg>
+		       <orig>reg</orig>
+		       <reg>regna</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">me(re)am(ur)</seg>
+		       <orig>meam</orig>
+		       <reg>mereamur</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">p(er)ve(n)ire.</seg>
+		       <orig>pveire.</orig>
+		       <reg>pervenire.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">D(omi)ne</seg>
+		       <orig>Dne</orig>
+		       <reg>Domine</reg>
+	     </choice> ex. 
+	<choice>
+		       <seg type="lucas">Orem(us).</seg>
+		       <orig>Orem.</orig>
+		       <reg>Oremus.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Or(?)o.</seg>
+		       <orig>Oro.</orig>
+		       <reg>Or?o.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Co(n)cede</seg>
+		       <orig>Cocede</orig>
+		       <reg>Concede</reg>
+	     </choice> nos famu.
+<lb/>
+	     <choice>
+		       <seg type="lucas">An(tiphon).</seg>
+		       <orig>An.</orig>
+		       <reg>Antiphon.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">S(an)c(t)i</seg>
+		       <orig>Sci</orig>
+		       <reg>Sancti</reg>
+	     </choice> dei. Ad. 
+	<choice>
+		       <seg type="lucas">i(ubilate?).</seg>
+		       <orig>i.</orig>
+		       <reg>iubilate?.<!--  check expansion --></reg>
+	     </choice> 
+ Ave
+<lb/>maria. 
+	<choice>
+		       <seg type="lucas">D(eu)s</seg>
+		       <orig>Ds</orig>
+		       <reg>Deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">adiu(n)t.</seg>
+		       <orig>adiut.</orig>
+		       <reg>adiunt.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(h)y(mnus?).</seg>
+		       <orig>y.</orig>
+		       <reg>hymnus?.</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">MEme(n)to</seg>
+		       <orig>MEmeto</orig>
+		       <reg>MEmento</reg>
+	     </choice> salutis ac
+<lb break="no"/>tor 
+	<choice>
+		       <seg type="lucas">q(uo)d</seg>
+		       <orig>qd</orig>
+		       <reg>quod</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)ri</seg>
+		       <orig>nri</orig>
+		       <reg>nostri</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uo)nda(m)</seg>
+		       <orig>qnda</orig>
+		       <reg>quondam</reg>
+	     </choice> cor
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">p(or)is</seg>
+		       <orig>pis</orig>
+		       <reg>poris</reg>
+	     </choice> ex illibata 
+	<choice>
+		       <seg type="lucas">v(ir)gi(n)e</seg>
+		       <orig>vgie</orig>
+		       <reg>virgine</reg>
+	     </choice> nas
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">ce(n)do</seg>
+		       <orig>cedo</orig>
+		       <reg>cendo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">forma(n)</seg>
+		       <orig>forma</orig>
+		       <reg>forman</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">su(m)pseris.</seg>
+		       <orig>supseris.</orig>
+		       <reg>sumpseris.</reg>
+	     </choice> Ma
+<lb break="no"/>ria 
+	<choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gr(ati)e</seg>
+		       <orig>gre</orig>
+		       <reg>gratie</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(ate)r</seg>
+		       <orig>mr</orig>
+		       <reg>mater</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mi(sericordi)e</seg>
+		       <orig>mie</orig>
+		       <reg>misericordie</reg>
+	     </choice> tu
+<lb/>nos ab hoste 
+	<choice>
+		       <seg type="lucas">p(ro)tege</seg>
+		       <orig>ptege</orig>
+		       <reg>protege</reg>
+	     </choice> et
+<lb/>hora mortis suscipe. G
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">l(ori)a</seg>
+		       <orig>la</orig>
+		       <reg>loria</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>t</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dne</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nat(us)</seg>
+		       <orig>nat</orig>
+		       <reg>natus</reg>
+	     </choice> es de 
+	<choice>
+		       <seg type="lucas">v(ir)⸗</seg>
+		       <orig>v⸗</orig>
+		       <reg>vir⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0086_translation"
+       corresp="#p0086_transcription"/>
+
+</div>

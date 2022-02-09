@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="217v"
+     xml:id="p0450">
+
+   <ab type="transcription"
+       xml:id="p0450_transcription"
+       corresp="#p0450_translation">
+
+      <lb/>Per 
+	<choice>
+		       <seg type="lucas">a(m)mirabile(m)</seg>
+		       <orig>amirabile</orig>
+		       <reg>ammirabilem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">asce(n)si</seg>
+		       <orig>ascesi</orig>
+		       <reg>ascensi</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">one(m)</seg>
+		       <orig>one</orig>
+		       <reg>onem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tua(m).l</seg>
+		       <orig>tua.l</orig>
+		       <reg>tuam.l</reg>
+	     </choice> e. Per 
+	<choice>
+		       <seg type="lucas">gra(?)m?</seg>
+		       <orig>gram?</orig>
+		       <reg>gra?m?<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sci</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(irit)us</seg>
+		       <orig>spus</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)acliti.l</seg>
+		       <orig>pacliti.l</orig>
+		       <reg>paracliti.l</reg>
+	     </choice> e. Pec
+<lb break="no"/>catores te 
+	<choice>
+		       <seg type="lucas">cogam(us)</seg>
+		       <orig>cogam</orig>
+		       <reg>cogamus</reg>
+	     </choice> audi
+<lb/>nos. Ut 
+	<choice>
+		       <seg type="lucas">iracu(?)die</seg>
+		       <orig>iracudie</orig>
+		       <reg>iracu?die<!--  check expansion --></reg>
+	     </choice> 
+ tue
+<lb/>flagella ab eis remove
+<lb break="no"/>as t r a. Ut 
+	<choice>
+		       <seg type="lucas">ear(um)</seg>
+		       <orig>ear</orig>
+		       <reg>earum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sp(irit)us</seg>
+		       <orig>spus</orig>
+		       <reg>spiritus</reg>
+	     </choice> a
+<lb/>loco 
+	<choice>
+		       <seg type="lucas">a(n)gustie</seg>
+		       <orig>agustie</orig>
+		       <reg>angustie</reg>
+	     </choice> liberes t r.
+<lb/>Ut eas 
+	<choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice> regione 
+	<choice>
+		       <seg type="lucas">vivor(um)</seg>
+		       <orig>vivor</orig>
+		       <reg>vivorum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">et(er)nis</seg>
+		       <orig>etnis</orig>
+		       <reg>eternis</reg>
+	     </choice> gaudiis foveri? iube
+<lb break="no"/>as t r. Ut nos exaudi
+<lb break="no"/>re 
+	<choice>
+		       <seg type="lucas">dign(ar?)is</seg>
+		       <orig>dignis</orig>
+		       <reg>dignar?is<!--  check expansion --></reg>
+	     </choice> 
+ t r. Fili dei t.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Agn(us)</seg>
+		       <orig>Agn</orig>
+		       <reg>Agnus</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q</orig>
+		       <reg>qui</reg>
+	     </choice> collis 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)ta</seg>
+		       <orig>pcta</orig>
+		       <reg>peccata</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mu(n)di</seg>
+		       <orig>mudi</orig>
+		       <reg>mundi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(ar)ce</seg>
+		       <orig>pce</orig>
+		       <reg>parce</reg>
+	     </choice> eis 
+	<choice>
+		       <seg type="lucas">d(omi)ne.</seg>
+		       <orig>dne.</orig>
+		       <reg>domine.</reg>
+	     </choice> Ag
+<lb break="no"/>?is dei 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q</orig>
+		       <reg>qui</reg>
+	     </choice> tollis 
+	<choice>
+		       <seg type="lucas">p(ec)c(a)ta</seg>
+		       <orig>pcta</orig>
+		       <reg>peccata</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mu(n)⸗</seg>
+		       <orig>mu⸗</orig>
+		       <reg>mun⸗</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0450_translation"
+       corresp="#p0450_transcription"/>
+
+</div>

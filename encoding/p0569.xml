@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="277r"
+     xml:id="p0569">
+
+   <ab type="transcription"
+       xml:id="p0569_transcription"
+       corresp="#p0569_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">fruitib(us)</seg>
+		       <orig>fruitib</orig>
+		       <reg>fruitibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(ost)re</seg>
+		       <orig>nre</orig>
+		       <reg>nostre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">devot(i)o(n)is</seg>
+		       <orig>devotois</orig>
+		       <reg>devotionis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)cre</seg>
+		       <orig>cre</orig>
+		       <reg>concre</reg>
+	     </choice> 
+      <lb break="no"/>scat. 
+	<choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>P.</orig>
+		       <reg>Per.</reg>
+	     </choice> S Marcialis 
+	<choice>
+		       <seg type="lucas">or(ati?)o.</seg>
+		       <orig>oro.</orig>
+		       <reg>orati?o.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">OM(ni)p(oten)s</seg>
+		       <orig>OMps</orig>
+		       <reg>OMnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(m)p(ite)rne</seg>
+		       <orig>sprne</orig>
+		       <reg>smpiterne</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s.</seg>
+		       <orig>ds.</orig>
+		       <reg>deus.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q</orig>
+		       <reg>qui</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">b(ea)t(u)m</seg>
+		       <orig>btm</orig>
+		       <reg>beatum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Marciale(m)</seg>
+		       <orig>Marciale</orig>
+		       <reg>Marcialem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fes</seg>
+		       <orig>fes</orig>
+		       <reg>confes</reg>
+	     </choice> 
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">sore(m)</seg>
+		       <orig>sore</orig>
+		       <reg>sorem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuu</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">atq(ue)</seg>
+		       <orig>atq</orig>
+		       <reg>atque</reg>
+	     </choice> po(n0
+	<choice>
+		       <seg type="lucas">tifice(m)</seg>
+		       <orig>tifice</orig>
+		       <reg>tificem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eccl(esi)e</seg>
+		       <orig>eccle</orig>
+		       <reg>ecclesie</reg>
+	     </choice>
+      <lb/>tue 
+	<choice>
+		       <seg type="lucas">s(an)c(t)e</seg>
+		       <orig>sce</orig>
+		       <reg>sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)</seg>
+		       <orig>p</orig>
+		       <reg>pre</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">e(ss)e</seg>
+		       <orig>ee</orig>
+		       <reg>esse</reg>
+	     </choice> voluisti; 
+	<choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>qs</orig>
+		       <reg>quesumus</reg>
+	     </choice> ut
+<lb/>
+	     <choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>ei</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nob(is)</seg>
+		       <orig>nob</orig>
+		       <reg>nobis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">suffraga(n)tib(us)</seg>
+		       <orig>suffragatib</orig>
+		       <reg>suffragantibus</reg>
+	     </choice> meri
+<lb break="no"/>tis pietatis tue 
+	<choice>
+		       <seg type="lucas">gr(ati)a(m)</seg>
+		       <orig>gra</orig>
+		       <reg>gratiam</reg>
+	     </choice> largi
+<lb break="no"/>aris: 
+	<choice>
+		       <seg type="lucas">P(er)</seg>
+		       <orig>P</orig>
+		       <reg>Per</reg>
+	     </choice> Marci 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">marcellia(n?)i</seg>
+		       <orig>marcelliai</orig>
+		       <reg>marcellian?i<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">PR(est)a</seg>
+		       <orig>PRa</orig>
+		       <reg>PResta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uesumu)s</seg>
+		       <orig>qs</orig>
+		       <reg>quesumus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">o(mni)p(oten)s</seg>
+		       <orig>ops</orig>
+		       <reg>omnipotens</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(at)r(a)m.</seg>
+		       <orig>mrm.</orig>
+		       <reg>matram.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(eu)s:</seg>
+		       <orig>ds:</orig>
+		       <reg>deus:</reg>
+	     </choice> ut 
+	<choice>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q</orig>
+		       <reg>qui</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)or(um)</seg>
+		       <orig>scor</orig>
+		       <reg>sanctorum</reg>
+	     </choice> mar
+<lb break="no"/>ti 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">marcellia(m?)i</seg>
+		       <orig>marcelliai</orig>
+		       <reg>marcelliam?i<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">na(ra?)licia</seg>
+		       <orig>nalicia</orig>
+		       <reg>nara?licia<!--  check expansion --></reg>
+	     </choice> 
+ co
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">lim(us);</seg>
+		       <orig>lim;</orig>
+		       <reg>limus;</reg>
+	     </choice> a 
+	<choice>
+		       <seg type="lucas">cu(n)ctis</seg>
+		       <orig>cuctis</orig>
+		       <reg>cunctis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">mal(is)</seg>
+		       <orig>mal</orig>
+		       <reg>malis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)mine(n)</seg>
+		       <orig>imine</orig>
+		       <reg>imminen</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">tib(us)</seg>
+		       <orig>tib</orig>
+		       <reg>tibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">eor(um)</seg>
+		       <orig>eor</orig>
+		       <reg>eorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)t(er)cessio(n)ib(us)</seg>
+		       <orig>itcessioib</orig>
+		       <reg>intercessionibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">lib(er)em(ur).</seg>
+		       <orig>libem.</orig>
+		       <reg>liberemur.</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">P(er).</seg>
+		       <orig>P.</orig>
+		       <reg>Per.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Dece(m)</seg>
+		       <orig>Dece</orig>
+		       <reg>Decem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">miliu(m)?</seg>
+		       <orig>miliu?</orig>
+		       <reg>milium?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(at)r(a)m.</seg>
+		       <orig>mrm.</orig>
+		       <reg>matram.</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0569_translation"
+       corresp="#p0569_transcription"/>
+
+</div>

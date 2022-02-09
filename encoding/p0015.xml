@@ -1,34 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="1r"
+     xml:id="p0015">
 
-<!-- Enter the 4-digit page number in the value of @xml:id and @facs: e.g. p_0014, p_0014.jpg -->
-<div type="page" xml:id="p0015" facs="p0015.jpg" xmlns="http://www.tei-c.org/ns/1.0">
-  
-  <!-- enter the leaf number in the @xml:id and @corresp: e.g. page_1r_transcription, page_1r_translation -->
-  <ab type="transcription" xml:id="p0015_transcription" corresp="p0015_translation">
-    <lb/>Ad <choice>
-      <orig>vs</orig>
-      <reg>vesperas</reg></choice>
-<lb/><choice><orig>Memo</orig><reg>Memo(ra)</reg></choice>
-<lb/>Regali ex
-<lb/><choice><orig>pgenie</orig><reg>progenie</reg></choice>
-<lb/>maria
+   <ab type="transcription"
+       xml:id="p0015_transcription"
+       corresp="#p0015_translation">
+
+      <lb/>Ad 
+	<choice>
+		       <seg type="lucas">v(ersu)s</seg>
+		       <orig>vs</orig>
+		       <reg>versus</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Memo(ra)</seg>
+		       <orig>Memo</orig>
+		       <reg>Memora</reg>
+	     </choice>
+      <lb/>Regali ex
+<lb/>
+	     <choice>
+		       <seg type="lucas">p(ro)genie</seg>
+		       <orig>pgenie</orig>
+		       <reg>progenie</reg>
+	     </choice>
+      <lb/>maria
 <lb/>exorta re
-<lb break="no"/>fulget cui(us)
-<lb/>precibus nos adiuvari me(n)⸗
-<lb/>te et sp(irit)u devotissime pos⸗
-<lb/>cimus V(espers?) Ora p(ro) nobis
-<lb/>s(an)c(t)a dei genit(ri)x Ut dig(ni) effi⸗
-<lb/>ciamur p(ro)missio(n)ib(us) (christi) Zu
-<lb/>mette(n) A(ntiphona) Sub tuu(m) p(re)sidiu(m)
-<lb/>co(n)fugim(us) sancta dei genit(ri)x 
-<lb/>n(ost)ras d[epre]catio(n)es ne despi⸗
-    
-    
-  </ab>
-  <ab type="translation" xml:lang="en" xml:id="p0015_translation" corresp="p0015_transcription">
-    <!-- Enter the text of the translation here -->
-    
-    
-  </ab>
+<lb break="no"/>fulget 
+	<choice>
+		       <seg type="lucas">cui(us)</seg>
+		       <orig>cui</orig>
+		       <reg>cuius</reg>
+	     </choice>
+      <lb/>precibus nos adiuvari 
+	<choice>
+		       <seg type="lucas">me(n)</seg>
+		       <orig>me</orig>
+		       <reg>men</reg>
+	     </choice>
+      <lb break="no"/>te et 
+	<choice>
+		       <seg type="lucas">sp(irit)u</seg>
+		       <orig>spu</orig>
+		       <reg>spiritu</reg>
+	     </choice> devotissime pos
+<lb break="no"/>cimus 
+	<choice>
+		       <seg type="lucas">V(espers?)</seg>
+		       <orig>V</orig>
+		       <reg>Vespers?</reg>
+	     </choice> Ora 
+	<choice>
+		       <seg type="lucas">p(ro)</seg>
+		       <orig>p</orig>
+		       <reg>pro</reg>
+	     </choice> nobis
+<lb/>
+	     <choice>
+		       <seg type="lucas">s(an)c(t)a</seg>
+		       <orig>sca</orig>
+		       <reg>sancta</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">genit(ri)x</seg>
+		       <orig>genitx</orig>
+		       <reg>genitrix</reg>
+	     </choice> Ut 
+	<choice>
+		       <seg type="lucas">dig(ni)</seg>
+		       <orig>dig</orig>
+		       <reg>digni</reg>
+	     </choice> effi
+<lb break="no"/>ciamur 
+	<choice>
+		       <seg type="lucas">p(ro)missio(n)ib(us)</seg>
+		       <orig>pmissioib</orig>
+		       <reg>promissionibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(christi) </seg>
+		       <orig> </orig>
+		       <reg>christi </reg>
+	     </choice> Zu
+<lb/>
+	     <choice>
+		       <seg type="lucas">mette(n)</seg>
+		       <orig>mette</orig>
+		       <reg>metten</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">A(ntiphona)</seg>
+		       <orig>A</orig>
+		       <reg>Antiphona</reg>
+	     </choice> Sub 
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuu</orig>
+		       <reg>tuum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(re)sidiu(m)</seg>
+		       <orig>psidiu</orig>
+		       <reg>presidium</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">co(n)fugim(us)</seg>
+		       <orig>cofugim</orig>
+		       <reg>confugimus</reg>
+	     </choice> sancta dei 
+	<choice>
+		       <seg type="lucas">genit(ri)x</seg>
+		       <orig>genitx</orig>
+		       <reg>genitrix</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">n(ost)ras</seg>
+		       <orig>nras</orig>
+		       <reg>nostras</reg>
+	     </choice> d[epre]
+	<choice>
+		       <seg type="lucas">catio(n)es</seg>
+		       <orig>catioes</orig>
+		       <reg>cationes</reg>
+	     </choice> ne despi⸗
+
+
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0015_translation"
+       corresp="#p0015_transcription"/>
+
 </div>

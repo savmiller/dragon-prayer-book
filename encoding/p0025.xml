@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="6r"
+     xml:id="p0025">
+
+   <ab type="transcription"
+       xml:id="p0025_transcription"
+       corresp="#p0025_translation">
+ - Office of St Katherine (of Alexandria)
+<lb/>Deo 
+	<choice>
+		       <seg type="lucas">g(ratias).</seg>
+		       <orig>g.</orig>
+		       <reg>gratias.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Fideliu(m)</seg>
+		       <orig>Fideliu</orig>
+		       <reg>Fidelium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(n)i(m)e</seg>
+		       <orig>aie</orig>
+		       <reg>anime</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)</seg>
+		       <orig>p</orig>
+		       <reg>per</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">mi(sericordi)a(m)</seg>
+		       <orig>mia</orig>
+		       <reg>misericordiam</reg>
+	     </choice> dei 
+	<choice>
+		       <seg type="lucas">req(ui)esca(n)t</seg>
+		       <orig>reqescat</orig>
+		       <reg>requiescant</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice> pace.
+<lb/>
+	     <choice>
+		       <seg type="lucas">Do(mine?)</seg>
+		       <orig>Do</orig>
+		       <reg>Domine?</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(espera)s</seg>
+		       <orig>vs</orig>
+		       <reg>vesperas</reg>
+	     </choice> a(ntiphon/amen?) Ave 
+	<choice>
+		       <seg type="lucas">v(ir)ginu(m)</seg>
+		       <orig>vginu</orig>
+		       <reg>virginum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">ge(m)ma</seg>
+		       <orig>gema</orig>
+		       <reg>gemma</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Kath(er)ina</seg>
+		       <orig>Kathina</orig>
+		       <reg>Katherina</reg>
+	     </choice> ave 
+	<choice>
+		       <seg type="lucas">spo(n)</seg>
+		       <orig>spo</orig>
+		       <reg>spon</reg>
+	     </choice>
+      <lb break="no"/>sa regis 
+	<choice>
+		       <seg type="lucas">regu(m)</seg>
+		       <orig>regu</orig>
+		       <reg>regum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">gl(orio)sa</seg>
+		       <orig>glsa</orig>
+		       <reg>gloriosa</reg>
+	     </choice> ave 
+<lb/>viva 
+	<choice>
+		       <seg type="lucas">(christ)i</seg>
+		       <orig>i</orig>
+		       <reg>christi</reg>
+	     </choice> hostia tua ve
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">n(er)antib(us)</seg>
+		       <orig>nantib</orig>
+		       <reg>nerantibus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(at)rocinia</seg>
+		       <orig>procinia</orig>
+		       <reg>patrocinia</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)pet(ra)</seg>
+		       <orig>ipet</orig>
+		       <reg>impetra</reg>
+	     </choice>
+      <lb break="no"/>ta non deneges suffragia. 
+<lb/>
+	     <choice>
+		       <seg type="lucas">V(espers)</seg>
+		       <orig>V</orig>
+		       <reg>Vespers</reg>
+	     </choice> Ora. 
+	<choice>
+		       <seg type="lucas">An(tiphona)</seg>
+		       <orig>An</orig>
+		       <reg>Antiphona</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">m(agnifica?)t.</seg>
+		       <orig>mt.</orig>
+		       <reg>magnifica?t.<!--  check expansion --></reg>
+	     </choice> 
+ 
+	     <choice>
+		       <seg type="lucas">Prude(n)s</seg>
+		       <orig>Prudes</orig>
+		       <reg>Prudens</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vigila(n)s</seg>
+		       <orig>vigilas</orig>
+		       <reg>vigilans</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">v(ir)go</seg>
+		       <orig>vgo</orig>
+		       <reg>virgo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(ua)l(is)</seg>
+		       <orig>ql</orig>
+		       <reg>qualis</reg>
+	     </choice> es 
+	<choice>
+		       <seg type="lucas">cu(m)</seg>
+		       <orig>cu</orig>
+		       <reg>cum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">spo(n)so</seg>
+		       <orig>sposo</orig>
+		       <reg>sponso</reg>
+	     </choice> illo 
+	<choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q</orig>
+		       <reg>que</reg>
+	     </choice> te elegit de 
+<lb/>
+	     <choice>
+		       <seg type="lucas">m(un)do</seg>
+		       <orig>mdo</orig>
+		       <reg>mundo</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uam)</seg>
+		       <orig>q</orig>
+		       <reg>quam</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">pulch(ra)</seg>
+		       <orig>pulch</orig>
+		       <reg>pulchra</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">q(uam)</seg>
+		       <orig>q</orig>
+		       <reg>quam</reg>
+	     </choice> mirabi
+<lb break="no"/>lis 
+	<choice>
+		       <seg type="lucas">qu(an)ta</seg>
+		       <orig>quta</orig>
+		       <reg>quanta</reg>
+	     </choice> luce 
+	<choice>
+		       <seg type="lucas">spectabil(is)</seg>
+		       <orig>spectabil</orig>
+		       <reg>spectabilis</reg>
+	     </choice> 
+      <lb/>
+	     <choice>
+		       <seg type="lucas">int(er)</seg>
+		       <orig>int</orig>
+		       <reg>inter</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">syo(n)</seg>
+		       <orig>syo</orig>
+		       <reg>syon</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">juve(n)c(u)las</seg>
+		       <orig>juveclas</orig>
+		       <reg>juvenculas</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">j(e)r(usa)l(e)m</seg>
+		       <orig>jrlm</orig>
+		       <reg>jerusalem</reg>
+	     </choice> 
+      <lb/>filias thalamo gaudes
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0025_translation"
+       corresp="#p0025_transcription"/>
+
+</div>

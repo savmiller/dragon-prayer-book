@@ -37,10 +37,7 @@
   </xsl:template>
 
   <xsl:template match="div">
-    <!-- Following presumes there are 100s of <div>s to copy. -->
-    <!-- If there are thousands, use '9999'; if only tens use '99'. -->
-    <xsl:variable name="n" select="format-integer( position(),'999')"/>
-    <xsl:result-document indent="yes" href="/tmp/DPB_div_{$n}.xml">
+    <xsl:result-document indent="yes" href="./generated_files/{@xml:id}.xml">
       <xsl:apply-templates select="/processing-instruction()"/>
       <!--
         Note: The above instruction puts ALL root-level PIs in front

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="187r"
+     xml:id="p0389">
+
+   <ab type="transcription"
+       xml:id="p0389_transcription"
+       corresp="#p0389_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">se(m)</seg>
+		       <orig>se</orig>
+		       <reg>sem</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">utiq(ue):</seg>
+		       <orig>utiq:</orig>
+		       <reg>utique:</reg>
+	     </choice> holocaustis 
+	<choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n</orig>
+		       <reg>non</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">del(e)c(t)ab(er)is.</seg>
+		       <orig>delcabis.</orig>
+		       <reg>delectaberis.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Sac(ri)ficiu(m)</seg>
+		       <orig>Sacficiu</orig>
+		       <reg>Sacrificium</reg>
+	     </choice> deo
+<lb/>
+	     <choice>
+		       <seg type="lucas">sp(irit)us</seg>
+		       <orig>spus</orig>
+		       <reg>spiritus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)</seg>
+		       <orig/>
+		       <reg>con</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">t(ri)bulat(us):</seg>
+		       <orig>tbulat:</orig>
+		       <reg>tribulatus:</reg>
+	     </choice> cor 
+	<choice>
+		       <seg type="lucas">(con)</seg>
+		       <orig/>
+		       <reg>con</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">t(ri)tu(m)</seg>
+		       <orig>ttu</orig>
+		       <reg>tritum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">hu(m)iliatu(m)</seg>
+		       <orig>huiliatu</orig>
+		       <reg>humiliatum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ds</orig>
+		       <reg>deus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">n(on)</seg>
+		       <orig>n</orig>
+		       <reg>non</reg>
+	     </choice> despicies.
+<lb/>Benigne fac 
+	<choice>
+		       <seg type="lucas">d(omi)ne</seg>
+		       <orig>dne</orig>
+		       <reg>domine</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">bo(n)a</seg>
+		       <orig>boa</orig>
+		       <reg>bona</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">volu(n)tate</seg>
+		       <orig>volutate</orig>
+		       <reg>voluntate</reg>
+	     </choice> tua 
+	<choice>
+		       <seg type="lucas">syo(n):</seg>
+		       <orig>syo:</orig>
+		       <reg>syon:</reg>
+	     </choice> ut edi
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">fice(n)t(ur)</seg>
+		       <orig>ficet</orig>
+		       <reg>ficentur</reg>
+	     </choice> muri 
+	<choice>
+		       <seg type="lucas">ih(e)r(usa)l(em).</seg>
+		       <orig>ihrl.</orig>
+		       <reg>iherusalem.</reg>
+	     </choice> Tunc
+<lb/>
+	     <choice>
+		       <seg type="lucas">acceptab(is)</seg>
+		       <orig>acceptab</orig>
+		       <reg>acceptabis</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">sac(ri)ficiu(m)</seg>
+		       <orig>sacficiu</orig>
+		       <reg>sacrificium</reg>
+	     </choice> iusticie
+<lb/>
+	     <choice>
+		       <seg type="lucas">oblat(i)o(n)es</seg>
+		       <orig>oblatoes</orig>
+		       <reg>oblationes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> holocausta:
+<lb/>
+	     <choice>
+		       <seg type="lucas">tu(n)c</seg>
+		       <orig>tuc</orig>
+		       <reg>tunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(m)pone(n)t</seg>
+		       <orig>iponet</orig>
+		       <reg>imponent</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(upe)r</seg>
+		       <orig>sr</orig>
+		       <reg>super</reg>
+	     </choice> altare 
+	<choice>
+		       <seg type="lucas">tuu(m)</seg>
+		       <orig>tuu</orig>
+		       <reg>tuum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">vit(u)los.</seg>
+		       <orig>vitlos.</orig>
+		       <reg>vitulos.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">a(lleluia).</seg>
+		       <orig>a.</orig>
+		       <reg>alleluia.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Exultab(un)t</seg>
+		       <orig>Exultabt</orig>
+		       <reg>Exultabunt</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)no</seg>
+		       <orig>dno</orig>
+		       <reg>domino</reg>
+	     </choice>
+      <lb/>ossa 
+	<choice>
+		       <seg type="lucas">hu(m)ilia(ta).</seg>
+		       <orig>huilia.</orig>
+		       <reg>humiliata.</reg>
+	     </choice>  
+      <lb/>TE 
+	<choice>
+		       <seg type="lucas">dec(et)</seg>
+		       <orig>dec</orig>
+		       <reg>decet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(h)</seg>
+		       <orig/>
+		       <reg>h</reg>
+	     </choice>
+	     <choice>
+		       <seg type="lucas">y(m)</seg>
+		       <orig>y</orig>
+		       <reg>ym</reg>
+	     </choice>
+      <lb break="no"/>
+	     <choice>
+		       <seg type="lucas">n(us)</seg>
+		       <orig>n</orig>
+		       <reg>nus</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(eu)s</seg>
+		       <orig>ds</orig>
+		       <reg>deus</reg>
+	     </choice> in        Exaudi. viii.
+<lb/>
+	     <choice>
+		       <seg type="lucas">syo(n):</seg>
+		       <orig>syo:</orig>
+		       <reg>syon:</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">t(ibi)</seg>
+		       <orig>t</orig>
+		       <reg>tibi</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">reddet(ur)</seg>
+		       <orig>reddet</orig>
+		       <reg>reddetur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">votu(m)</seg>
+		       <orig>votu</orig>
+		       <reg>votum</reg>
+	     </choice> in
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0389_translation"
+       corresp="#p0389_transcription"/>
+
+</div>

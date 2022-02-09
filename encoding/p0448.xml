@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="216v"
+     xml:id="p0448">
+
+   <ab type="transcription"
+       xml:id="p0448_transcription"
+       corresp="#p0448_translation">
+ SECOND LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">O(mne)s</seg>
+		       <orig>Os</orig>
+		       <reg>Omnes</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(an)c(t)i</seg>
+		       <orig>sci</orig>
+		       <reg>sancti</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(con)fessores</seg>
+		       <orig>fessores</orig>
+		       <reg>confessores</reg>
+	     </choice>                          orate
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> Anna                                        ore
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> maria 
+	<choice>
+		       <seg type="lucas">magda(lena?).</seg>
+		       <orig>magda.</orig>
+		       <reg>magdalena?.<!--  check expansion --></reg>
+	     </choice> 
+                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> martha                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> felicitas                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)petua</seg>
+		       <orig>ppetua</orig>
+		       <reg>perpetua</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> agatha                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> lucia                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> agnes                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> cecilia                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> Katherina                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Kath(er)ina</seg>
+		       <orig>Kathina</orig>
+		       <reg>Katherina</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> barbaraX \gesenis?/                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> margaretha                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)a</seg>
+		       <orig>Sca</orig>
+		       <reg>Sancta</reg>
+	     </choice> ursula 
+	<choice>
+		       <seg type="lucas">c(um)</seg>
+		       <orig>c</orig>
+		       <reg>cum</reg>
+	     </choice> soda t.                        or e
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0448_translation"
+       corresp="#p0448_transcription"/>
+
+</div>

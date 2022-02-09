@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="86r"
+     xml:id="p0187">
+
+   <ab type="transcription"
+       xml:id="p0187_transcription"
+       corresp="#p0187_translation">
+
+      <lb/>
+	     <choice>
+		       <seg type="lucas">Disp(er)sit</seg>
+		       <orig>Dispsit</orig>
+		       <reg>Dispersit</reg>
+	     </choice> dedit 
+	<choice>
+		       <seg type="lucas">paup(er)ib(us);</seg>
+		       <orig>paupib;</orig>
+		       <reg>pauperibus;</reg>
+	     </choice>
+      <lb/>iustitia 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>ei</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">ma(n)et</seg>
+		       <orig>maet</orig>
+		       <reg>manet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(u)m</seg>
+		       <orig>sclm</orig>
+		       <reg>seculum</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">s(e)c(u)li:</seg>
+		       <orig>scli:</orig>
+		       <reg>seculi:</reg>
+	     </choice> cornu 
+	<choice>
+		       <seg type="lucas">ei(us)</seg>
+		       <orig>ei</orig>
+		       <reg>eius</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">exaltabit(ur)</seg>
+		       <orig>exaltabit</orig>
+		       <reg>exaltabitur</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">gl(ori)a.</seg>
+		       <orig>gla.</orig>
+		       <reg>gloria.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">P(e)c(ca)tor</seg>
+		       <orig>Pctor</orig>
+		       <reg>Peccator</reg>
+	     </choice> videbit 
+	<choice>
+		       <seg type="lucas">(et) </seg>
+		       <orig> </orig>
+		       <reg>et </reg>
+	     </choice> iras
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">cet(ur);</seg>
+		       <orig>cet;</orig>
+		       <reg>cetur;</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">de(n)tib(us)</seg>
+		       <orig>detib</orig>
+		       <reg>dentibus</reg>
+	     </choice> suis fremet 
+	<choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig/>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>tabescet: 
+	<choice>
+		       <seg type="lucas">desid(er)iu(m)</seg>
+		       <orig>desidiu</orig>
+		       <reg>desiderium</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(e)c(ca)tor(um)</seg>
+		       <orig>pctor</orig>
+		       <reg>peccatorum</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">p(er)i</seg>
+		       <orig>pi</orig>
+		       <reg>peri</reg>
+	     </choice>
+      <lb break="no"/>bit. 
+	<choice>
+		       <seg type="lucas">an(tiphon).</seg>
+		       <orig>an.</orig>
+		       <reg>antiphon.</reg>
+	     </choice> In 
+	<choice>
+		       <seg type="lucas">ma(n)datis</seg>
+		       <orig>madatis</orig>
+		       <reg>mandatis</reg>
+	     </choice> eius
+<lb/>
+	     <choice>
+		       <seg type="lucas">vol(et)</seg>
+		       <orig>vol</orig>
+		       <reg>volet</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">nimi(us).</seg>
+		       <orig>nimi.</orig>
+		       <reg>nimius.</reg>
+	     </choice>  
+      <lb/>LAudate pu
+<lb break="no"/>eri 
+	<choice>
+		       <seg type="lucas">d(omi)n(um):</seg>
+		       <orig>dn:</orig>
+		       <reg>dominum:</reg>
+	     </choice> lauda⸗         Sit 
+	<choice>
+		       <seg type="lucas">nome(n).</seg>
+		       <orig>nome.</orig>
+		       <reg>nomen.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">vii(?).</seg>
+		       <orig>vii.</orig>
+		       <reg>vii?.<!--  check expansion --></reg>
+	     </choice> 
+      <lb/>te 
+	<choice>
+		       <seg type="lucas">nome(n)</seg>
+		       <orig>nome</orig>
+		       <reg>nomen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dni.</orig>
+		       <reg>domini.</reg>
+	     </choice> Sit 
+	<choice>
+		       <seg type="lucas">nom(en)</seg>
+		       <orig>nom</orig>
+		       <reg>nomen</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">d(omi)ni</seg>
+		       <orig>dni</orig>
+		       <reg>domini</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)d(i)c(tu)m:</seg>
+		       <orig>bndcm:</orig>
+		       <reg>benedictum:</reg>
+	     </choice> ex hoc 
+	<choice>
+		       <seg type="lucas">n(un)c</seg>
+		       <orig>nc</orig>
+		       <reg>nunc</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">(et)</seg>
+		       <orig/>
+		       <reg>et</reg>
+	     </choice>
+      <lb/>
+	     <choice>
+		       <seg type="lucas">usq(ue)</seg>
+		       <orig>usq</orig>
+		       <reg>usque</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">i(n)</seg>
+		       <orig>i</orig>
+		       <reg>in</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">s(e)c(u)l(um).</seg>
+		       <orig>scl.</orig>
+		       <reg>seculum.</reg>
+	     </choice> A 
+	<choice>
+		       <seg type="lucas">sol(is)</seg>
+		       <orig>sol</orig>
+		       <reg>solis</reg>
+	     </choice> ortu us
+<lb break="no"/>
+	     <choice>
+		       <seg type="lucas">q(ue)</seg>
+		       <orig>q</orig>
+		       <reg>que</reg>
+	     </choice> ad 
+	<choice>
+		       <seg type="lucas">occasu(m):</seg>
+		       <orig>occasu:</orig>
+		       <reg>occasum:</reg>
+	     </choice> laudabile
+<lb/>
+	     <choice>
+		       <seg type="lucas">nome(n)</seg>
+		       <orig>nome</orig>
+		       <reg>nomen</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)ni.</seg>
+		       <orig>dni.</orig>
+		       <reg>domini.</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Excels(us)</seg>
+		       <orig>Excels</orig>
+		       <reg>Excelsus</reg>
+	     </choice> †
+	<choice>
+		       <seg type="lucas">sup(er)†</seg>
+		       <orig>sup†</orig>
+		       <reg>super†</reg>
+	     </choice>
+   </ab>
+
+   <ab type="translation"
+       xml:id="p0187_translation"
+       corresp="#p0187_transcription"/>
+
+</div>

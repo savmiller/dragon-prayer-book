@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<!-- Enter the 4-digit page number in the value of @xml:id and @facs: e.g. p_0014, p_0014.jpg -->
+<div type="page" xml:id="p0015" facs="p0015.jpg" xmlns="http://www.tei-c.org/ns/1.0">
+  
+  <!-- enter the leaf number in the @xml:id and @corresp: e.g. page_1r_transcription, page_1r_translation -->
+  <ab type="transcription" xml:id="p0015_transcription" corresp="p0015_translation">
+    <lb/>Ad <choice>
+      <orig>vs</orig>
+      <reg>vesperas</reg></choice>
+<lb/><choice><orig>Memo</orig><reg>Memo(ra)</reg></choice>
+<lb/>Regali ex
+<lb/><choice><orig>pgenie</orig><reg>progenie</reg></choice>
+<lb/>maria
+<lb/>exorta re
+<lb break="no"/>fulget cui(us)
+<lb/>precibus nos adiuvari me(n)⸗
+<lb/>te et sp(irit)u devotissime pos⸗
+<lb/>cimus V(espers?) Ora p(ro) nobis
+<lb/>s(an)c(t)a dei genit(ri)x Ut dig(ni) effi⸗
+<lb/>ciamur p(ro)missio(n)ib(us) (christi) Zu
+<lb/>mette(n) A(ntiphona) Sub tuu(m) p(re)sidiu(m)
+<lb/>co(n)fugim(us) sancta dei genit(ri)x 
+<lb/>n(ost)ras d[epre]catio(n)es ne despi⸗
+    
+    
+  </ab>
+  <ab type="translation" xml:lang="en" xml:id="p0015_translation" corresp="p0015_transcription">
+    <!-- Enter the text of the translation here -->
+    
+    
+  </ab>
+</div>

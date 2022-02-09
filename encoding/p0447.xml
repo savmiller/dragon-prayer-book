@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0"
+     type="page"
+     n="216r"
+     xml:id="p0447">
+
+   <ab type="transcription"
+       xml:id="p0447_transcription"
+       corresp="#p0447_translation">
+ SECOND LITANY OF SAINTS
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> Ambrosi                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> gregori                                        or e
+x 3 
+	<choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> Nicolae                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">Domi(ni)ce</seg>
+		       <orig>Domice</orig>
+		       <reg>Dominice</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">d(omi)nice</seg>
+		       <orig>dnice</orig>
+		       <reg>dominice</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> thoma                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> vincenti                                        or e
++ 8 
+	<choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">fra(n)cisce</seg>
+		       <orig>fracisce</orig>
+		       <reg>francisce</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> ieronime                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> 
+	     <choice>
+		       <seg type="lucas">b(e)n(e)dicte</seg>
+		       <orig>bndicte</orig>
+		       <reg>benedicte</reg>
+	     </choice>                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> Anthoni                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> Bernharde                                or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> Heinrice                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> ludivice                                        or e
+<lb/>
+	     <choice>
+		       <seg type="lucas">S(an)c(t)e</seg>
+		       <orig>Sce</orig>
+		       <reg>Sancte</reg>
+	     </choice> Sebalde                                        or e
+
+
+</ab>
+
+   <ab type="translation"
+       xml:id="p0447_translation"
+       corresp="#p0447_transcription"/>
+
+</div>
