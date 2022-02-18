@@ -1,0 +1,56 @@
+div {
+    margin-left:2em;
+    
+}
+
+ab[type="transcription"] {
+    display:block;
+    color: black;
+}
+
+ab[type="transcription"]:before {
+    content:"Transcription";
+    font-size:200%;
+    color:blue;    
+}
+
+ab[type="translation"] {
+    display:block;
+    color: blue;    
+    margin-top: 3em;
+}
+
+ab[type="translation"]:before {
+    content:"Translation";
+    font-size:200%;
+    color:green;
+}
+
+
+lb {
+    display:block;
+}
+
+seg {
+    display:none;
+}
+orig {
+    color:black;
+    font-weight:bold;
+}
+
+orig:before {
+   content:"["
+}
+
+orig:after {
+   content:" | ";
+}
+
+reg {
+    color:gray;
+}
+
+reg:after {
+    content:"]";
+}

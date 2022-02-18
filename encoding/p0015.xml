@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../stylesheets/dpb_proof.css"?> 
 <div xmlns="http://www.tei-c.org/ns/1.0"
      type="page"
      n="1r"
