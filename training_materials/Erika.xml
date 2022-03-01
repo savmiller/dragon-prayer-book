@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/NEU-DSG/dragon-prayer-book/main/schema/out/dragon_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<div xmlns="http://www.tei-c.org/ns/1.0" type="page" n="1r" xml:id="p0015">
+   <ab type="transcription" xml:id="p0015_transcription" corresp="#p0015_translation">
+      <lb/>Ad 
+	<choice>
+         <seg type="lucas">v(ersu)s</seg>
+         <orig>vs</orig>
+	   <reg>versus</reg>
+	</choice>
+      <lb/>
+	<choice>
+	     <seg type="lucas">Memo(ra)</seg>
+	     <orig>Memo</orig>
+	     <reg>Memora</reg>
+	</choice>
+      <lb/>Regali ex
+      <lb/>
+	<choice>
+	     <seg type="lucas">p(ro)genie</seg>
+	     <orig>pgenie</orig>
+           <reg>progenie</reg>
+	</choice>
+      <lb/>maria
+      <lb/>exorta re
+      <lb break="no"/>fulget 
+	<choice>
+            <seg type="lucas">cui(us)</seg>
+		<orig>cui</orig>
+		<reg>cuius</reg>
+	</choice>
+         <lb/>precibus
+      <choice>  
+         <orig>m&#x113;</orig>
+         <reg>men</reg>
+         </choice>
+      <lb break="no"/>
+            <!-- some material not transcribed -->
+      </ab>
+
+      <ab type="translation" xml:id="p0015_translation" corresp="#p0015_transcription">
+         <!-- translation goes here -->
+      </ab>
+</div>
