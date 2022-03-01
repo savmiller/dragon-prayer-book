@@ -291,12 +291,8 @@
 		       <reg>sororibus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">or(atio?).
-
-</seg>
-		       <orig>or.
-
-</orig>
+		       <seg type="lucas">or(atio?).</seg>
+		       <orig>or.</orig>
 		       <reg>oratio?.
 
 <!--  check expansion --></reg>
