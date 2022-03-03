@@ -207,9 +207,9 @@
 	     </choice> 
       <lb/>
 	     <choice>
-		       <seg type="lucas">t(er)re</seg>
+		       <seg type="lucas">tre(m)</seg>
 		       <orig>tre</orig>
-		       <reg>terre</reg>
+		       <reg>trem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -244,14 +244,14 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">a(n)i(m)ab(um)</seg>
+		       <seg type="lucas">a(n)i(m)ab(us)</seg>
 		       <orig>aiab</orig>
-		       <reg>animabum</reg>
+		       <reg>animabus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(er)ntu(m)?</seg>
-		       <orig>pntu?</orig>
-		       <reg>perntum?</reg>
+		       <seg type="lucas">p(are)ntu(m)</seg>
+		       <orig>pntu</orig>
+		       <reg>parentum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)ror(um):</seg>

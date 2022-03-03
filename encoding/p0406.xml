@@ -80,9 +80,9 @@
 		       <reg>redemptor.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">a(n)i(m)ab(um)</seg>
+		       <seg type="lucas">a(n)i(m)ab(us)</seg>
 		       <orig>aiab</orig>
-		       <reg>animabum</reg>
+		       <reg>animabus</reg>
 	     </choice> fa
 <lb break="no"/>
 	     <choice>
@@ -107,9 +107,9 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">missio(n)e</seg>
-		       <orig>missioe</orig>
-		       <reg>missione</reg>
+		       <seg type="lucas">missio(nem)</seg>
+		       <orig>missio</orig>
+		       <reg>missionem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(n)ctor(um)</seg>
@@ -134,9 +134,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">sp(er)</seg>
+		       <seg type="lucas">s(em)p(er)</seg>
 		       <orig>sp</orig>
-		       <reg>sper</reg>
+		       <reg>semper</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">optaver(un)t;</seg>
@@ -181,9 +181,9 @@
 		       <reg>cum</reg>
 	     </choice> deo 
 	<choice>
-		       <seg type="lucas">p(a)r(c)e?</seg>
-		       <orig>pre?</orig>
-		       <reg>parce?</reg>
+		       <seg type="lucas">p(at)re</seg>
+		       <orig>pre</orig>
+		       <reg>patre</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -270,9 +270,9 @@
 		       <reg>fidelium</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">req(ui)escu(n)t?</seg>
-		       <orig>reqescut?</orig>
-		       <reg>requiescunt?</reg>
+		       <seg type="lucas">req(ui)escu(n)t</seg>
+		       <orig>reqescut</orig>
+		       <reg>requiescunt</reg>
 	     </choice> fa⸗
 
 
