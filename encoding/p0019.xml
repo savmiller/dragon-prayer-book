@@ -11,13 +11,13 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">q(u)i</seg>
-		       <orig>qi</orig>
+		       <seg type="lucas">q(ui)</seg>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>p</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> 
 	     <choice>
