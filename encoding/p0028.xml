@@ -11,21 +11,34 @@
 
       <lb/>
 	     <choice>
+	           <!-- counting it as a macron -->
 		       <seg type="lucas">n(ost)ros.</seg>
-		       <orig>nros.</orig>
+		       <orig>nròs.</orig>
 		       <reg>nostros.</reg>
-	     </choice> Una 
+	     </choice> 
+         
+         Una
+         
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
 		       <orig>cu</orig>
 		       <reg>cum</reg>
-	     </choice> grege sibi 
+	      <!-- This translation is missing something between the una and grege, I looks like "ni"-->
+	      
+	     </choice> 
+         
+         grege sibi 
+         
 <lb/>
 	     <choice>
+	           <!-- Need to find the backwards J -->
 		       <seg type="lucas">(con)misso.</seg>
 		       <orig>misso.</orig>
 		       <reg>conmisso.</reg>
-	     </choice> ab 
+	     </choice> 
+         
+         ab 
+         
 	<choice>
 		       <seg type="lucas">o(mn)i</seg>
 		       <orig>oi</orig>
@@ -36,13 +49,18 @@
 		       <orig>advsita</orig>
 		       <reg>adversita</reg>
 	     </choice>
-      <lb break="no"/>te custodi : ac dirige 
+      <lb break="no"/>
+         
+         te custodi : ac dirige 
+         
 	<choice>
+	      <!-- counting as a macron -->
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ì</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
+	           <!-- A with the dot -->
 		       <seg type="lucas">via(m)</seg>
 		       <orig>via</orig>
 		       <reg>viam</reg>
@@ -50,15 +68,20 @@
       <lb/>salutis 
 	<choice>
 		       <seg type="lucas">et(er)ne.</seg>
-		       <orig>etne.</orig>
+		       <orig>eṫne.</orig>
 		       <reg>eterne.</reg>
-	     </choice> et 
+	     </choice> 
+         
+         et 
+         
 	<choice>
+	      <!-- not sure if this is a dot or a bar above the e -->
 		       <seg type="lucas">pace(m)</seg>
-		       <orig>pace</orig>
+		       <orig>pacė</orig>
 		       <reg>pacem</reg>
 	     </choice> 
 	     <choice>
+	           <!-- A with the dot -->
 		       <seg type="lucas">tua(m)</seg>
 		       <orig>tua</orig>
 		       <reg>tuam</reg>

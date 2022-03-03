@@ -12,65 +12,69 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">desce(n)dit</seg>
-		       <orig>descedit</orig>
+	           <orig>descēdit</orig>
 		       <reg>descendit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
+	           <!-- no unicode character for "us" -->
 		       <seg type="lucas">cui(us)</seg>
-		       <orig>cui</orig>
+	           <orig>cui</orig>
 		       <reg>cuius</reg>
 	     </choice> laudis ti
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tulu(m)</seg>
-		       <orig>tulu</orig>
+	           <orig>tulū</orig>
 		       <reg>tulum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">la(m)pades</seg>
-		       <orig>lapades</orig>
+	           <orig>lāpades</orig>
 		       <reg>lampades</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">acce(n)dit.</seg>
-		       <orig>accedit.</orig>
+	           <orig>accēdit.</orig>
 		       <reg>accendit.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+	           <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Desid(er)iu(m)</seg>
-		       <orig>Desidiu</orig>
+	           <orig>Desiḋiu̇</orig>
 		       <reg>Desiderium</reg>
 	     </choice> 
-	     <choice>
+               <choice>
+                     <!-- Note for mel figure out where m comes from -->
 		       <seg type="lucas">a(n)i(m)e</seg>
-		       <orig>aie</orig>
+	           <orig>aīe</orig>
 		       <reg>anime</reg>
 	     </choice> 
 	     <choice>
+	           <!-- again no unicode character for us -->
 		       <seg type="lucas">ei(us)</seg>
 		       <orig>ei</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ri)buisti</seg>
-		       <orig>tbuisti</orig>
+	           <orig>ṫbuisti</orig>
 		       <reg>tribuisti</reg>
 	     </choice>
       <lb/>ei 
 	<choice>
+	      <!-- Note for mel figure out where omi comes from -->
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> ; Et 
 	<choice>
