@@ -12,12 +12,12 @@
       <lb/>Et 
 	<choice>
 		       <seg type="lucas">li(n)gua</seg>
-		       <orig>ligua</orig>
+	      <orig>līgua</orig>
 		       <reg>lingua</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	           <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
@@ -25,36 +25,42 @@
 		       <orig>loqt</orig>
 		       <reg>loquetur</reg>
 	     </choice> iudi
+         
+         <!-- My machine is not recognizing the unicode characters-->
+         
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ciu(m).</seg>
-		       <orig>ciu.</orig>
+	           <orig>ciū.</orig>
 		       <reg>cium.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">An(tiphon).</seg>
-		       <orig>An.</orig>
+	           <orig>An̈.</orig>
+	         
+	           <!-- My machine is not recognizing the unicode characters -I copied & pasted but I'm sure how the n with two dots is showing up in document-->
 		       <reg>Antiphon.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">B(e)n(e)d(i)c(t)us</seg>
-		       <orig>Bndcus</orig>
+	           <!-- I don't see the u minims joined in any way; should the  macron be over the u?-->
+	           <orig>Bn̈dcūs</orig>
 		       <reg>Benedictus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">rede(m)p</seg>
-		       <orig>redep</orig>
+	             <orig>redēp</orig>
 		       <reg>redemp</reg>
 	     </choice>
       <lb break="no"/>tor 
 	<choice>
 		       <seg type="lucas">o(mn)i(u)m</seg>
-		       <orig>oim</orig>
+	             <orig>oīm</orig>
 		       <reg>omnium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+		       <orig>̇q</orig>
 		       <reg>qui</reg>
 	     </choice> saluti 
 	<choice>

@@ -12,7 +12,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">DE(us)</seg>
-		       <orig>DE</orig>
+	     	  <orig>DEꝰ</orig>
 		       <reg>DEus</reg>
 	     </choice> 
 	     <choice>
@@ -22,12 +22,12 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eccl(esi)am</seg>
-		       <orig>ecclam</orig>
+	     	  <orig>ecclȧ⋮</orig>
 		       <reg>ecclesiam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tua(m)</seg>
-		       <orig>tua</orig>
+	     	  <orig>tuā</orig>
 		       <reg>tuam</reg>
 	     </choice> mi
 <lb break="no"/>ra 
@@ -38,230 +38,230 @@
 	     </choice> Thome 
 	<choice>
 		       <seg type="lucas">(con)fes</seg>
-		       <orig>fes</orig>
+		       <orig>fes</orig> <!-- con abbreviation -->
 		       <reg>confes</reg>
 	     </choice> 
       <lb break="no"/>soris tui 
 	<choice>
 		       <seg type="lucas">erudit(i)o(n)e</seg>
-		       <orig>eruditoe</orig>
+		       <orig>erudicōe</orig>
 		       <reg>eruditione</reg>
 	     </choice> clarifi
 <lb break="no"/>cas; 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> </orig> <!-- need help -->
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)a</seg>
-		       <orig>sca</orig>
+	     	  <orig>scā</orig>
 		       <reg>sancta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">op(er)at(i)o(n)e</seg>
-		       <orig>opatoe</orig>
+	     	  <orig>oꝑacōe</orig>
 		       <reg>operatione</reg>
 	     </choice> fecun
 <lb break="no"/>das: da 
 	<choice>
 		       <seg type="lucas">nob(is)</seg>
-		       <orig>nob</orig>
+	           <orig>noḃ</orig>
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uesumu)s.</seg>
-		       <orig>qs.</orig>
+		       <orig>q̄s.</orig>
 		       <reg>quesumus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> </orig> <!-- same abbreviation as before -->
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>q</orig>
+	     	  <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice> docu
 <lb break="no"/>it 
 	<choice>
 		       <seg type="lucas">i(n)tell(e)c(t)a</seg>
-		       <orig>itellca</orig>
+		       <orig>ītellc̄a</orig>
 		       <reg>intellecta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+		       <orig> </orig><!-- need con abbreviation -->
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">spi(re)ce</seg>
-		       <orig>spice</orig>
+	     	  <orig>spicė</orig>
 		       <reg>spirece</reg>
 	     </choice> ; 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> </orig> <!-- same abbreviation as before -->
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>q</orig>
+	     	  <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice> egit
 <lb/>
 	     <choice>
 		       <seg type="lucas">imitac(i)o(n)e</seg>
-		       <orig>imitacoe</orig>
+	       	<orig>imitacōe</orig>
 		       <reg>imitacione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(com)</seg>
-		       <orig/>
+		       <orig> </orig> <!-- need abbreviation -->
 		       <reg>com</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">ple(re)</seg>
-		       <orig>ple</orig>
+	     	  <orig>plė</orig>
 		       <reg>plere</reg>
 	     </choice> : 
 	<choice>
 		       <seg type="lucas">P(er).</seg>
-		       <orig>P.</orig>
+		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon)</seg>
-		       <orig>an</orig>
+	     	  <orig>an̈</orig>
 		       <reg>antiphon</reg>
 	     </choice> As
 <lb break="no"/>sit 
 	<choice>
 		       <seg type="lucas">nob(is)</seg>
-		       <orig>nob</orig>
+		       <orig>noḃ</orig>
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)p(i)ti(us)</seg>
-		       <orig>ppti</orig>
+	     	  <orig>ꝑꝑtiꝰ</orig> <!-- unsure -->
 		       <reg>propitius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	     	  <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">hui(us)</seg>
-		       <orig>hui</orig>
+	     	  <orig>huiꝰ</orig>
 		       <reg>huius</reg>
 	     </choice> vite
 <lb/>
 	     <choice>
 		       <seg type="lucas">vesp(er)e</seg>
-		       <orig>vespe</orig>
+	     	  <orig>vesꝑe</orig>
 		       <reg>vespere</reg>
 	     </choice> ad 
 	<choice>
 		       <seg type="lucas">(christu)m</seg>
-		       <orig>m</orig>
+		       <orig>m</orig> <!-- not sure -->
 		       <reg>christum</reg>
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">Vi(n)ce(n)</seg>
-		       <orig>Vice</orig>
+		       <orig>Vīcē</orig>
 		       <reg>Vincen</reg>
 	     </choice>
-      <lb break="no"/>tius tuto 
+      <lb break="no"/>tius tuto <!-- add choice here? for us abbreviation? -->
 	<choice>
 		       <seg type="lucas">fere(n)s</seg>
-		       <orig>feres</orig>
+		       <orig>ferēs</orig>
 		       <reg>ferens</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">itine(re).</seg>
-		       <orig>itine.</orig>
+		       <orig>itinė.</orig>
 		       <reg>itinere.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+	     	  <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice> Ti
 <lb break="no"/>mete 
 	<choice>
 		       <seg type="lucas">deu(m)</seg>
-		       <orig>deu</orig>
+		       <orig>deū</orig>
 		       <reg>deum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	     	  <orig> </orig> <!-- need this abbreviation -->
 		       <reg>et </reg>
 	     </choice> date illi hono
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">re(m);</seg>
-		       <orig>re;</orig>
+	     	  <orig>rē;</orig>
 		       <reg>rem;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig>
+		       <orig>Q̇̇͘a</orig>
 		       <reg>Quia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)it</seg>
-		       <orig>veit</orig>
+	     	  <orig>vēit</orig>
 		       <reg>venit</reg>
 	     </choice> hora iudicii 
 <lb/>
 	     <choice>
 		       <seg type="lucas">ei(us).</seg>
-		       <orig>ei.</orig>
+	     	  <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
-		       <orig>an.</orig>
+	       	<orig>an̈.</orig>
 		       <reg>antiphon.</reg>
 	     </choice> Peruigil 
 	<choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>i</orig>
+		       <orig>i</orig> <!-- need christ abbreviation -->
 		       <reg>christi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nu(n)</seg>
-		       <orig>nu</orig>
+	     	  <orig>nū</orig>
 		       <reg>nun</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ci(us)</seg>
-		       <orig>ci</orig>
+	     	  <orig>ciꝰ</orig>
 		       <reg>cius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">voca(n)s</seg>
-		       <orig>vocas</orig>
+	       	<orig>vocās</orig>
 		       <reg>vocans</reg>
 	     </choice> ad lucis 
 	<choice>
 		       <seg type="lucas">op(er)a</seg>
-		       <orig>opa</orig>
+		       <orig>oꝑa</orig>
 		       <reg>opera</reg>
 	     </choice>
       <lb/>ad 
 	<choice>
 		       <seg type="lucas">frue(n)da</seg>
-		       <orig>frueda</orig>
+		       <orig>fruēda</orig>
 		       <reg>fruenda</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vi(n)ce(n)ci(us)</seg>
-		       <orig>viceci</orig>
+	     	  <orig>vīcēciꝰ</orig>
 		       <reg>vincencius</reg>
 	     </choice> nos du⸗
 

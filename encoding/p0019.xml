@@ -22,225 +22,227 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eiusde(m)</seg>
-		       <orig>eiusde</orig>
+		       <orig>eiusdē</orig>
 		       <reg>eiusdem</reg>
 	     </choice> fidei 
 	<choice>
 		       <seg type="lucas">dilatat(i)o(n)e</seg>
-		       <orig>dilatatoe</orig>
+		       <orig>dilatacōe</orig>
 		       <reg>dilatatione</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">m(arty)rii</seg>
-		       <orig>mrii</orig>
+		       <orig>mr̈ii</orig>
 		       <reg>martyrii</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">palma(m)</seg>
-		       <orig>palma</orig>
+		       <orig>palmā</orig>
 		       <reg>palmam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(er)uit</seg>
-		       <orig>muit</orig>
+		       <orig>ṁuit</orig>
 		       <reg>meruit</reg>
 	     </choice> obti
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ne(re)</seg>
-		       <orig>ne</orig>
+		       <orig>nė</orig>
 		       <reg>nere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">P(er).</seg>
-		       <orig>P.</orig>
+		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphon).</seg>
-		       <orig>an.</orig>
+		       <orig>an̈.</orig>
 		       <reg>antiphon.</reg>
 	     </choice> O 
 	<choice>
 		       <seg type="lucas">tho(m)a</seg>
-		       <orig>thoa</orig>
+		       <orig>thōa</orig>
 		       <reg>thoma</reg>
 	     </choice> laus 
 <lb/>
 	     <choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
-		       <reg>et </reg>
+	           <!-- used a plus sign for et -->
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">gl(o)r(i)a</seg>
-		       <orig>glra</orig>
+		       <seg type="lucas">gl(ori)a</seg>
+		       <orig>gl͘a</orig>
 		       <reg>gloria</reg>
 	     </choice> 
 	     <choice>
+	           <!-- "rum" abbreviation not displaying in oxygen-->
 		       <seg type="lucas">p(re)dicato(rum)</seg>
-		       <orig>pdicato</orig>
+	           <orig>p̄dicatoꝝ</orig>
 		       <reg>predicatorum</reg>
 	     </choice> ordinis
 <lb/>nos 
 	<choice>
 		       <seg type="lucas">tra(n)sfer</seg>
-		       <orig>trasfer</orig>
+		       <orig>trāsfer</orig>
 		       <reg>transfer</reg>
 	     </choice> ad celestia 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>p</orig>
+		       <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice>
       <lb break="no"/>fessor 
 	<choice>
 		       <seg type="lucas">sac(ri)</seg>
-		       <orig>sac</orig>
+		       <orig>saċ</orig>
 		       <reg>sacri</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">num(in)is.</seg>
-		       <orig>numis.</orig>
+		       <seg type="lucas">numi(ni)s.</seg>
+		       <orig>numīs.</orig>
 		       <reg>numinis.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice> De
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">cl(ar)at(i)o</seg>
-		       <orig>clato</orig>
+		       <seg type="lucas">cla(ra)t(i)o</seg>
+		       <orig>cl͘acō</orig>
 		       <reg>claratio</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sermonu(m)</seg>
-		       <orig>sermonu</orig>
+		       <orig>sermonū</orig>
 		       <reg>sermonum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuo(rum)</seg>
-		       <orig>tuo</orig>
+		       <seg type="lucas">tuor(um)</seg>
+	                 <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> il
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">lu(m)i(n)at;</seg>
-		       <orig>luiat;</orig>
+		       <orig>luīat;</orig>
 		       <reg>luminat;</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">i(n)tell(e)c(tu)m</seg>
-		       <orig>itellcm</orig>
+		       <orig>ītellc̄m</orig>
 		       <reg>intellectum</reg>
 	     </choice> dat 
 	<choice>
 		       <seg type="lucas">p(ar)</seg>
-		       <orig>p</orig>
+		       <orig>ꝑ</orig>
 		       <reg>par</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">vul(is);</seg>
-		       <orig>vul;</orig>
+		       <orig>vul͘;</orig>
 		       <reg>vulis;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">An(tiphon).</seg>
-		       <orig>An.</orig>
+		       <orig>An̈.</orig>
 		       <reg>Antiphon.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Collaudet(ur)</seg>
-		       <orig>Collaudet</orig>
+		       <orig>Collaudet݃</orig>
 		       <reg>Collaudetur</reg>
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">(christus) </seg>
-		       <orig> </orig>
-		       <reg>christus </reg>
+		       <seg type="lucas">(christus)</seg>
+		       <orig>xp̄s</orig>
+		       <reg>christus</reg>
 	     </choice> rex 
 	<choice>
 		       <seg type="lucas">g(lori)e</seg>
-		       <orig>ge</orig>
+		       <orig>gl͘e</orig>
 		       <reg>glorie</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
-		       <orig>p</orig>
+		       <orig>ꝑ</orig>
 		       <reg>per</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Thoma(m)</seg>
-		       <orig>Thoma</orig>
+		       <orig>Thomā</orig>
 		       <reg>Thomam</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">lume(n)</seg>
-		       <orig>lume</orig>
+		       <orig>lumē</orig>
 		       <reg>lumen</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eccl(esi)e</seg>
-		       <orig>eccle</orig>
+		       <orig>eccl͘e</orig>
 		       <reg>ecclesie</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mu(n)du(m)</seg>
-		       <orig>mudu</orig>
+		       <orig>mūdū</orig>
 		       <reg>mundum</reg>
 	     </choice> replet
 <lb/>
 	     <choice>
 		       <seg type="lucas">doct(ri)na</seg>
-		       <orig>doctna</orig>
+		       <orig>docṫna</orig>
 		       <reg>doctrina</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gr(ati)e.</seg>
-		       <orig>gre.</orig>
+		       <orig>gr̄e.</orig>
 		       <reg>gratie.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Riga(n)s</seg>
-		       <orig>Rigas</orig>
+		       <orig>Rigās</orig>
 		       <reg>Rigans</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mo(n)</seg>
-		       <orig>mo</orig>
+		       <orig>mō</orig>
 		       <reg>mon</reg>
 	     </choice>
       <lb break="no"/>tes de 
 	<choice>
 		       <seg type="lucas">sup(er)iorib(us)</seg>
-		       <orig>supiorib</orig>
+		       <orig>suꝑiorib⋮</orig>
 		       <reg>superioribus</reg>
 	     </choice> suis ; De
 <lb/>fructu 
 	<choice>
-		       <seg type="lucas">ope(rum)</seg>
-		       <orig>ope</orig>
+		       <seg type="lucas">oper(um)</seg>
+	              <orig>opeꝝ</orig>
 		       <reg>operum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">tuo(rum)</seg>
-		       <orig>tuo</orig>
+		       <seg type="lucas">tuor(um)</seg>
+	              <orig>tuoꝝ</orig>
 		       <reg>tuorum</reg>
 	     </choice> satia
 <lb break="no"/>bitur terra. Oratio.
