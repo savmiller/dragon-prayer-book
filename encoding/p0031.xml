@@ -179,8 +179,8 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">f(a)c(t)a</seg>
-		       <orig>fc̄a</orig>
-	         <!-- diacritic looked to be over the c and the a, put it over the c -->
+		       <orig>fc︦a</orig>
+	         <!-- diacritic looked to be combined over the c and the a, used combined diacritic -->
 		       <reg>facta</reg>
 	     </choice> 
 	     <choice>
@@ -202,8 +202,8 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">f(a)c(tu)m</seg>
-		       <orig>fc̄m</orig>
-	         <!-- diacritic appears over c and m, put it over c -->
+		       <orig>fc︦m</orig>
+	         <!-- diacritic appears over c and m, used combined diacritic -->
 		       <reg>factum</reg>
 	     </choice> 
 	     <choice>
