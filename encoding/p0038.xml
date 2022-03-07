@@ -194,12 +194,9 @@
 		       <reg>Oro.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">q(u?)
-	</seg>
-		       <orig>q
-	</orig>
-		       <reg>qu?
-	<!--  check expansion --></reg>
+		       <seg type="lucas">q(u?)nt(us) </seg>
+		       <orig>q̈nt݃ </orig>
+		       <reg>qu?ntus <!--  check expansion --></reg>
 	           <!-- not sure about either diacritic I used here, the one above the q looks like two dots
 	                 but might not be, and I used two vertical dots for next to the t but again unsure -->
 	     </choice> 
