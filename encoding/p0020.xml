@@ -38,7 +38,7 @@
 	     </choice> Thome 
 	<choice>
 		       <seg type="lucas">(con)fes</seg>
-		       <orig>fes</orig> <!-- con abbreviation -->
+		       <orig>ɔfes</orig> <!-- con abbreviation -->
 		       <reg>confes</reg>
 	     </choice> 
       <lb break="no"/>soris tui 
@@ -50,7 +50,7 @@
 <lb break="no"/>cas; 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig> <!-- need help -->
+		       <orig> +</orig> 
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -76,7 +76,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig> <!-- same abbreviation as before -->
+	     	  <orig>+ </orig> 
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -92,7 +92,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig> </orig><!-- need con abbreviation -->
+	       	<orig> ɔ </orig><!-- ? -->
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
@@ -102,7 +102,7 @@
 	     </choice> ; 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig> <!-- same abbreviation as before -->
+		       <orig> + </orig> 
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -197,7 +197,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-	     	  <orig> </orig> <!-- need this abbreviation -->
+	     	  <orig> + </orig> 
 		       <reg>et </reg>
 	     </choice> date illi hono
 <lb break="no"/>
