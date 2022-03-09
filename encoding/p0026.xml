@@ -12,7 +12,7 @@
       <lb/>regio 
 	<choice>
 		       <seg type="lucas">c(on)ju(n)cta</seg>
-	             <orig>cju̇cta</orig> <!-- not sure how to do the c(on) abbreviations -->
+	             <orig>ɔju̇cta</orig> <!-- not sure how to do the c(on) abbreviations -->
 		       <reg>conjuncta</reg>
 	     </choice> dei filio. 
 	<choice>
@@ -81,7 +81,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig> <!-- not sure about abbreviation -->
+	             <orig>+</orig>
 		       <reg> et </reg>
 	     </choice> ut 
 	<choice>
