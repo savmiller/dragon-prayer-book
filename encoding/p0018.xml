@@ -54,7 +54,7 @@
 		       <reg>Desiderium</reg>
 	     </choice> 
                <choice>
-                     <!-- Note for mel figure out where m comes from -->
+                  
 		       <seg type="lucas">a(n)i(m)e</seg>
 	           <orig>aīe</orig>
 		       <reg>anime</reg>
@@ -72,60 +72,64 @@
 	     </choice>
       <lb/>ei 
 	<choice>
-	      <!-- Note for mel figure out where omi comes from -->
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> ; Et 
 	<choice>
 		       <seg type="lucas">volu(n)tate</seg>
-		       <orig>volutate</orig>
+	                 <orig>volūtate</orig>
 		       <reg>voluntate</reg>
 	     </choice> la
 <lb break="no"/>
 	     <choice>
+	           <!-- what is the unicode character for um ligature, it has a thing on common abbreviations doc -->
 		       <seg type="lucas">bior(um)</seg>
 		       <orig>bior</orig>
 		       <reg>biorum</reg>
 	     </choice> 
 	     <choice>
+	           <!-- again no unicode character for us -->
 		       <seg type="lucas">ei(us)</seg>
 		       <orig>ei</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">no(n)</seg>
-		       <orig>no</orig>
+	                 <orig>nȯ</orig>
 		       <reg>non</reg>
 	     </choice> fraudasti 
 	<choice>
 		       <seg type="lucas">eu(m).</seg>
-		       <orig>eu.</orig>
+	                 <orig>eū.</orig>
 		       <reg>eum.</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">An(tiphon)</seg>
-		       <orig>An</orig>
+	                 <orig>An̈</orig>
 		       <reg>Antiphon</reg>
 	     </choice> 
 	     <choice>
+	           <!-- again no unicode character for us -->
 		       <seg type="lucas">Petr(us)</seg>
 		       <orig>Petr</orig>
 		       <reg>Petrus</reg>
 	     </choice> 
 	     <choice>
+	           <!-- again no unicode character for us -->	         
 		       <seg type="lucas">nov(us)</seg>
 		       <orig>nov</orig>
 		       <reg>novus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)cola</seg>
-		       <orig>icola</orig>
+	                 <orig>īcola</orig>
 		       <reg>incola</reg>
 	     </choice> 
       <lb/>celos 
 	<choice>
+	      <!-- again no unicode character for us -->	        
 		       <seg type="lucas">laureat(us)</seg>
 		       <orig>laureat</orig>
 		       <reg>laureatus</reg>
@@ -133,23 +137,24 @@
 <lb/>aureola 
 	<choice>
 		       <seg type="lucas">t(ri)plici</seg>
-		       <orig>tplici</orig>
+	                 <orig>ṫplici</orig>
 		       <reg>triplici</reg>
 	     </choice> 
 	     <choice>
+	           <!-- again no unicode character for us -->	        
 		       <seg type="lucas">dotat(us).</seg>
 		       <orig>dotat.</orig>
 		       <reg>dotatus.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+	                 <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">D(omi)ne</seg>
-		       <orig>Dne</orig>
+	           <orig>Dn̄e</orig>
 		       <reg>Domine</reg>
 	     </choice> 
 	     <choice>
