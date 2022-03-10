@@ -78,7 +78,7 @@
         </choice> ser
         <lb break="no"/>vos tuos. 
         <choice>
-            <seg type="lucas">(et) </seg>
+            <seg type="lucas">(et)</seg>
             <orig>+</orig>
             <reg>et </reg>
         </choice> 
@@ -186,12 +186,11 @@
             <reg>Dirigere</reg>
         </choice> 
         <choice>
-            <seg type="lucas">(et) </seg>
+            <seg type="lucas">(et)</seg>
             <orig>+</orig>
-            <reg>et </reg>
+            <reg>et</reg>
         </choice> 
         <choice>
-            <!-- continue from here!!!! -->
             <seg type="lucas">s(an)c(t)ificare</seg>
             <orig>scificare</orig>
             <reg>sanctificare</reg>
@@ -199,38 +198,38 @@
         <lb/>
         <choice>
             <seg type="lucas">dign(er)is</seg>
-            <orig>dignis</orig>
+            <orig>digṅis</orig>
             <reg>digneris</reg>
         </choice> 
         <choice>
             <seg type="lucas">d(omi)ne</seg>
-            <orig>dne</orig>
+            <orig>dn̄e</orig>
             <reg>domine</reg>
         </choice> 
         <choice>
             <seg type="lucas">s(an)c(t)e</seg>
-            <orig>sce</orig>
+            <orig>sċe</orig>
             <reg>sancte</reg>
         </choice> 
         <choice>
             <seg type="lucas">p(ate)r</seg>
-            <orig>pr</orig>
+            <orig>pr̄</orig>
             <reg>pater</reg>
         </choice> 
         <choice>
             <seg type="lucas">o(mni)p(oten)s</seg>
-            <orig>ops</orig>
+            <orig>op̄s</orig>
             <reg>omnipotens</reg>
         </choice>
         <lb/>
         <choice>
             <seg type="lucas">et(er)ne</seg>
-            <orig>etne</orig>
+            <orig>et͘ne</orig>
             <reg>eterne</reg>
         </choice> 
         <choice>
             <seg type="lucas">d(eu)s:</seg>
-            <orig>ds:</orig>
+            <orig>ḋs:</orig>
             <reg>deus:</reg>
         </choice> hodie corda 
         <choice>
@@ -256,54 +255,54 @@
         </choice> lege tua . 
         <choice>
             <seg type="lucas">(et)</seg>
-            <orig/>
+            <orig>+</orig>
             <reg>et</reg>
         </choice>
         <lb/>
         <choice>
             <seg type="lucas">i(n)</seg>
-            <orig>i</orig>
+            <orig>ī</orig>
             <reg>in</reg>
         </choice> 
         <choice>
             <seg type="lucas">op(er)ib(us)</seg>
-            <orig>opib</orig>
+            <orig>oꝑib⋮</orig>
             <reg>operibus</reg>
         </choice> 
         <choice>
             <seg type="lucas">ma(n)dato(rum)</seg>
-            <orig>madato</orig>
+            <orig>mādatoꝝ</orig>
             <reg>mandatorum</reg>
         </choice> 
         <choice>
             <seg type="lucas">tuo(rum);</seg>
-            <orig>tuo;</orig>
+            <orig>tuoꝝ;</orig>
             <reg>tuorum;</reg>
         </choice>
         <lb/>ut 
         <choice>
             <seg type="lucas">h(ic)</seg>
-            <orig>h</orig>
+            <orig>ḣ</orig>
             <reg>hic</reg>
         </choice> 
         <choice>
-            <seg type="lucas">(et) </seg>
-            <orig> </orig>
-            <reg>et </reg>
+            <seg type="lucas">(et)</seg>
+            <orig>+</orig>
+            <reg>et</reg>
         </choice> 
         <choice>
             <seg type="lucas">i(n)</seg>
-            <orig>i</orig>
+            <orig>ī</orig>
             <reg>in</reg>
         </choice> 
         <choice>
             <seg type="lucas">et(er)nu(m)</seg>
-            <orig>etnu</orig>
+            <orig>eṫnū</orig>
             <reg>eternum</reg>
         </choice> te 
         <choice>
             <seg type="lucas">auxilia(nte)</seg>
-            <orig>auxilia</orig>
+            <orig>auxiliā</orig>
             <reg>auxiliante</reg>
         </choice>
     </ab>
