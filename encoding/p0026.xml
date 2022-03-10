@@ -196,7 +196,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)a</seg>
-	             <orig>sca</orig> <!-- cannot get macron over "c" -->
+	             <orig>sc̄a</orig> 
 		       <reg>sancta</reg>
 	     </choice> dei 
 	<choice>
