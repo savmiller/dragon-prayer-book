@@ -232,38 +232,38 @@
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">b(ea)ti</seg>
-		       <orig>bti</orig>
+		       <orig>bt̄i</orig>
 		       <reg>beati</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Pet(ri)</seg>
-		       <orig>Pet</orig>
+	                 <orig>Peṫ</orig>
 		       <reg>Petri</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(a)r(ty)ris</seg>
-		       <orig>mrris</orig>
+		       <orig>mrr̈is</orig>
 		       <reg>martyris</reg>
 	     </choice> tui 
 	<choice>
 		       <seg type="lucas">fide(m)</seg>
-		       <orig>fide</orig>
+		       <orig>fidē</orig>
 		       <reg>fidem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(con)grua</seg>
-		       <orig>grua</orig>
+	           <orig>ɔgrua</orig>
 		       <reg>congrua</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">devot(i)o(n)e</seg>
-		       <orig>devotoe</orig>
+		       <orig>devotōe</orig>
 		       <reg>devotione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sectem(ur);</seg>
-		       <orig>sectem;</orig>
+	           <orig>sectem݃	;</orig>
 		       <reg>sectemur;</reg>
 	     </choice>
    </ab>
