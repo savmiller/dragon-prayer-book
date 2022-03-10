@@ -30,9 +30,9 @@
          
 <lb/>
 	     <choice>
-	           <!-- Need to find the backwards J -->
+	           
 		       <seg type="lucas">(con)misso.</seg>
-		       <orig>misso.</orig>
+		       <orig>ɔmisso.</orig>
 		       <reg>conmisso.</reg>
 	     </choice> 
          
@@ -92,21 +92,20 @@
 		       <reg>nostris</reg>
 	     </choice> 
 	     <choice>
-	        <!-- Need to find the backwards J -->
-		       <seg type="lucas">(con)cede</seg>
-		       <orig>cede</orig>
+	        	        <seg type="lucas">(con)cede</seg>
+		       <orig>ɔcede</orig>
 		       <reg>concede</reg>
 	     </choice> 
 	     <choice>
-	        <!-- My p with a bar code isn't working -->
+	        
 		       <seg type="lucas">t(em)p(or)ib(us):</seg>
-	                  <orig>tpib⋮:</orig>
+	                  <orig>tꝑib⋮:</orig>
 		       <reg>temporibus:</reg>
 	     </choice> 
 	     <choice>
-	        <!-- My p with a bar code isn't working -->
+	        
 		       <seg type="lucas">P(er).</seg>
-		       <orig>P.</orig>
+		       <orig>Ꝑ.</orig>
 		       <reg>Per.</reg>
 	     </choice> 
 	     <choice>
@@ -170,9 +169,8 @@
 		       <reg>sionis</reg>
 	     </choice> 
 	     <choice>
-	        <!-- the squiggly us sign isnt working -->
-		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	        	        <seg type="lucas">ei(us)</seg>
+		       <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
@@ -203,7 +201,7 @@
 		       <reg>futurae</reg>
 	     </choice> 
 	     <choice>
-	        <!-- it is somtimes hard to tell which letter the bar is on -->
+	        <!-- it is sometimes hard to tell which letter the bar is on -->
 		       <seg type="lucas">gl(ori)e</seg>
 		       <orig>gl̄e</orig>
 		       <reg>glorie</reg>
@@ -214,9 +212,9 @@
 		       <reg>nobis</reg>
 	     </choice> 
 	     <choice>
-	        <!-- the squiggly us sign isnt working -->
+	        
 		       <seg type="lucas">pign(us)</seg>
-		       <orig>pign</orig>
+		       <orig>pignꝰ</orig>
 		       <reg>pignus</reg>
 	     </choice> 
 	     <choice>
@@ -303,9 +301,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-	        <!-- the squiggly us sign isnt working -->
+	        
 		       <seg type="lucas">DE(us)</seg>
-		       <orig>DE</orig>
+		       <orig>DEꝰ</orig>
 		       <reg>DEus</reg>
 	     </choice> 
 	     <choice>

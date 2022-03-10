@@ -21,9 +21,8 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-	           <!-- no unicode character for "us" -->
 		       <seg type="lucas">cui(us)</seg>
-	           <orig>cui</orig>
+	           <orig>cuiꝰ</orig>
 		       <reg>cuius</reg>
 	     </choice> laudis ti
 <lb break="no"/>
@@ -60,9 +59,8 @@
 		       <reg>anime</reg>
 	     </choice> 
 	     <choice>
-	           <!-- again no unicode character for us -->
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	                 <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
@@ -83,15 +81,13 @@
 	     </choice> la
 <lb break="no"/>
 	     <choice>
-	           <!-- what is the unicode character for um ligature, it has a thing on common abbreviations doc -->
 		       <seg type="lucas">bior(um)</seg>
-		       <orig>bior</orig>
+	           <orig>biorꝝ</orig>
 		       <reg>biorum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- again no unicode character for us -->
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	                  <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
@@ -111,15 +107,13 @@
 		       <reg>Antiphon</reg>
 	     </choice> 
 	     <choice>
-	           <!-- again no unicode character for us -->
 		       <seg type="lucas">Petr(us)</seg>
-		       <orig>Petr</orig>
+	                 <orig>Petrꝰ</orig>
 		       <reg>Petrus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- again no unicode character for us -->	         
 		       <seg type="lucas">nov(us)</seg>
-		       <orig>nov</orig>
+	                 <orig>novꝰ</orig>
 		       <reg>novus</reg>
 	     </choice> 
 	     <choice>
@@ -129,9 +123,8 @@
 	     </choice> 
       <lb/>celos 
 	<choice>
-	      <!-- again no unicode character for us -->	        
 		       <seg type="lucas">laureat(us)</seg>
-		       <orig>laureat</orig>
+	                 <orig>laureatꝰ</orig>
 		       <reg>laureatus</reg>
 	     </choice> ascendit
 <lb/>aureola 
@@ -141,9 +134,8 @@
 		       <reg>triplici</reg>
 	     </choice> 
 	     <choice>
-	           <!-- again no unicode character for us -->	        
 		       <seg type="lucas">dotat(us).</seg>
-		       <orig>dotat.</orig>
+	           <orig>dotatꝰ.</orig>
 		       <reg>dotatus.</reg>
 	     </choice> 
 	     <choice>
@@ -159,118 +151,119 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)ve(n)isti</seg>
-		       <orig>pveisti</orig>
+	           <orig>ṗveīsti</orig>
 		       <reg>prevenisti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eu(m)</seg>
-		       <orig>eu</orig>
+	                 <orig>eū</orig>
 		       <reg>eum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	                 <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(e)n(e)dic</seg>
-		       <orig>bndic</orig>
+	                 <orig>bn̄dic</orig>
 		       <reg>benedic</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(i)o(n)ib(us)</seg>
-		       <orig>toib</orig>
+	                 <orig>tȯib⋮</orig>
 		       <reg>tionibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dulcedi(ni)s</seg>
-		       <orig>dulcedis</orig>
+	                 <orig>dulcedīs</orig>
 		       <reg>dulcedinis</reg>
 	     </choice> ; Posuis
 <lb break="no"/>ti 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	                 <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> capite 
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	                 <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">corona(m)</seg>
-		       <orig>corona</orig>
+	                 <orig>coronā</orig>
 		       <reg>coronam</reg>
 	     </choice> de
 <lb/>lapide 
 	<choice>
 		       <seg type="lucas">p(re)cioso.</seg>
-		       <orig>pcioso.</orig>
+	                  <orig>ṗcioso.</orig>
 		       <reg>precioso.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">O(remus).</seg>
-		       <orig>O.</orig>
+	           <orig>Or̄.</orig>
 		       <reg>Oremus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
+	           <!-- unsure about how to encode this -->
 		       <seg type="lucas">PR(est)a</seg>
 		       <orig>PRa</orig>
 		       <reg>PResta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uesu)m(u)s</seg>
-		       <orig>qms</orig>
+		       <orig>qm̄s</orig>
 		       <reg>quesumus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">om(ni)p(oten)s</seg>
-		       <orig>omps</orig>
+		       <orig>omp̄s</orig>
 		       <reg>omnipotens</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s:</seg>
-		       <orig>ds:</orig>
+	                 <orig>ḋs:</orig>
 		       <reg>deus:</reg>
 	     </choice>
       <lb/>ut 
 	<choice>
 		       <seg type="lucas">b(ea)ti</seg>
-		       <orig>bti</orig>
+		       <orig>bt̄i</orig>
 		       <reg>beati</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Pet(ri)</seg>
-		       <orig>Pet</orig>
+	                 <orig>Peṫ</orig>
 		       <reg>Petri</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(a)r(ty)ris</seg>
-		       <orig>mrris</orig>
+		       <orig>mrr̈is</orig>
 		       <reg>martyris</reg>
 	     </choice> tui 
 	<choice>
 		       <seg type="lucas">fide(m)</seg>
-		       <orig>fide</orig>
+		       <orig>fidē</orig>
 		       <reg>fidem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(con)grua</seg>
-		       <orig>grua</orig>
+	           <orig>ɔgrua</orig>
 		       <reg>congrua</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">devot(i)o(n)e</seg>
-		       <orig>devotoe</orig>
+		       <orig>devotōe</orig>
 		       <reg>devotione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sectem(ur);</seg>
-		       <orig>sectem;</orig>
+	           <orig>sectem݃	;</orig>
 		       <reg>sectemur;</reg>
 	     </choice>
    </ab>

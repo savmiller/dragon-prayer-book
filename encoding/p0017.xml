@@ -25,7 +25,6 @@
 		       <orig>loqt</orig>
 		       <reg>loquetur</reg>
 	     </choice> iudi
-         
          <!-- My machine is not recognizing the unicode characters-->
          
 <lb break="no"/>
@@ -65,112 +64,120 @@
 	     </choice> saluti 
 	<choice>
 		       <seg type="lucas">p(ro)vide(n)s</seg>
-		       <orig>pvides</orig>
+	      <orig>ꝓvidēs</orig>
 		       <reg>providens</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">ho(m)i(num)</seg>
-		       <orig>hoi</orig>
+	           <orig>h oi⋮</orig>
+	           <!-- should the  macron be over the o?-->
 		       <reg>hominum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(un)do</seg>
-		       <orig>mdo</orig>
+		       <orig>̄mdo</orig>
+	           <!-- need to come back to this-->
 		       <reg>mundo</reg>
 	     </choice> dedit 
 	<choice>
 		       <seg type="lucas">s(an)c(tu)m</seg>
-		       <orig>scm</orig>
+	      <orig>̇sc m</orig>
+	      <!-- should the macron be over the m?-->
 		       <reg>sanctum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)ni</seg>
-		       <orig>Dni</orig>
+	           <orig>D ni</orig>
+	           <!-- should the macron be over the n?-->
 		       <reg>Domini</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">cu(m).</seg>
-		       <orig>cu.</orig>
+	           <orig>cū.</orig>
 		       <reg>cum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+	           <orig>V̇̇</orig>
+	           <!-- cannot see the dot over the V but I copied and pasted from unicode page-->
 		       <reg>Vespers</reg>
 	     </choice> lex dei 
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	             <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> corde ip
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">si(us)</seg>
-		       <orig>si</orig>
+	           <orig>siꝰ</orig>
 		       <reg>sius</reg>
 	     </choice> ; Et 
 	<choice>
 		       <seg type="lucas">n(on)</seg>
-		       <orig>n</orig>
+		       <orig>̄n</orig>
+	      <!-- should the macron be over the n?-->
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">suppla(n)tabu(n)t(ur)</seg>
-		       <orig>supplatabut</orig>
+	           <orig>supplātabūt</orig>
 		       <reg>supplantabuntur</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">DE(us)</seg>
-		       <orig>DE</orig>
+	           <orig>DEꝰ</orig>
 		       <reg>DEus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(u)i</seg>
-		       <orig>qi</orig>
+	           <orig>qī</orig>
 		       <reg>qui</reg>
 	     </choice> ec⸗ 
 	<choice>
 		       <seg type="lucas">Or(a)</seg>
-		       <orig>Or</orig>
+	      <orig>Or⋮</orig>
 		       <reg>Ora</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">gress(us)</seg>
-		       <orig>gress</orig>
+	           <orig>gressꝰ</orig>
 		       <reg>gressus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(ius).</seg>
-		       <orig>e.</orig>
+	           <orig>eꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">cl(esi)am</seg>
-		       <orig>clam</orig>
+	           <orig>clȧ⋮</orig>
 		       <reg>clesiam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tua(m)</seg>
-		       <orig>tua</orig>
+	           <orig>tuā</orig>
 		       <reg>tuam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)ti</seg>
-		       <orig>bti</orig>
+	           <orig>b ti</orig>
+	           <!-- should the macron be over the t?-->
 		       <reg>beati</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(omi)nici</seg>
-		       <orig>Dnici</orig>
+	           <orig>D nici</orig>
+	           <!-- should the macron be over the n?-->
 		       <reg>Dominici</reg>
 	     </choice> 
 9. 
