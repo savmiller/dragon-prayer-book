@@ -176,6 +176,8 @@
 		       <seg type="lucas">(con)fu(n)det(ur)</seg>
 		       <orig>ɔfūdet݃</orig>
 		       <reg>confundetur</reg>
+	     	<!-- the transcription has this as two words but it is clearly
+	     		supposed to be one so I fixed it -->
 	     </choice>
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
