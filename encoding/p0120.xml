@@ -12,15 +12,16 @@
       <lb/>filii tui 
 	<choice>
 		       <seg type="lucas">testame(n)tu(m)</seg>
-		       <orig>testametu</orig>
+		       <orig>testamētū</orig>
 		       <reg>testamentum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meu(m):</seg>
-		       <orig>meu:</orig>
+		       <orig>meū:</orig>
 		       <reg>meum:</reg>
 	     </choice> 
 	     <choice>
+	         <!-- unicode character not assigned -->
 		       <seg type="lucas">(et) </seg>
 		       <orig> </orig>
 		       <reg>et </reg>
@@ -28,46 +29,48 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">testi(m)onia</seg>
-		       <orig>testionia</orig>
+		       <orig>testīonia</orig>
 		       <reg>testimonia</reg>
 	     </choice> mea hec 
 	<choice>
 		       <seg type="lucas">q(ue)</seg>
-		       <orig>q</orig>
+		       <orig>q̄</orig>
 		       <reg>que</reg>
 	     </choice> doce
 <lb break="no"/>bo eos. Et filii 
 	<choice>
 		       <seg type="lucas">eor(um):</seg>
-		       <orig>eor:</orig>
+		       <orig>eor⋮:</orig>
 		       <reg>eorum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">usq(ue)</seg>
-		       <orig>usq</orig>
+		       <orig>usq⋮</orig>
 		       <reg>usque</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)l(um)</seg>
-		       <orig>scl</orig>
+		       <orig>scl͘⋮</orig>
 		       <reg>seculum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sedeb(un)t</seg>
-		       <orig>sedebt</orig>
+		       <orig>sedeb̄t</orig>
 		       <reg>sedebunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(upe)r</seg>
-		       <orig>sr</orig>
+		       <orig>sr̄</orig>
 		       <reg>super</reg>
 	     </choice> 
+       
+       <!-- continue here -->
 	     <choice>
 		       <seg type="lucas">sede(m)</seg>
 		       <orig>sede</orig>
