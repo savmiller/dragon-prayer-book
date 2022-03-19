@@ -12,25 +12,27 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">re(m)</seg>
-		       <orig>re</orig>
+		       <orig>rē</orig>
 		       <reg>rem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)go</seg>
-		       <orig>vgo</orig>
+		       <orig>v̇go</orig>
 		       <reg>virgo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ri)us</seg>
-		       <orig>pus</orig>
+		       <orig>ṗus</orig>
 		       <reg>prius</reg>
 	     </choice> 
 	     <choice>
+	           <!-- no unicode character assigned for a small elevated c -->
 		       <seg type="lucas">a(c)</seg>
 		       <orig>a</orig>
 		       <reg>ac</reg>
 	     </choice> 
 	     <choice>
+	           <!-- continue here -->
 		       <seg type="lucas">post(er)i(us)</seg>
 		       <orig>posti</orig>
 		       <reg>posterius</reg>
