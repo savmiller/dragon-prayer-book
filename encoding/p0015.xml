@@ -34,7 +34,7 @@
 <lb break="no"/>fulget 
 	<choice>
 		       <seg type="lucas">cui(us)</seg>
-	             <orig>cui ̏</orig>
+	             <orig>cuiꝰ</orig>
 		       <reg>cuius</reg>
 	     </choice>
       <lb/>precibus nos adiuvari 
@@ -46,24 +46,24 @@
       <lb break="no"/>te et 
 	<choice>
 		       <seg type="lucas">sp(irit)u</seg>
-		       <orig>sp︦u</orig>
+		       <orig>sp̄u</orig>
 		       <reg>spiritu</reg>
 	     </choice> devotissime pos
 <lb break="no"/>cimus 
 	<choice>
-		       <seg type="lucas">V(espers?)</seg>
+		       <seg type="lucas">V(espers)</seg>
 	             <orig>V̇</orig>
-		       <reg>Vespers?</reg>
+		       <reg>Vespers</reg>
 	     </choice> Ora 
 	<choice>
-		       <seg type="lucas">p(ro)nobis</seg>
-	             <orig>ꝓnobis</orig>
-		       <reg>pronobis</reg>
-	     </choice>
+		       <seg type="lucas">p(ro)</seg>
+	             <orig>ꝓ</orig>
+		       <reg>pro</reg>
+	     </choice> nobis
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)a</seg>
-	              <orig>scā</orig> <!-- are there any other abbreviations in this? -->
+	              <orig>sc̄a</orig> <!-- are there any other abbreviations in this? -->
 		       <reg>sancta</reg>
 	     </choice> dei 
 	<choice>
@@ -73,7 +73,7 @@
 	     </choice> Ut 
 	<choice>
 		       <seg type="lucas">dig(ni)</seg>
-		       <orig>dig͘</orig>
+		       <orig>diġ</orig>
 		       <reg>digni</reg>
 	     </choice> effi
 <lb break="no"/>ciamur 
@@ -83,9 +83,9 @@
 		       <reg>promissionibus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(christi) </seg>
-		       <orig> </orig> <!-- confused on this abbreviation -->
-		       <reg>christi </reg>
+		       <seg type="lucas">(christ)i</seg>
+		       <orig>xp̄i</orig> <!-- confused on this abbreviation -->
+		       <reg>christi</reg>
 	     </choice> Zu
 <lb/>
 	     <choice>
@@ -113,7 +113,12 @@
 		       <seg type="lucas">co(n)fugim(us)</seg>
 	             <orig>cōfugimꝰ</orig> <!-- unsure about abbreviation for us-->
 		       <reg>confugimus</reg>
-	     </choice> sancta dei 
+	     </choice>
+               <choice>
+                              <seg type="lucas">san(c)ta</seg> 
+                              <orig>sanᶜta</orig>
+                              <reg>sancta</reg>
+               </choice>sancta dei 
 	<choice>
 		       <seg type="lucas">genit(ri)x</seg>
 		       <orig>genit͘x</orig>
@@ -126,8 +131,8 @@
 		       <reg>nostras</reg>
 	     </choice> d[epre]
 	<choice>
-		       <seg type="lucas">catio(n)es</seg>
-	             <orig>catioēs</orig> <!-- confused if i is present in the orignial text, and check abbreviations -->
+		       <seg type="lucas">cat(i)o(n)es</seg>
+	             <orig>cac̄oēs</orig> <!-- confused if i is present in the orignial text, and check abbreviations -->
 		       <reg>cationes</reg>
 	     </choice> ne despi⸗
 
