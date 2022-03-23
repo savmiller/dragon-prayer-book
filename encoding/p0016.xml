@@ -61,12 +61,12 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">v(ir)go</seg>
-	     	  <orig>v̄go</orig>
+	     	  <orig>v̇go</orig>
 		       <reg>virgo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)violata</seg>
-		       <orig>īviolata</orig>
+		       <orig>īviolata</orig>
 		       <reg>inviolata</reg>
 	     </choice> 
 	     <choice>
@@ -77,7 +77,7 @@
       <lb/>Dei 
 	<choice>
 		       <seg type="lucas">genit(ri)x</seg>
-		       <orig>geniṫx</orig>
+		       <orig>genit͘x</orig>
 		       <reg>genitrix</reg>
 	     </choice> 
 	     <choice>
@@ -103,15 +103,15 @@
 	     </choice> famu⸗ 
 	<choice>
 		       <seg type="lucas">or(emus)</seg>
-			   <orig>oꝛ</orig>
+			   <orig>or̄</orig>
 		       <reg>oremus</reg>
 	     </choice>
    	<lb/>los tuos subsidiis pa
 <lb break="no"/>cis : 
 	<choice>
-		       <seg type="lucas">(et) </seg>
-			   <orig>+ </orig>
-		       <reg>et </reg>
+		       <seg type="lucas">(et)</seg>
+			   <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)te</seg>
@@ -148,7 +148,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">an(tiphona)</seg>
-		       <orig>an̈</orig>
+		       <orig>an̄</orig>
 	     	<!-- not sure about diacritic here, used two dots -->
 		       <reg>antiphona</reg>
 	     </choice> Magne 
@@ -161,7 +161,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)e</seg>
-		       <orig>scē</orig>
+		       <orig>sc̄e</orig>
 		       <reg>sancte</reg>
 	     </choice> 
 	     <choice>
@@ -172,9 +172,9 @@
 
 <lb/>tecum suscipe 
 	<choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig>+ </orig>
-		       <reg>et </reg>
+		       <seg type="lucas">(et)</seg>
+		       <orig>+</orig>
+		       <reg>et</reg>
 	     </choice> hic 
 	<choice>
 		       <seg type="lucas">semp(er)</seg>
@@ -190,8 +190,7 @@
 <lb/>iusti 
 	<choice>
 		       <seg type="lucas">meditabit(ur)</seg>
-		       <orig>meditabiẗ</orig>
-	
+		       <orig>meditabitʳ</orig>
 		       <reg>meditabitur</reg>
 	     </choice> 
 	     <choice>
