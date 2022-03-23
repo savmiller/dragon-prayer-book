@@ -77,7 +77,7 @@
 	     <choice>
 		       <seg type="lucas">s(an)c(t)ificet(ur)</seg>
 		       <orig>sc̄ificet݃</orig>
-		       <reg>sanctificetur</reg>
+		       <reg>sanctificetur</reg> <!-- check -->
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nom(en)</seg>
