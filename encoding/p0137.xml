@@ -12,69 +12,73 @@
       <lb/>cta tu 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
+<!-- The characters in orig don't include a "u" but I think that there is one formed between the "m" and the of "l", also I can't identify a mark that would be an abbreviation to represent "u" which makes me think that it is made from the ends of those first two characters, didn't edit the orig just to be safe-->
 		       <seg type="lucas">m(u)lierib(us)</seg>
-		       <orig>mlierib</orig>
+	             <orig>mlierib⋮</orig>
 		       <reg>mulieribus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	             <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
+	           <!-- unsure of what character to use for (tu) -->
 		       <seg type="lucas">b(e)n(e)d(i)c(tu)s</seg>
-		       <orig>bndcs</orig>
+	                 <orig>bn̄dc̄s</orig>
 		       <reg>benedictus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">fruct(us)</seg>
-		       <orig>fruct</orig>
+	                 <orig>fructꝰ</orig>
 		       <reg>fructus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)t(ri)s</seg>
-		       <orig>vets</orig>
+	                 <orig>vēṫs</orig>
 		       <reg>ventris</reg>
 	     </choice> tui 
 	<choice>
+	      <!-- checked main transcription doc and this is the only time this appears, not sure how to abbreviate-->
 		       <seg type="lucas">i(esu)s</seg>
 		       <orig>is</orig>
 		       <reg>iesus</reg>
 	     </choice> 
 	     <choice>
+	           <!-- took off m? -->
 		       <seg type="lucas">(christu)s</seg>
-		       <orig>s</orig>
+	           <orig>xp̄s</orig>
 		       <reg>christus</reg>
 	     </choice> A
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(n).</seg>
-		       <orig>me.</orig>
+	                  <orig>mē.</orig>
 		       <reg>men.</reg>
 	     </choice> Credo 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	                 <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>
-		       <orig>deu</orig>
+	                 <orig>deū</orig>
 		       <reg>deum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)re(m)</seg>
-		       <orig>pre</orig>
+	                 <orig>pr̄e⋮</orig>
 		       <reg>patrem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)i</seg>
-		       <orig>oi</orig>
+		       <orig>oī</orig>
 		       <reg>omni</reg>
 	     </choice>
       <lb break="no"/>
