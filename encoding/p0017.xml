@@ -163,47 +163,29 @@
 	                 <orig>Dn̄ici</orig>
 		       <reg>Dominici</reg>
 	     </choice> 
-9. 
 	<choice>
 		       <seg type="lucas">(con)fessoris</seg>
-<<<<<<< HEAD
 		       <orig>ɔfessoris</orig>
-=======
-	      <orig>ɔfessoris</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>confessoris</reg>
 	     </choice> tui. 
 	<choice>
 		       <seg type="lucas">illu(m)i(n)are</seg>
-<<<<<<< HEAD
 		       <orig>illuīare</orig>
-=======
-	      <orig>illuīare</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>illuminare</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dig(na)</seg>
-<<<<<<< HEAD
 		       <orig>dig̈</orig>
-=======
-	           <orig>di g</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>digna</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(us)</seg>
-<<<<<<< HEAD
 		       <orig>tꝰ</orig>
-=======
-	           <orig>tꝰ</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>tus</reg>
 	     </choice> es 
 	<choice>
 		       <seg type="lucas">m(er)itis</seg>
-<<<<<<< HEAD
 		       <orig>ṁitis</orig>
 		       <reg>meritis</reg>
 	     </choice>
@@ -215,186 +197,101 @@
 	<choice>
 		       <seg type="lucas">doct(ri)nis.</seg>
 		       <orig>doct͘nis.</orig>
-=======
-	      <orig>ṁitis</orig>
-		       <reg>meritis</reg>
-	      <seg type="lucas">(et)</seg> 
-	      <orig>+</orig>
-	      <seg type="lucas">et</seg> 
-	</choice> 
-         <choice>
-		       <seg type="lucas">doct(ri)nis.</seg>
-	      <orig>docṫnis.</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>doctrinis.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)ce</seg>
-<<<<<<< HEAD
 		       <orig>ɔce</orig>
-=======
-	           <orig>ɔce</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>conce</reg>
 	     </choice> 
       <lb break="no"/>de ut 
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
-<<<<<<< HEAD
 		       <orig>eiꝰ</orig>
-=======
-	      <orig>eiꝰ</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cessio(n)e</seg>
-<<<<<<< HEAD
 		       <orig>īt͘cessiōe</orig>
-=======
-	           <orig>ī cessiōe</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>intercessione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(em)p(or)alib(us)</seg>
-<<<<<<< HEAD
 		       <orig>tꝑalib⋮</orig>
-=======
-	           <orig>tꝑalib⋮</orig>
-	           <!-- not sure how to encode the t -no abbreviation visible-->
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>temporalibus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">no(n)</seg>
-<<<<<<< HEAD
 		       <orig>nō</orig>
-=======
-	           <orig>nō</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">destituat(ur)</seg>
-<<<<<<< HEAD
 		       <orig>destituat݃</orig>
-=======
-	           <orig>destitua t</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>destituatur</reg>
 	     </choice> auxiliis ; 
 	<choice>
 		       <seg type="lucas">(et)</seg>
-<<<<<<< HEAD
 		       <orig>+</orig>
 	                 <reg>et</reg>
-=======
-	      <orig>+</orig>
-		       <reg>et</reg>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">sp(irit)ualib(us)</seg>
-<<<<<<< HEAD
 		       <orig>spūalib⋮</orig>
-=======
-	           <orig>spūalib⋮</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>spiritualibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(em)p(er)</seg>
-<<<<<<< HEAD
 		       <orig>sꝑ</orig>
-=======
-	           <orig>sꝑ</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>semper</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ficiat</seg>
-<<<<<<< HEAD
 		       <orig>ꝓficiat</orig>
-=======
-	           <orig>ꝓficiat</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>proficiat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)cre</seg>
-<<<<<<< HEAD
 		       <orig>īcre</orig>
-=======
-	           <orig>īcre</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>incre</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(n)tis</seg>
-<<<<<<< HEAD
 		       <orig>mētis</orig>
-=======
-	           <orig>mētis</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>mentis</reg>
 	     </choice> : 
 	<choice>
 		       <seg type="lucas">P(er)</seg>
-<<<<<<< HEAD
 		       <orig>Ꝑ</orig>
-=======
-	      <orig>Ꝑ</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>Per</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">An(tiphon).</seg>
-<<<<<<< HEAD
 		       <orig>An̈.</orig>
-=======
-	           <orig>A n.</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>Antiphon.</reg>
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">sa(n)cti</seg>
-<<<<<<< HEAD
 		       <orig>sācti</orig>
-=======
-	      <orig>sācti</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>sancti</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">Pet(ri)</seg>
-<<<<<<< HEAD
 		       <orig>Pet͘</orig>
-=======
-	           <orig>Peṫ</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>Petri</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tumulu(m)</seg>
-<<<<<<< HEAD
 		       <orig>tumulū</orig>
-=======
-	           <orig>tumulū</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>tumulum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">freq(ue)ns</seg>
-<<<<<<< HEAD
 		       <orig>freq̄ns</orig>
-=======
-	           <orig>fre qns</orig>
->>>>>>> fa36fba256baa893d64acffe9895f34c7112c23a
 		       <reg>frequens</reg>
 	     </choice> lux
 </ab>
