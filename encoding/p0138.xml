@@ -12,217 +12,239 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">cl(esi)a(m)</seg>
-		       <orig>cla</orig>
+		       <orig>cl͘a⋮</orig>
 		       <reg>clesiam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">katholica(m)</seg>
-		       <orig>katholica</orig>
+		       <orig>katholicā</orig>
 		       <reg>katholicam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)or(um)</seg>
-		       <orig>scor</orig>
+		       <orig>scōꝝ</orig>
 		       <reg>sanctorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(com)mu</seg>
-		       <orig>mu</orig>
+		       <orig>ɔmu</orig>
 		       <reg>commu</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">nio(nem)</seg>
-		       <orig>nio</orig>
+		       <orig>niō⋮</orig>
+	           <!-- not sure if macron plus three dots is the right move here but that's what it looks like on the page -->
 		       <reg>nionem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">remissio(nem)</seg>
-		       <orig>remissio</orig>
+		       <orig>remissiō⋮</orig>
+	           <!-- see previous comment -->
 		       <reg>remissionem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)tor(um).</seg>
-		       <orig>pctor.</orig>
+		       <orig>pct̄oꝝ.</orig>
 		       <reg>peccatorum.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ca(r)</seg>
-		       <orig>Ca</orig>
+		       <orig>Cȧ</orig>
 		       <reg>Car</reg>
 	     </choice>
       <lb break="no"/>nis 
 	<choice>
 		       <seg type="lucas">resurrec(t)io(nem).</seg>
-		       <orig>resurrecio.</orig>
+		       <orig>resurreciō⋮.</orig>
 		       <reg>resurrectionem.</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">vita(m)</seg>
-		       <orig>vita</orig>
+		       <orig>vitā</orig>
 		       <reg>vitam</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">et(er)na(m)</seg>
-		       <orig>etna</orig>
+		       <orig>eṫnā</orig>
 		       <reg>eternam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ame(n).</seg>
-		       <orig>Ame.</orig>
+		       <orig>Amē.</orig>
 		       <reg>Amen.</reg>
 	     </choice> Ad. 
 	<choice>
 		       <seg type="lucas">i(?).</seg>
-		       <orig>i.</orig>
+		       <orig>ï.</orig>
 		       <reg>i?.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ds</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> ad.
 <lb/>IAm lucis orto 
 	<choice>
 		       <seg type="lucas">side(re)</seg>
-		       <orig>side</orig>
+		       <orig>sidė</orig>
 		       <reg>sidere</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">deu(m)</seg>
-		       <orig>deu</orig>
+		       <orig>deū</orig>
 		       <reg>deum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)ce</seg>
-		       <orig>pce</orig>
+		       <orig>p̄ce</orig>
 		       <reg>prece</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(ur)</seg>
-		       <orig>m</orig>
+		       <orig>m݃</orig>
+	           <!-- I think these two dots go with the m but they might be a 
+	                 seperate character -->
 		       <reg>mur</reg>
 	     </choice> supplices ut 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> diurnis
 <lb/>
 	     <choice>
 		       <seg type="lucas">actib(us)</seg>
-		       <orig>actib</orig>
+		       <orig>actib⋮</orig>
 		       <reg>actibus</reg>
 	     </choice> nos 
 	<choice>
 		       <seg type="lucas">s(er)vet</seg>
-		       <orig>svet</orig>
+		       <orig>sv̇et</orig>
 		       <reg>servet</reg>
 	     </choice> a 
 	<choice>
 		       <seg type="lucas">noce(n)tib(us).</seg>
-		       <orig>nocetib.</orig>
+		       <orig>nocētib⋮.</orig>
 		       <reg>nocentibus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Li(n)gua(m)</seg>
-		       <orig>Ligua</orig>
+		       <orig>Līguā</orig>
 		       <reg>Linguam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">refrena(n)s</seg>
-		       <orig>refrenas</orig>
+		       <orig>refrenās</orig>
 		       <reg>refrenans</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(em)p(er)et</seg>
-		       <orig>tpet</orig>
+		       <orig>tꝑet</orig>
 		       <reg>temperet</reg>
 	     </choice> ne
 <lb/>litis horror 
 	<choice>
 		       <seg type="lucas">i(n)so(n)et</seg>
-		       <orig>isoet</orig>
+		       <orig>īsōet</orig>
 		       <reg>insonet</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">visu(m)</seg>
-		       <orig>visu</orig>
+		       <orig>visū</orig>
 		       <reg>visum</reg>
 	     </choice> fo
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ve(n)do</seg>
-		       <orig>vedo</orig>
+		       <orig>vēdo</orig>
 		       <reg>vendo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)tegat</seg>
-		       <orig>tegat</orig>
+		       <orig>ɔtegat</orig>
 		       <reg>contegat</reg>
-	     </choice> ne vanitates
+	     </choice> ne        
+         <choice>
+               <seg type="lucas">va(n)itates </seg>
+               <orig>vānitates</orig>
+               <reg>vanitates</reg>
+             <!-- it's important to me that Lucas knows that
+                   he missed this abbreviation in his original doc
+                   and also that I'm better than him <3 (imagine learning to
+                   read gothic script for funsies and only catching 99.9% of the abbrevs
+                   lmaooo -->
+         </choice>
 <lb/>hauriat. Sint pura cor
 <lb break="no"/>dis 
 	<choice>
 		       <seg type="lucas">i(n)tima</seg>
-		       <orig>itima</orig>
+		       <orig>ītima</orig>
 		       <reg>intima</reg>
 	     </choice> absistat 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+ </orig>
 		       <reg>et </reg>
 	     </choice> ve
 <lb break="no"/>cordia carnis terat 
 	<choice>
 		       <seg type="lucas">sup(er)bi</seg>
-		       <orig>supbi</orig>
+		       <orig>suꝑbi</orig>
 		       <reg>superbi</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">a(m)</seg>
-		       <orig>a</orig>
+		       <orig>ā</orig>
 		       <reg>am</reg>
-	     </choice> †
+	     </choice> 
+         <supplied>        
 	<choice>
 		       <seg type="lucas">pot(us)</seg>
-		       <orig>pot</orig>
+		       <orig>potꝰ</orig>
 		       <reg>potus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cibiq(ue)†</seg>
-		       <orig>cibiq†</orig>
-		       <reg>cibique†</reg>
-	     </choice> 
+		       <orig>cibiq⋮</orig>
+		       <reg>cibique</reg>
+	     </choice>
+         </supplied>
 	     <choice>
 		       <seg type="lucas">p(ar)citas.</seg>
-		       <orig>pcitas.</orig>
+		       <orig>ꝑcitas.</orig>
 		       <reg>parcitas.</reg>
 	     </choice> Ut
 <lb/>†
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
-		       <orig>cu</orig>
+		       <orig>cū</orig>
 		       <reg>cum</reg>
 	     </choice> dies 
 	<choice>
 		       <seg type="lucas">abscess(er)it</seg>
-		       <orig>abscessit</orig>
+		       <orig>abscessi͘t</orig>
+	      <!-- this looks like a dot to the right but the page is damaged
+	            so I am unsure -->
 		       <reg>abscesserit</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">nocte(m)que</seg>
-		       <orig>nocteque</orig>
+		       <seg type="lucas">nocte(m)q(ue)</seg>
+		       <orig>noctēq⋮</orig>
+	           <!-- this said "que" was in the orig but it looks
+	                 like three dots to me. Again let Lucas know I'm better than
+	                 him <3 (unless I messed up in which case it was an honest mistake and 
+	                 don't be mean to me) -->
 		       <reg>noctemque</reg>
 	     </choice>
    </ab>
