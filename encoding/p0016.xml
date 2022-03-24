@@ -14,7 +14,6 @@
 		       <seg type="lucas">n(ecess)itatib(us)</seg>
 			   <orig>nc̄citatib⋮</orig>
 		       <reg>necessitatibus</reg>
-		<!-- not sure about diacritic for n(ecess) or if the 3 dots are the right move-->
 	</choice> sed a 
 	<choice>
 		       <seg type="lucas">p(er)icu</seg>
@@ -149,14 +148,12 @@
 	     <choice>
 		       <seg type="lucas">an(tiphona)</seg>
 		       <orig>an̄</orig>
-	     	<!-- not sure about diacritic here, used two dots -->
 		       <reg>antiphona</reg>
 	     </choice> Magne 
 	<choice>
 		       <seg type="lucas">p(ate)r</seg>
 		       <orig>p̄r</orig>
-		<!-- diacritic above both letters, chose p -->
-		       <reg>pater</reg>
+			<reg>pater</reg>
 	     </choice> 
       <lb/>
 	     <choice>
