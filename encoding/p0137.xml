@@ -44,10 +44,9 @@
 		       <reg>ventris</reg>
 	     </choice> tui 
 	<choice>
-	      <!-- checked main transcription doc and this is the only time this appears, not sure how to abbreviate-->
 		       <seg type="lucas">i(esu)s</seg>
-		       <orig>is</orig>
-		       <reg>iesus</reg>
+	                 <orig>iḣs</orig>
+	 	       <reg>iesus</reg>
 	     </choice> 
 	     <choice>
 	           <!-- took off m? -->
@@ -84,69 +83,70 @@
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">pote(n)te(m)</seg>
-		       <orig>potete</orig>
+	                 <orig>potētē</orig>
 		       <reg>potentem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">creatore(m)</seg>
-		       <orig>creatore</orig>
+	                 <orig>creatorē</orig>
 		       <reg>creatorem</reg>
 	     </choice> celi 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	                 <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(er)re.</seg>
-		       <orig>tre.</orig>
+	                 <orig>ṫre.</orig>
 		       <reg>terre.</reg>
 	     </choice>
       <lb/>Et 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	                 <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(esu)m</seg>
-		       <orig>im</orig>
+	                 <orig>iḣm</orig>
 		       <reg>iesum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christu)m</seg>
-		       <orig>m</orig>
+	                 <orig>xp̄m</orig>
 		       <reg>christum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">filiu(m)</seg>
-		       <orig>filiu</orig>
+		       <orig>filiū</orig>
 		       <reg>filium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	                 <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> u
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">nicu(m)</seg>
-		       <orig>nicu</orig>
+		       <orig>nicū</orig>
 		       <reg>nicum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(um)</seg>
-		       <orig>dn</orig>
+	           <orig>dn̄⋮</orig>
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(ost)r(u)m.</seg>
-		       <orig>nrm.</orig>
+		       <orig>nr̄m.</orig>
 		       <reg>nostrum.</reg>
 	     </choice> 
 	     <choice>
+	           <!-- Won't let me encode dot above Q ! -->
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Q̇̇̇̇̇̇</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>

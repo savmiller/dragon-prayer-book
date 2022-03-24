@@ -183,128 +183,132 @@
 9. 
 	<choice>
 		       <seg type="lucas">(con)fessoris</seg>
-		       <orig>fessoris</orig>
+	      <orig>ɔfessoris</orig>
 		       <reg>confessoris</reg>
 	     </choice> tui. 
 	<choice>
 		       <seg type="lucas">illu(m)i(n)are</seg>
-		       <orig>illuiare</orig>
+	      <orig>illuīare</orig>
 		       <reg>illuminare</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">dig(na)</seg>
-		       <orig>dig</orig>
+	           <orig>di g</orig>
 		       <reg>digna</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">t(us)</seg>
-		       <orig>t</orig>
+	           <orig>tꝰ</orig>
 		       <reg>tus</reg>
 	     </choice> es 
 	<choice>
 		       <seg type="lucas">m(er)itis</seg>
-		       <orig>mitis</orig>
+	      <orig>ṁitis</orig>
 		       <reg>meritis</reg>
-	     </choice> et 
-	<choice>
+	      <seg type="lucas">(et)</seg> 
+	      <orig>+</orig>
+	      <seg type="lucas">et</seg> 
+	</choice> 
+         <choice>
 		       <seg type="lucas">doct(ri)nis.</seg>
-		       <orig>doctnis.</orig>
+	      <orig>docṫnis.</orig>
 		       <reg>doctrinis.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)ce</seg>
-		       <orig>ce</orig>
+	           <orig>ɔce</orig>
 		       <reg>conce</reg>
 	     </choice> 
       <lb break="no"/>de ut 
 	<choice>
 		       <seg type="lucas">ei(us)</seg>
-		       <orig>ei</orig>
+	      <orig>eiꝰ</orig>
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)t(er)cessio(n)e</seg>
-		       <orig>itcessioe</orig>
+	           <orig>ī cessiōe</orig>
 		       <reg>intercessione</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(em)p(or)alib(us)</seg>
-		       <orig>tpalib</orig>
+	           <orig>tꝑalib⋮</orig>
+	           <!-- not sure how to encode the t -no abbreviation visible-->
 		       <reg>temporalibus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">no(n)</seg>
-		       <orig>no</orig>
+	           <orig>nō</orig>
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">destituat(ur)</seg>
-		       <orig>destituat</orig>
+	           <orig>destitua t</orig>
 		       <reg>destituatur</reg>
 	     </choice> auxiliis ; 
 	<choice>
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+	      <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">sp(irit)ualib(us)</seg>
-		       <orig>spualib</orig>
+	           <orig>spūalib⋮</orig>
 		       <reg>spiritualibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(em)p(er)</seg>
-		       <orig>sp</orig>
+	           <orig>sꝑ</orig>
 		       <reg>semper</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ficiat</seg>
-		       <orig>pficiat</orig>
+	           <orig>ꝓficiat</orig>
 		       <reg>proficiat</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)cre</seg>
-		       <orig>icre</orig>
+	           <orig>īcre</orig>
 		       <reg>incre</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">me(n)tis</seg>
-		       <orig>metis</orig>
+	           <orig>mētis</orig>
 		       <reg>mentis</reg>
 	     </choice> : 
 	<choice>
 		       <seg type="lucas">P(er)</seg>
-		       <orig>P</orig>
+	      <orig>Ꝑ</orig>
 		       <reg>Per</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">An(tiphon).</seg>
-		       <orig>An.</orig>
+	           <orig>A n.</orig>
 		       <reg>Antiphon.</reg>
 	     </choice> Ad 
 	<choice>
 		       <seg type="lucas">sa(n)cti</seg>
-		       <orig>sacti</orig>
+	      <orig>sācti</orig>
 		       <reg>sancti</reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">Pet(ri)</seg>
-		       <orig>Pet</orig>
+	           <orig>Peṫ</orig>
 		       <reg>Petri</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tumulu(m)</seg>
-		       <orig>tumulu</orig>
+	           <orig>tumulū</orig>
 		       <reg>tumulum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">freq(ue)ns</seg>
-		       <orig>freqns</orig>
+	           <orig>fre qns</orig>
 		       <reg>frequens</reg>
 	     </choice> lux
 </ab>
