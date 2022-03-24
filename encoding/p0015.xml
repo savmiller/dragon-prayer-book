@@ -13,7 +13,7 @@
       <lb/>Ad 
 	<choice>
 		       <seg type="lucas">v(ersu)s</seg>
-		       <orig>v̈s</orig> <!-- not sure how to put the dots above both letters -->
+		       <orig>v̈s</orig>
 		       <reg>versus</reg>
 	</choice>
       <lb/>
@@ -63,7 +63,7 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">s(an)c(t)a</seg>
-	              <orig>sc̄a</orig> <!-- are there any other abbreviations in this? -->
+	              <orig>sc̄a</orig>
 		       <reg>sancta</reg>
 	     </choice> dei 
 	<choice>
@@ -79,12 +79,12 @@
 <lb break="no"/>ciamur 
 	<choice>
 		       <seg type="lucas">p(ro)missio(n)ib(us)</seg>
-	             <orig>ꝓmissiōibꝰ</orig> <!-- not sure the macron is above o, but it would make the sentence make sense (o with macron = on)  -->
+	             <orig>ꝓmissiōibꝰ</orig>
 		       <reg>promissionibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(christ)i</seg>
-		       <orig>xp̄i</orig> <!-- confused on this abbreviation -->
+		       <orig>xp̄i</orig>
 		       <reg>christi</reg>
 	     </choice> Zu
 <lb/>
@@ -111,7 +111,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">co(n)fugim(us)</seg>
-	             <orig>cōfugimꝰ</orig> <!-- unsure about abbreviation for us-->
+	             <orig>cōfugimꝰ</orig>
 		       <reg>confugimus</reg>
 	     </choice>
                <choice>
@@ -129,11 +129,18 @@
 		       <seg type="lucas">n(ost)ras</seg>
 		       <orig>nr̄as</orig>
 		       <reg>nostras</reg>
-	     </choice> d[epre]
+	     </choice> d <!--unsure if this is the proper way to handle a supplied element appearing mid-word-->
+                  <supplied>
+                        <choice>
+                              <seg type="lucas">ep(re)</seg>
+                              <orig>ep̄</orig>
+                              <reg>epre</reg>
+                        </choice>  
+                  </supplied>
 	<choice>
 		       <seg type="lucas">cat(i)o(n)es</seg>
-	             <orig>cac̄oēs</orig> <!-- confused if i is present in the orignial text, and check abbreviations -->
-		       <reg>cationes</reg>
+	             <orig>cac̄oēs</orig>
+	                 <reg>cationes</reg>
 	     </choice> ne despi⸗
 
 
