@@ -47,9 +47,9 @@
 		       <reg>eribus</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode charatcer not assigned -->
+	     	
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -124,9 +124,8 @@
 		       <reg>magna</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	     		<seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> valde 
 	<choice>
@@ -222,9 +221,9 @@
 		       <reg>precamur</reg>
 	     </choice> te 
 	<choice>
-		<!-- unicode character not assigned -->
+		
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> fi
 <lb break="no"/>
@@ -319,9 +318,9 @@ f.</reg>
 		       <reg>puatorum?</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned -->
+	     	
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -357,9 +356,8 @@ f.</reg>
 		       <reg>benedicti</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	     		<seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> lauda
 <lb break="no"/>biles 
@@ -426,9 +424,9 @@ f.</reg>
 		       <reg>Dum</reg>
 	     </choice> paris 
 	<choice>
-		<!-- unicode character not assigned -->
+		
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> gaudes.
 <lb/>
@@ -525,9 +523,9 @@ f.</reg>
 	     </choice>
       <lb/>
 	     <choice>
-	     	<!-- unicode character not assigned -->
+	     	
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
