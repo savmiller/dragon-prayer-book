@@ -27,7 +27,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	           <!-- unfamilair diacritic next to the q
 	                used a colon per lucas' suggestion --> 
