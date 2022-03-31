@@ -12,62 +12,69 @@
       <lb/>Ad. 
 	<choice>
 		       <seg type="lucas">ix(?).</seg>
-		       <orig>ix.</orig>
+		       <orig>iẍ.</orig>
 		       <reg>ix?.<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">D(eu)s</seg>
-		       <orig>Ds</orig>
+		       <orig>D͘s</orig>
 		       <reg>Deus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">adiu(n)t.</seg>
-		       <orig>adiut.</orig>
+		       <orig>adiut̄.</orig>
 		       <reg>adiunt.</reg>
 	     </choice> 
 	     <choice>
+	           <!-- check transcription, looks like ypn -->
 		       <seg type="lucas">(h)</seg>
 		       <orig/>
 		       <reg>h</reg>
 	     </choice>
 	     <choice>
+	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>yn.</orig>
+		       <orig>ȳnꝰ.</orig>
 		       <reg>ymnus.</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">REru(m)</seg>
-		       <orig>REru</orig>
+		       <orig>RErū</orig>
 		       <reg>RErum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>ds</orig>
+		       <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> tenax vigor
 <lb/>
 	     <choice>
+	           <!-- A770 not appearing correctly -->
 		       <seg type="lucas">i(m)mot(us)</seg>
-		       <orig>imot</orig>
+		       <orig>īmotꝰ</orig>
 		       <reg>immotus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> te 
 	<choice>
+	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)mane(n)s</seg>
-		       <orig>pmanes</orig>
+		       <orig>ꝑmanēs</orig>
 		       <reg>permanens</reg>
 	     </choice>
+         
+         <!-- continue here  -->
+         
       <lb/>lucis diurna 
 	<choice>
 		       <seg type="lucas">t(em)p(or)a</seg>
