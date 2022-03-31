@@ -268,14 +268,14 @@
 		       <orig>t͘bu</orig>
 		       <reg>tribu</reg>
 	     </choice>
-      <lb break="no"/>†
+      <lb break="no"/>
 	<supplied> 
          <choice>
 		       <seg type="lucas">la(n)t</seg>
 		       <orig>lāt</orig>
 		       <reg>lant</reg>
-	     </choice> me†: a       
-	</supplied>
+	     </choice> me       
+	</supplied>: a
 	<choice>
 		       <seg type="lucas">testi(m)oniis</seg>
 		       <orig>testīoniis</orig>
