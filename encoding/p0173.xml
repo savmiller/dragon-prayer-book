@@ -32,7 +32,7 @@
 		       <reg>adiunt.</reg>
 	     </choice> 
 	     <choice>
-	           <!-- check transcription, looks like ypn -->
+	           <!-- check transcription -->
 		       <seg type="lucas">(h)</seg>
 		       <orig/>
 		       <reg>h</reg>
@@ -73,73 +73,75 @@
 		       <reg>permanens</reg>
 	     </choice>
          
-         <!-- continue here  -->
          
       <lb/>lucis diurna 
 	<choice>
 		       <seg type="lucas">t(em)p(or)a</seg>
-		       <orig>tpa</orig>
+		       <orig>tꝑa</orig>
 		       <reg>tempora</reg>
 	     </choice> successi
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">b(us)</seg>
-		       <orig>b</orig>
+		       <orig>b⋮</orig>
 		       <reg>bus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">det(er)mina(n)s.</seg>
-		       <orig>detminas.</orig>
+		       <orig>deṫminās.</orig>
 		       <reg>determinans.</reg>
 	     </choice> Largire
 <lb/>
 	     <choice>
 		       <seg type="lucas">clar(um)</seg>
-		       <orig>clar</orig>
+		       <orig>clar⋮</orig>
 		       <reg>clarum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">vesp(er)e</seg>
-		       <orig>vespe</orig>
+		       <orig>vesꝑe</orig>
 		       <reg>vespere</reg>
 	     </choice> quo vita nus
 <lb break="no"/>
 	     <choice>
+	           <!-- check the small raised s, that's the closest symbol I could find -->
 		       <seg type="lucas">q(uam)</seg>
-		       <orig>q</orig>
+		       <orig>q̈ˢ</orig>
 		       <reg>quam</reg>
 	     </choice> decidat 
 	<choice>
 		       <seg type="lucas">s(ed)</seg>
-		       <orig>s</orig>
+		       <orig>s⋮</orig>
 		       <reg>sed</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(re)miu(m)</seg>
-		       <orig>pmiu</orig>
+		       <orig>p̄miū</orig>
 		       <reg>premium</reg>
 	     </choice> mortis
 <lb/>sacre 
 	<choice>
+	      <!-- A751 not appearing correctly -->
 		       <seg type="lucas">p(er)he(n)nis</seg>
-		       <orig>phenis</orig>
+		       <orig>ꝑhēnis</orig>
 		       <reg>perhennis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)stet</seg>
-		       <orig>istet</orig>
+		       <orig>īstet</orig>
 		       <reg>instet</reg>
 	     </choice> gloria.
 <lb/>
 	     <choice>
 		       <seg type="lucas">Pr(est)a.</seg>
-		       <orig>Pra.</orig>
+		       <orig>Prā.</orig>
 		       <reg>Presta.</reg>
 	     </choice>  
       <lb/>MIra
 <lb break="no"/>bi
 <lb break="no"/>lia testi⸗        Exquo. 
 	<choice>
+	      <!-- unsure how to code the small raised i -->
 		       <seg type="lucas">v(?).</seg>
 		       <orig>v.</orig>
 		       <reg>v?.<!--  check expansion --></reg>
@@ -153,59 +155,59 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">mo(n)ia</seg>
-		       <orig>moia</orig>
+		       <orig>mōia</orig>
 		       <reg>monia</reg>
 	     </choice> tua: 
 	<choice>
 		       <seg type="lucas">id(e)o</seg>
-		       <orig>ido</orig>
+		       <orig>iḋo</orig>
 		       <reg>ideo</reg>
 	     </choice> scrutata 
 	<choice>
 		       <seg type="lucas">e(st)</seg>
-		       <orig>e</orig>
+		       <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> ea
 <lb/>†
 	<choice>
 		       <seg type="lucas">a(n)i(m)a</seg>
-		       <orig>aia</orig>
+		       <orig>aīa</orig>
 		       <reg>anima</reg>
 	     </choice> mea.† 
 	<choice>
 		       <seg type="lucas">Declarat(i)o</seg>
-		       <orig>Declarato</orig>
+		       <orig>Declarat̄o</orig>
 		       <reg>Declaratio</reg>
 	     </choice> †
 	<choice>
 		       <seg type="lucas">s(er)mo⸗†</seg>
-		       <orig>smo⸗†</orig>
+		       <orig>s͘mo⸗†</orig>
 		       <reg>sermo⸗†</reg>
 	     </choice>
       <lb/>†
 	<choice>
 		       <seg type="lucas">nu(m)†</seg>
-		       <orig>nu†</orig>
+		       <orig>nū†</orig>
 		       <reg>num†</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um)</seg>
-		       <orig>tuor</orig>
+		       <orig>tuor⋮</orig>
 		       <reg>tuorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">illu(m)i(n)at.</seg>
-		       <orig>illuiat.</orig>
+		       <orig>illuīat.</orig>
 		       <reg>illuminat.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)tell(e)c(tu)m.</seg>
-		       <orig>itellcm.</orig>
+		       <orig>ītell͘cm.</orig>
 		       <reg>intellectum.</reg>
 	     </choice>
    </ab>
