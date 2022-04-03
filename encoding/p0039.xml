@@ -73,9 +73,9 @@
          
          Qui vivis 
 	<choice>
-	      <!-- Unicode not established yet, best described as a T with a line through it  -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -105,7 +105,7 @@
 		       <orig>scl͘or⋮.</orig>
 		       <reg>saeculorum.</reg>
 	     </choice> Amen.
-<lb/>Dy <!-- capital D and y missing from transcription -->
+<lb/>Dy 
 	<choice>
 		       <seg type="lucas">sege(m)</seg>
 		       <orig>segē</orig>
@@ -183,9 +183,9 @@
 		       <reg>cere</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode not established yet -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> adivuare 
 	<choice>
@@ -235,9 +235,9 @@
 		       <reg>sus</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode not established -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> corda <!-- check translation --> 
 	<choice>
@@ -280,9 +280,8 @@
 		       <reg>propicius</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode not established -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	           		       <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
