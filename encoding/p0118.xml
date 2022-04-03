@@ -108,9 +108,9 @@
 		       <reg>domine</reg>
 	     </choice> david: 
 	<choice>
-	      <!-- unicode character not assigned -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -217,9 +217,8 @@
 	     </choice>
       <lb/>meis: 
 	<choice>
-	      <!-- unicode character not assigned -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	      		<seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> pal 
 	<choice>
