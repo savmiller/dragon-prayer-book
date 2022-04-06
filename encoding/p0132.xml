@@ -16,9 +16,9 @@
 		       <reg>scentibus</reg>
 	     </choice> adiuva 
 	<choice>
-	      <!-- unicode character not approved -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> refove
 <lb/>
@@ -212,9 +212,9 @@
 		       <reg>sum</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> decora filie
 <lb/>

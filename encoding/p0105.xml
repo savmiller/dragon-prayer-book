@@ -150,9 +150,9 @@
 		       <reg>minus</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned -->
+	     
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -341,9 +341,9 @@ f, 45v (0106)
 		       <reg>nunc</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned -->
+	     	
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -416,9 +416,9 @@ f, 45v (0106)
 		       <reg>dominus:</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned -->
+	     	
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -479,9 +479,9 @@ f, 45v (0106)
 		       <reg>habitat</reg>
 	     </choice> : 
 	<choice>
-		<!-- unicode character not assigned -->
+		
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -496,9 +496,9 @@ f, 45v (0106)
 		       <reg>in</reg>
 	     </choice> celo 
 	<choice>
-		<!-- unicode character not assigned -->
+		
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -528,9 +528,9 @@ f, 45v (0106)
 		       <reg>inopem:</reg>
 	     </choice> 
 	     <choice>
-	     	<!-- unicode character not assigned  -->
+	     	
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

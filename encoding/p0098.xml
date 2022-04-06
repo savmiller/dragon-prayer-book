@@ -177,9 +177,9 @@
 		       <reg>beatus</reg>
 	     </choice> es 
 	<choice>
-	    <!-- unicode character not assigned yet -->
+	    
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

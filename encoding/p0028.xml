@@ -121,7 +121,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+		       <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
       <!-- I think it might be convivium, the con is attached -->
@@ -189,9 +189,9 @@
 		       <reg>gratia</reg>
 	     </choice> 
 	     <choice>
-	        <!-- a symbol not defined in the special characters doc yet -->
+	        
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>
@@ -229,9 +229,9 @@
 		       <reg>alleluia.</reg>
 	     </choice> 
 	     <choice>
-	        <!-- the V in the special characters doc doesn't work for me -->
+	        
 		       <seg type="lucas">V(espers?)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers?</reg>
 	     </choice> 
 	     <choice>
@@ -262,9 +262,8 @@
 		       <reg>homo.</reg>
 	     </choice> 
 	     <choice>
-	        <!-- the V in the special characters doc doesn't work for me -->
-		       <seg type="lucas">V(espers?)</seg>
-		       <orig>V</orig>
+	        		       <seg type="lucas">V(espers?)</seg>
+		       <orig>V̇</orig>
 		       <reg>Vespers?</reg>
 	     </choice> Ora 
 	<choice>
@@ -284,9 +283,9 @@
 		       <reg>beata</reg>
 	     </choice> 
 	     <choice>
-	        <!-- no designated unicode character for this h with a bar and a dot -->
+	        
 		       <seg type="lucas">kath(er)i(n)a.</seg>
-		       <orig>kathia.</orig>
+		       <orig>kath̄īa.</orig>
 		       <reg>katherina.</reg>
 	     </choice> Ut 
 	<choice>

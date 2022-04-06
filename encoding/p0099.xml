@@ -16,9 +16,9 @@
 		       <reg>syon:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned  -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> videas 
 	<choice>
@@ -106,9 +106,8 @@
 		       <reg>virgo</reg>
 	     </choice> gaude 
 	<choice>
-	      <!-- unicode character not yet assigned -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	      	    <seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> letare 
 	<choice>
@@ -147,9 +146,9 @@
 	     </choice> honori
 <lb break="no"/>ficato; 
 	<choice>
-	      <!-- unicode character not assigned -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -174,9 +173,8 @@
 		       <reg>illius:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	           	<seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>

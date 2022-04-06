@@ -91,7 +91,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uo)s</seg>
-	             <orig>q°s</orig> <!-- check -->
+	             <orig>q°s</orig>
 		       <reg>quos</reg>
 	     </choice> delicto
 <lb break="no"/>
@@ -236,7 +236,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">asseq(ua)nt(ur).</seg>
-		       <orig>asseq̈nt֔ . </orig> <!-- CHECK -->
+		       <orig>asseq̈nt֔. </orig> <!-- CHECK -->
 		       <reg>assequantur.</reg>
 	     </choice> Zu 
 	<choice>
