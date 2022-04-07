@@ -21,9 +21,9 @@
 		       <reg>meum:</reg>
 	     </choice> 
 	     <choice>
-	         <!-- unicode character not assigned -->
+	         
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
       <lb/>
@@ -215,9 +215,9 @@
 		       <reg>induam</reg>
 	     </choice> salutari: 
 	<choice>
-	    <!-- unicode character not assigned -->
+	    
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>

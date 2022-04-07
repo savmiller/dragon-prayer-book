@@ -98,9 +98,9 @@
       <lb/>mitis nos culpis solutos
 <lb/>mites fac 
 	<choice>
-	      <!-- unicode character not assigned -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> castos. 
 	<choice>

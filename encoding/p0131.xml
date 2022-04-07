@@ -152,9 +152,9 @@
 		       <reg>est</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -210,9 +210,9 @@
 		       <reg>es</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> suavis 
 	<choice>

@@ -124,9 +124,9 @@
                   <reg>nunc</reg>
             </choice>
             <choice>
-                  <!-- unicode character not assigned -->
+                  
                   <seg type="lucas">(et) </seg>
-                  <orig> </orig>
+                  <orig>+</orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -158,9 +158,9 @@
                   <reg>mater</reg>
             </choice>
             <choice>
-                  <!-- unicode character not established -->
+                  
                   <seg type="lucas">(et) </seg>
-                  <orig> </orig>
+                  <orig>+</orig>
                   <reg>et </reg>
             </choice>
             <choice>
@@ -221,9 +221,8 @@
                   <reg>lybano;</reg>
             </choice>
             <choice>
-                  <!-- unicode character not assigned -->
-                  <seg type="lucas">(et)</seg>
-                  <orig/>
+                   <seg type="lucas">(et)</seg>
+                  <orig>+</orig>
                   <reg>et</reg>
             </choice>
             <lb/>
@@ -264,8 +263,8 @@
                   <reg>sum</reg>
             </choice> in ca <lb break="no"/>des. <choice>
                   <seg type="lucas">(et) </seg>
-                  <!-- unicode character not assigned -->
-                  <orig> </orig>
+                  
+                  <orig>+</orig>
                   <reg>et </reg>
             </choice>
             <choice>

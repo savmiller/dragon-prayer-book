@@ -39,7 +39,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuar(um):</seg>
-	           <orig>tuarꝝ:</orig>
+	           <orig>tuaꝝ:</orig>
 		       <reg>tuarum:</reg>
 	     </choice> 
 	     <choice>
@@ -54,7 +54,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ea(m)</seg>
-	           <orig>eā</orig> <!-- confused becuase there is a smuge is there supposed to be a macron -->
+	           <orig>eā</orig>  
 		       <reg>eam</reg>
 	     </choice> 
 	     <choice>
@@ -118,17 +118,17 @@
       <lb/>semita 
 	<choice>
 		       <seg type="lucas">ma(n)dator(um)</seg>
-	           <orig>mādatorꝝ</orig>
+	           <orig>mādatoꝝ</orig>
 		       <reg>mandatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuor(um):</seg>
-	           <orig>tuorꝝ:</orig>
+	           <orig>tuoꝝ:</orig>
 		       <reg>tuorum:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q:</orig> <!-- is this an appropriate depiction of this abbrevation? -->
+		       <orig>q:</orig> 
 		       <reg>quia</reg>
 	     </choice>
       <lb/>
