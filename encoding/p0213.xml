@@ -177,81 +177,81 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ca(m)pis</seg>
-		       <orig>capis</orig>
+		       <orig>cāpis</orig>
 		       <reg>campis</reg>
 	     </choice> silve. 
 	<choice>
 		       <seg type="lucas">Introibi(mus)</seg>
-		       <orig>Introibi</orig>
+		       <orig>Introibīꝰ</orig>
 		       <reg>Introibimus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tab(er)nac(u)l(u)m</seg>
-		       <orig>tabnaclm</orig>
+		       <orig>taḃnacl͘m</orig>
 		       <reg>tabernaculum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us):</seg>
-		       <orig>ei:</orig>
+		       <orig>eiꝰ:</orig>
 		       <reg>eius:</reg>
 	     </choice> adorabi
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(us)</seg>
-		       <orig>m</orig>
+		       <orig>mꝰ</orig>
 		       <reg>mus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> loco ubi 
 	<choice>
 		       <seg type="lucas">steteru(n)t</seg>
-		       <orig>steterut</orig>
+		       <orig>steterūt</orig>
 		       <reg>steterunt</reg>
 	     </choice> pe
 <lb break="no"/>des 
 	<choice>
 		       <seg type="lucas">ei(us).</seg>
-		       <orig>ei.</orig>
+		       <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> Surge 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
 		       <orig>i</orig>
-		       <reg>in</reg>
+		       <reg>in̄</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">req(ui)e(m)</seg>
-		       <orig>reqe</orig>
+		       <orig>req̇ē</orig>
 		       <reg>requiem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">tua(m):</seg>
-		       <orig>tua:</orig>
+		       <orig>tuā:</orig>
 		       <reg>tuam:</reg>
 	     </choice> tu 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> archa 
 	<choice>
 		       <seg type="lucas">s(an)ctificat(i)o(n)is</seg>
-		       <orig>sctificatois</orig>
+		       <orig>sct̄ificatōis</orig>
 		       <reg>sanctificationis</reg>
 	     </choice>
    </ab>
