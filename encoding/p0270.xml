@@ -12,87 +12,87 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">ps(alm?)</seg>
-		       <orig>ps</orig>
+		       <orig>p̈s</orig>
 		       <reg>psalm?</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia).</seg>
-		       <orig>a.</orig>
+	             <orig>ä.</orig>
 		       <reg>alleluia.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">All(elui)a.</seg>
-		       <orig>Alla.</orig>
+		       <orig>All͘a.</orig>
 		       <reg>Alleluia.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">R(esponsorium).</seg>
-		       <orig>R.</orig>
+	             <orig>ℜ.</orig> <!-- suggested to use, can change -->
 		       <reg>Responsorium.</reg>
 	     </choice> Hec dies
 <lb/>
 	     <choice>
 		       <seg type="lucas">qua(m)</seg>
-		       <orig>qua</orig>
+	             <orig>quā</orig>
 		       <reg>quam</reg>
 	     </choice> fecit 
 	<choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
-		       <orig>dns</orig>
+		       <orig>dn̄s</orig>
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">exultem(us)</seg>
-		       <orig>exultem</orig>
+	             <orig>exultemꝰ</orig>
 		       <reg>exultemus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">letem(ur)</seg>
-		       <orig>letem</orig>
+		       <orig>letem݃</orig>
 		       <reg>letemur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> ea. 
 	<choice>
 		       <seg type="lucas">n(un?)c</seg>
-		       <orig>nc</orig>
+		       <orig>nc̄</orig>
 		       <reg>nun?c<!--  check expansion --></reg>
 	     </choice> 
  di. 
 	<choice>
 		       <seg type="lucas">All(eluia)</seg>
-		       <orig>All</orig>
+		       <orig>All͘</orig>
 		       <reg>Alleluia</reg>
 	     </choice>
       <lb/>resurrexit 
 	<choice>
 		       <seg type="lucas">d(omi)n(u)s</seg>
-		       <orig>dns</orig>
+		       <orig>dn̄s</orig>
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">all(eluia)</seg>
-		       <orig>all</orig>
+		       <orig>all͘</orig>
 		       <reg>alleluia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sic(ut)</seg>
-		       <orig>sic</orig>
+		       <orig>sic̄</orig>
 		       <reg>sicut</reg>
 	     </choice> dix
 <lb break="no"/>it 
 	<choice>
 		       <seg type="lucas">vob(is)</seg>
-		       <orig>vob</orig>
+	             <orig>voḃ</orig>
 		       <reg>vobis</reg>
 	     </choice> 
 	     <choice>
@@ -107,212 +107,212 @@
 	     </choice> In 
 	<choice>
 		       <seg type="lucas">oct(ava)</seg>
-		       <orig>oct</orig>
+		       <orig>ocẗ</orig>
 		       <reg>octava</reg>
 	     </choice> pasche
 <lb/>
 	     <choice>
 		       <seg type="lucas">CRist(us)</seg>
-		       <orig>CRist</orig>
+	             <orig>CRistꝰ</orig>
 		       <reg>CRistus</reg>
 	     </choice> resur⸗ 
 	<choice>
 		       <seg type="lucas">adv(ersu)?s</seg>
-		       <orig>adv?s</orig>
+		       <orig>adv̈?s</orig>
 		       <reg>adversu?s</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cap(ite?)</seg>
-		       <orig>cap</orig>
+		       <orig>cap̄</orig>
 		       <reg>capite?<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">ge(n)s</seg>
-		       <orig>ges</orig>
+	             <orig>gēs</orig>
 		       <reg>gens</reg>
 	     </choice> ex mortuis 
 	<choice>
 		       <seg type="lucas">ia(m)</seg>
-		       <orig>ia</orig>
+	             <orig>iā</orig>
 		       <reg>iam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(on)</seg>
-		       <orig>n</orig>
+		       <orig>n̄</orig>
 		       <reg>non</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">morit(ur):</seg>
-		       <orig>morit:</orig>
+		       <orig>morit݃:</orig>
 		       <reg>moritur:</reg>
 	     </choice> mors illi 
 	<choice>
 		       <seg type="lucas">ult(ra)</seg>
-		       <orig>ult</orig>
+		       <orig>ulẗ</orig>
 		       <reg>ultra</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">no(n)</seg>
-		       <orig>no</orig>
+	             <orig>nō</orig>
 		       <reg>non</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)nabit(ur);</seg>
-		       <orig>dnabit;</orig>
+		       <orig>dn̄abit݃ ;  </orig>
 		       <reg>dominabitur;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uo)d</seg>
-		       <orig>qd</orig>
+	             <orig>qḋ</orig>
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(n)i(m)</seg>
-		       <orig>ei</orig>
+	             <orig>eī</orig>
 		       <reg>enim</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mortu(us)</seg>
-		       <orig>mortu</orig>
+	             <orig>mortuꝰ</orig>
 		       <reg>mortuus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
-		       <orig>e</orig>
+	             <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)to</seg>
-		       <orig>pcto</orig>
+		       <orig>pct̄o</orig>
 		       <reg>peccato</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mortu(us)</seg>
-		       <orig>mortu</orig>
+	             <orig>mortuꝰ</orig>
 		       <reg>mortuus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(st)</seg>
-		       <orig>e</orig>
+	             <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">se(me)l:</seg>
-		       <orig>sel:</orig>
+		       <orig>sel͘:</orig>
 		       <reg>semel:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uod)</seg>
-		       <orig>q</orig>
+		       <orig>q</orig> <!-- we haven't decided on a unicode for this yet -->
 		       <reg>quod</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(u)t(em)</seg>
-		       <orig>at</orig>
+		       <orig>at̄</orig>
 		       <reg>autem</reg>
 	     </choice> vi
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">v(it)</seg>
-		       <orig>v</orig>
+		       <orig>v</orig> <!-- raised +? -->
 		       <reg>vit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">viv(it)</seg>
-		       <orig>viv</orig>
+		       <orig>viv</orig> <!-- same unicode as above, not sure what to use? -->
 		       <reg>vivit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(e)o;</seg>
-		       <orig>do;</orig>
+	             <orig>ḋo;</orig>
 		       <reg>deo;</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">D(e)o.</seg>
-		       <orig>Do.</orig>
+		       <orig>Ḋo.</orig>
 		       <reg>Deo.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(h)</seg>
-		       <orig/>
+	             <orig> </orig> <!-- ?? -->
 		       <reg>h</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">y(m)n(us).</seg>
-		       <orig>yn.</orig>
+	             <orig>ȳpnꝰ.</orig>
 		       <reg>ymnus.</reg>
 	     </choice>
       <lb/>AD 
 	<choice>
 		       <seg type="lucas">cena(m)</seg>
-		       <orig>cena</orig>
+	             <orig>cenā</orig>
 		       <reg>cenam</reg>
 	     </choice> agni 
 	<choice>
 		       <seg type="lucas">p(ro)vidi</seg>
-		       <orig>pvidi</orig>
+	             <orig>ꝓvidi</orig>
 		       <reg>providi</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">stol(is)</seg>
-		       <orig>stol</orig>
+		       <orig>stol͘</orig>
 		       <reg>stolis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">alb(is)</seg>
-		       <orig>alb</orig>
+	             <orig>alḃ</orig>
 		       <reg>albis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ca(n)didi</seg>
-		       <orig>cadidi</orig>
+	             <orig>cādidi</orig>
 		       <reg>candidi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ost)</seg>
-		       <orig>p</orig>
+	             <orig>ṗꝰ</orig>
 		       <reg>post</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tra(n)si</seg>
-		       <orig>trasi</orig>
+	             <orig>trāsi</orig>
 		       <reg>transi</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tu(m)</seg>
-		       <orig>tu</orig>
+	             <orig>tū</orig>
 		       <reg>tum</reg>
 	     </choice> maris rubri 
 	<choice>
 		       <seg type="lucas">(christ)o</seg>
-		       <orig>o</orig>
+	             <orig>xp̄o</orig>
 		       <reg>christo</reg>
 	     </choice> cana
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">m(us)</seg>
-		       <orig>m</orig>
+	             <orig>mꝰ</orig>
 		       <reg>mus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ri)ncipi.</seg>
-		       <orig>pncipi.</orig>
+	             <orig>ṗncipi.</orig>
 		       <reg>principi.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Cui(us)</seg>
-		       <orig>Cui</orig>
+	             <orig>Cuiꝰ</orig>
 		       <reg>Cuius</reg>
 	     </choice> corpus
 
