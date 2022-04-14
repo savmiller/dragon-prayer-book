@@ -152,139 +152,139 @@
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+	      <orig>̇̇q</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">bo(na)</seg>
-		       <orig>bo</orig>
+		       <orig>b̈o</orig>
 		       <reg>bona</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eger(un)t</seg>
-		       <orig>egert</orig>
+	           <orig>ege ̄rt</orig><!-- Oxygen placed the combining macron over the e instead of the r no matter what I did, so I added a space here -->
 		       <reg>egerunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ib(un)t</seg>
-		       <orig>ibt</orig>
+	           <orig>i ̄bt</orig><!-- Oxygen placed the combining macron over the i instead of the b no matter what I did, so I added a space here -->
 		       <reg>ibunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">vita(m)</seg>
-		       <orig>vita</orig>
+	           <orig>vitā</orig>
 		       <reg>vitam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)na(m):</seg>
-		       <orig>etna:</orig>
+	           <orig>eṫnā:</orig>
 		       <reg>eternam:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+	           <orig>̇q</orig>
 		       <reg>qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)o</seg>
-		       <orig>vo</orig>
+	           <orig>̇v o</orig><!-- Oxygen placed the combining macron over the o instead of the v or doubled the v and added the dot over the v, so I added a space here -->
 		       <reg>vero</reg>
 	     </choice> mala 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	      <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> ig
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ne(m)</seg>
-		       <orig>ne</orig>
+	           <orig>nė</orig>
 		       <reg>nem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)nu(m).</seg>
-		       <orig>etnu.</orig>
+	           <orig>e͘tnū.</orig><!--is this an example of the t with a dot to the right? -->
 		       <reg>eternum.</reg>
 	     </choice> Hec 
 	<choice>
 		       <seg type="lucas">e(st)</seg>
-		       <orig>e</orig>
+	      <orig>ē</orig>
 		       <reg>est</reg>
 	     </choice> fides ka
-<lb break="no"/>cholica: 
+         <lb break="no"/>cholica: <!--is this a "flexible" spelling of katholica, or should the ch be a th? -->
 	<choice>
 		       <seg type="lucas">qua(m)</seg>
-		       <orig>qua</orig>
+	      <orig>quā</orig>
 		       <reg>quam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">n(isi)</seg>
-		       <orig>n</orig>
+	           <orig>ṅ</orig>
 		       <reg>nisi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)sq(ue)</seg>
-		       <orig>qsq</orig>
+	           <orig>̇qsq⋮</orig>
 		       <reg>quisque</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fidelit(er)</seg>
-		       <orig>fidelit</orig>
+	           <orig>fideliṫ</orig>
 		       <reg>fideliter</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">firmit(er)q(ue)</seg>
-		       <orig>firmitq</orig>
+	           <orig>firmiṫq⋮</orig>
 		       <reg>firmiterque</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">credid(er)it</seg>
-		       <orig>credidit</orig>
+	           <orig>crediḋit</orig>
 		       <reg>crediderit</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">salv(us)</seg>
-		       <orig>salv</orig>
+	           <orig>salvꝰ</orig>
 		       <reg>salvus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(ss)e</seg>
-		       <orig>ee</orig>
+	           <orig>ēe</orig>
 		       <reg>esse</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">n(on)</seg>
-		       <orig>n</orig>
+		       <orig>̄n</orig>
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">pot(er)it.</seg>
-		       <orig>potit.</orig>
+	           <orig>poṫit.</orig>
 		       <reg>poterit.</reg>
 	     </choice>         
 	     <choice>
-		       <seg type="lucas">Su(?)tag</seg>
-		       <orig>Sutag</orig>
-		       <reg>Su?tag<!--  check expansion --></reg>
+		       <seg type="lucas">Suntag</seg>
+	           <orig>Sūtag</orig>
+		       <reg>Suntag</reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">an(?).</seg>
-		       <orig>an.</orig>
+	           <orig>a ̈n.<!--  added space; diacritic appeared over the a only--></orig>
 		       <reg>an?.<!--  check expansion --></reg>
 	     </choice> 
                 
 	     <choice>
 		       <seg type="lucas">Gl(ori)a</seg>
-		       <orig>Gla</orig>
+		       <orig>G͘la</orig>
 		       <reg>Gloria</reg>
 	     </choice>
    </ab>
