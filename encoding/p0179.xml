@@ -223,15 +223,16 @@
 			<seg type="lucas">i(n)tell(e)c(tu)m.</seg>
 			<orig>ītellc̄m.</orig>
 			<reg>intellectum.</reg>
-		</choice> Intret †po⸗†
-		<lb/>†
-		<!-- i'm not sure if these crosses are meant to be here? -->
-		<choice>
-			<seg type="lucas">stulat(i)o†</seg>
-			<orig>stulato†</orig>
-			<reg>stulatio†</reg>
-			<!-- i'm not sure if these crosses are meant to be here? -->
-		</choice> mea 
+		</choice> Intret 
+		<supplied>po⸗</supplied>
+		<lb/>
+		<supplied>
+			<choice>
+				<seg type="lucas">stulat(i)o</seg>
+				<orig>stulato</orig>
+				<reg>stulatio</reg>
+			</choice> 
+		</supplied> mea 
 		<choice>
 			<seg type="lucas">i(n)</seg>
 			<orig>ī</orig>

@@ -38,9 +38,8 @@
 	     </choice> es
 <lb break="no"/>tis tu 
 	<choice>
-	      <!-- unicode character not assigned -->
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	      		<seg type="lucas">(et) </seg>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -54,9 +53,9 @@
 		       <reg>tuus</reg>
 	     </choice> tu 
 	<choice>
-	      <!-- unicode character not assigned -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -91,9 +90,9 @@
 		       <reg>Sed</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
+	           
 		       <seg type="lucas">(et)si</seg>
-		       <orig>si</orig>
+		       <orig>+si</orig>
 		       <reg>etsi</reg>
 	     </choice> 
 	     <choice>
@@ -118,9 +117,9 @@
 		       <reg>nonne</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
+	           
 		       <seg type="lucas">(et)</seg>
-		       <orig/>
+		       <orig>+</orig>
 		       <reg>et</reg>
 	     </choice>
       <lb/>

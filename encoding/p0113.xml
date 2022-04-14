@@ -97,9 +97,9 @@
 		       <reg>est:</reg>
 	     </choice> 
 	     <choice>
-	           <!-- unicode character not assigned -->
+	           
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
@@ -199,9 +199,9 @@
 	     </choice>
       <lb/>de sede: 
 	<choice>
-	      <!-- unicode character not assigned -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> exaltavit 
 	<choice>
@@ -222,9 +222,9 @@
 	     </choice>
       <lb/>bonis: 
 	<choice>
-	      <!-- unicode character not assigned -->
+	      
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> divites dimisit
 <lb/>
