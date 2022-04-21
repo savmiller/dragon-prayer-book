@@ -12,44 +12,44 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uesumu)s</seg>
-		       <orig>qs</orig>
+		       <orig>q̇s</orig>
 		       <reg>quesumus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">susti(n)ebit.</seg>
-		       <orig>sustiebit.</orig>
+	             <orig>sustīebit.</orig>
 		       <reg>sustinebit.</reg>
 	     </choice>  
       <lb/>COnfitebor
 <lb/>
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t</orig>
+	             <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> toto        
 	<choice>
 		       <seg type="lucas">Op(er)a.</seg>
-		       <orig>Opa.</orig>
+	             <orig>Oꝑa.</orig>
 		       <reg>Opera.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>ii.</orig>
+		       <orig>ii݃.</orig> <!-- unsure of unicode -->
 		       <reg>ii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>corde meo: 
