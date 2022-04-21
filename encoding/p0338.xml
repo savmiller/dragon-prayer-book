@@ -12,261 +12,261 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uesumu)s</seg>
-		       <orig>qs</orig>
+		       <orig>q̇s</orig>
 		       <reg>quesumus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">susti(n)ebit.</seg>
-		       <orig>sustiebit.</orig>
+	             <orig>sustīebit.</orig>
 		       <reg>sustinebit.</reg>
 	     </choice>  
       <lb/>COnfitebor
 <lb/>
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t</orig>
+	             <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> toto        
 	<choice>
 		       <seg type="lucas">Op(er)a.</seg>
-		       <orig>Opa.</orig>
+	             <orig>Oꝑa.</orig>
 		       <reg>Opera.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ii(?).</seg>
-		       <orig>ii.</orig>
+		       <orig>ii݃.</orig> <!-- unsure of unicode -->
 		       <reg>ii?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>corde meo: 
 	<choice>
 		       <seg type="lucas">q(uonia)m</seg>
-		       <orig>qm</orig>
+		       <orig>qm̄</orig>
 		       <reg>quoniam</reg>
 	     </choice> audisti 
 	<choice>
 		       <seg type="lucas">v(er)</seg>
-		       <orig>v</orig>
+	             <orig>v̇</orig>
 		       <reg>ver</reg>
 	     </choice>
       <lb break="no"/>ba oris mei. In 
 	<choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+	             <orig> ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">sp(e)c(t)u</seg>
-		       <orig>spcu</orig>
+		       <orig>spc̄u</orig>
 		       <reg>spectu</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">a(n)g(e)lor(um)</seg>
-		       <orig>aglor</orig>
+	             <orig>āgl͘oꝝ</orig>
 		       <reg>angelorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">psalla(m)</seg>
-		       <orig>psalla</orig>
+	             <orig>psallā</orig>
 		       <reg>psallam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi):</seg>
-		       <orig>t:</orig>
+	             <orig>ṫ:</orig>
 		       <reg>tibi:</reg>
 	     </choice> adora
 <lb break="no"/>bo ad 
 	<choice>
 		       <seg type="lucas">te(m)plu(m)</seg>
-		       <orig>teplu</orig>
+	             <orig>tēplū</orig>
 		       <reg>templum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(tu)m</seg>
-		       <orig>scm</orig>
+		       <orig>scm̄</orig>
 		       <reg>sanctum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">tuu(m)</seg>
-		       <orig>tuu</orig>
+	             <orig>tuū</orig>
 		       <reg>tuum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+	             <orig> ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
       <lb break="no"/>fitebor 
 	<choice>
 		       <seg type="lucas">no(min)i</seg>
-		       <orig>noi</orig>
+	             <orig>nōi</orig>
 		       <reg>nomini</reg>
 	     </choice> tuo. 
 	<choice>
 		       <seg type="lucas">S(upe)r</seg>
-		       <orig>Sr</orig>
+		       <orig>Sr̄</orig>
 		       <reg>Super</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mi(sericordi)a</seg>
-		       <orig>mia</orig>
+	             <orig>mīa</orig>
 		       <reg>misericordia</reg>
 	     </choice>
       <lb/>tua 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)itate</seg>
-		       <orig>vitate</orig>
+	             <orig>v̇itate</orig>
 		       <reg>veritate</reg>
 	     </choice> tua: 
 	<choice>
 		       <seg type="lucas">q(uonia)m</seg>
-		       <orig>qm</orig>
+		       <orig>qm̄</orig>
 		       <reg>quoniam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(a)g</seg>
-		       <orig>mg</orig>
+		       <orig>m̈g</orig>
 		       <reg>mag</reg>
 	     </choice>
       <lb break="no"/>nificasti 
 	<choice>
 		       <seg type="lucas">s(upe)r</seg>
-		       <orig>sr</orig>
+		       <orig>sr̄</orig>
 		       <reg>super</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)e</seg>
-		       <orig>oe</orig>
+	             <orig>ōe</orig>
 		       <reg>omne</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nome(n)</seg>
-		       <orig>nome</orig>
+	             <orig>nomē</orig>
 		       <reg>nomen</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(tu)m</seg>
-		       <orig>scm</orig>
+		       <orig>sc̄m</orig>
 		       <reg>sanctum</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">tuu(m).</seg>
-		       <orig>tuu.</orig>
+	             <orig>tuū.</orig>
 		       <reg>tuum.</reg>
 	     </choice> In 
 	<choice>
 		       <seg type="lucas">q(ua)cu(m)q(ue)</seg>
-		       <orig>qcuq</orig>
+	             <orig>q̈cūq⋮</orig>
 		       <reg>quacumque</reg>
 	     </choice> die 
 	<choice>
 		       <seg type="lucas">i(n)vo(ca)</seg>
-		       <orig>ivo</orig>
+	             <orig>īvö</orig>
 		       <reg>invoca</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">v(er)o</seg>
-		       <orig>vo</orig>
+	             <orig>v̇o</orig>
 		       <reg>vero</reg>
 	     </choice> te exaudi me: 
 	<choice>
 		       <seg type="lucas">m(u)lti</seg>
-		       <orig>mlti</orig>
+		       <orig>ml͘ti</orig>
 		       <reg>multi</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">plicab(is)</seg>
-		       <orig>plicab</orig>
+	             <orig>plicaḃ</orig>
 		       <reg>plicabis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	             <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)i(m)a</seg>
-		       <orig>aia</orig>
+	             <orig>aīa</orig>
 		       <reg>anima</reg>
 	     </choice> mea 
 	<choice>
 		       <seg type="lucas">v(ir)tute(m)</seg>
-		       <orig>vtute</orig>
+	             <orig>v̇tutē</orig>
 		       <reg>virtutem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">Co(n)fitea(n)t(ur)</seg>
-		       <orig>Cofiteat</orig>
+	             <orig>Cōfiteāt݃</orig>
 		       <reg>Confiteantur</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(ibi)</seg>
-		       <orig>t</orig>
+	             <orig>ṫ</orig>
 		       <reg>tibi</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>
-		       <orig>os</orig>
+	             <orig>ōs</orig>
 		       <reg>omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">r(e)ges</seg>
-		       <orig>rges</orig>
+		       <orig>r̄ges</orig>
 		       <reg>reges</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">t(er)re:</seg>
-		       <orig>tre:</orig>
+	             <orig>ṫre:</orig>
 		       <reg>terre:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q</orig>
+		       <orig>q:</orig>
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">audier(un)t</seg>
-		       <orig>audiert</orig>
+		       <orig>audier̄t</orig>
 		       <reg>audierunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mn)ia</seg>
-		       <orig>oia</orig>
+	             <orig>oīa</orig>
 		       <reg>omnia</reg>
 	     </choice> verba
 

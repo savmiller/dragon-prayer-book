@@ -12,75 +12,75 @@
       <lb/>samuel 
 	<choice>
 		       <seg type="lucas">p(ro)ph(et)a</seg>
-		       <orig>ppha</orig>
+		       <orig>ppḣa</orig>
 		       <reg>propheta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">e(ss)et</seg>
-		       <orig>eet</orig>
+		       <orig>eēt</orig>
 		       <reg>esset</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)ni.</seg>
-		       <orig>dni.</orig>
+		       <orig>dn̄i.</orig>
 		       <reg>domini.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
-		       <orig>a.</orig>
+		       <orig>ä.</orig>
 		       <reg>alleluia?.<!--  check expansion --></reg>
 	     </choice> 
       <lb/>
 	     <choice>
 		       <seg type="lucas">P(re)valuit</seg>
-		       <orig>Pvaluit</orig>
+		       <orig>P̄valuiṫ</orig>
 		       <reg>Prevaluit</reg>
 	     </choice> david 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> philiste
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">u(m)</seg>
-		       <orig>u</orig>
+		       <orig>ū</orig>
 		       <reg>um</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fu(n)da</seg>
-		       <orig>fuda</orig>
+		       <orig>fūda</orig>
 		       <reg>funda</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> lapide 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">nomi(n)e</seg>
-		       <orig>nomie</orig>
+		       <orig>nomīe</orig>
 		       <reg>nomine</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)ni.</seg>
-		       <orig>dni.</orig>
+		       <orig>dn̄i.</orig>
 		       <reg>domini.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(lleluia?).</seg>
-		       <orig>a.</orig>
+		       <orig>ä.</orig>
 		       <reg>alleluia?.<!--  check expansion --></reg>
 	     </choice> 
  
