@@ -12,136 +12,138 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">deb(is):c</seg>
-		       <orig>deb:c</orig>
+		       <orig>deḃ:c</orig>
 		       <reg>debis:c</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Nu(m)q(ui)d</seg>
-		       <orig>Nuqd</orig>
+		       <orig>Nūq̇d</orig>
 		       <reg>Numquid</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sic(ut)</seg>
-		       <orig>sic</orig>
+		       <orig>sic̄</orig>
 		       <reg>sicut</reg>
 	     </choice> dies 
 	<choice>
 		       <seg type="lucas">ho(m)i(ni)s</seg>
-		       <orig>hois</orig>
+		       <orig>hoīs</orig>
 		       <reg>hominis</reg>
 	     </choice>
       <lb/>dies tui 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)ni</seg>
-		       <orig>ani</orig>
+		       <orig>āni</orig>
 		       <reg>anni</reg>
 	     </choice> tui 
 	<choice>
 		       <seg type="lucas">sic(ut)</seg>
-		       <orig>sic</orig>
+		       <orig>sic̄</orig>
 		       <reg>sicut</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">hu(m)a</seg>
-		       <orig>hua</orig>
+		       <orig>hūa</orig>
 		       <reg>huma</reg>
 	     </choice>
       <lb break="no"/>na 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st</orig>
+		       <orig>sṫ</orig>
 		       <reg>sunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">t(em)p(or)a;</seg>
-		       <orig>tpa;</orig>
+		       <orig>tꝑa;</orig>
 		       <reg>tempora;</reg>
 	     </choice> ut 
 	<choice>
 		       <seg type="lucas">q(ue)ras</seg>
-		       <orig>qras</orig>
+		       <orig>q̄ras</orig>
 		       <reg>queras</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)ta</seg>
-		       <orig>iiqta</orig>
+		       <orig>īiq̇ta</orig>
 		       <reg>iniquita</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">te(m)</seg>
-		       <orig>te</orig>
+		       <orig>tē</orig>
 		       <reg>tem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mea(m)</seg>
-		       <orig>mea</orig>
+		       <orig>meā</orig>
 		       <reg>meam</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ec)c(a)t(u)m</seg>
-		       <orig>pctm</orig>
+		       <orig>pc̄tm</orig>
 		       <reg>peccatum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">meu(m)</seg>
-		       <orig>meu</orig>
+		       <orig>meū</orig>
 		       <reg>meum</reg>
 	     </choice> scru
 <lb break="no"/>teris:c Et scias 
 	<choice>
+	      <!-- not sure how to code -->
 		       <seg type="lucas">q(uia)</seg>
 		       <orig>q</orig>
 		       <reg>quia</reg>
 	     </choice> nichil 
 	<choice>
 		       <seg type="lucas">i(m)</seg>
-		       <orig>i</orig>
+		       <orig>ī</orig>
 		       <reg>im</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">piu(m)</seg>
-		       <orig>piu</orig>
+		       <orig>piū</orig>
 		       <reg>pium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">feceri(m):</seg>
-		       <orig>feceri:</orig>
+		       <orig>fecerī:</orig>
 		       <reg>fecerim:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">cu(m)</seg>
-		       <orig>cu</orig>
+		       <orig>cū</orig>
 		       <reg>cum</reg>
 	     </choice> sit 
 	<choice>
 		       <seg type="lucas">ne(m)o</seg>
-		       <orig>neo</orig>
+		       <orig>nēo</orig>
 		       <reg>nemo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>
-		       <orig>q</orig>
+		       <orig>q̇</orig>
 		       <reg>qui</reg>
 	     </choice> de
 <lb/>manu tua possit 
 	<choice>
 		       <seg type="lucas">erue(re).</seg>
-		       <orig>erue.</orig>
+		       <orig>eruė.</orig>
 		       <reg>eruere.</reg>
 	     </choice> 
 	     <choice>
+	           <!-- unsure how to code -->
 		       <seg type="lucas">R(esponsorium).</seg>
 		       <orig>R.</orig>
 		       <reg>Responsorium.</reg>
@@ -151,117 +153,117 @@
 <lb break="no"/>Qui 
 	<choice>
 		       <seg type="lucas">lazar(um)</seg>
-		       <orig>lazar</orig>
+		       <orig>lazar⋮</orig>
 		       <reg>lazarum</reg>
 	     </choice>        
 	     <choice>
 		       <seg type="lucas">me(n)to</seg>
-		       <orig>meto</orig>
+		       <orig>mēto</orig>
 		       <reg>mento</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">fetidu(m)</seg>
-		       <orig>fetidu</orig>
+		       <orig>fetidū</orig>
 		       <reg>fetidum</reg>
 	     </choice>
       <lb/>Tu eis 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> dona 
 	<choice>
 		       <seg type="lucas">requie(m)</seg>
-		       <orig>requie</orig>
+		       <orig>requiē</orig>
 		       <reg>requiem</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">locu(m)</seg>
-		       <orig>locu</orig>
+		       <orig>locū</orig>
 		       <reg>locum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)dulge(n)tie.</seg>
-		       <orig>idulgetie.</orig>
+		       <orig>īdulgētie.</orig>
 		       <reg>indulgentie.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">V(espers)</seg>
-		       <orig>V</orig>
+		       <orig>V̇</orig>
 		       <reg>Vespers</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)</seg>
-		       <orig>Q</orig>
+		       <orig>Q͘</orig>
 		       <reg>Qui</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ve(n)</seg>
-		       <orig>ve</orig>
+		       <orig>vē</orig>
 		       <reg>ven</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">tur(us)</seg>
-		       <orig>tur</orig>
+		       <orig>turꝰ</orig>
 		       <reg>turus</reg>
 	     </choice> es 
 	<choice>
 		       <seg type="lucas">iudica(r)e</seg>
-		       <orig>iudicae</orig>
+		       <orig>iudicȧe</orig>
 		       <reg>iudicare</reg>
 	     </choice> vivos 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">mo(r)</seg>
-		       <orig>mo</orig>
+		       <orig>mȯ</orig>
 		       <reg>mor</reg>
 	     </choice>
       <lb break="no"/>tuos 
 	<choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(e)c(u)l(um)</seg>
-		       <orig>scl</orig>
+		       <orig>scl͘⋮</orig>
 		       <reg>seculum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
-		       <orig>p</orig>
+		       <orig>ꝑ</orig>
 		       <reg>per</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">igne(m).</seg>
-		       <orig>igne.</orig>
+		       <orig>ignē.</orig>
 		       <reg>ignem.</reg>
 	     </choice> Tu.
 <lb/>
 	     <choice>
 		       <seg type="lucas">MAn(us)</seg>
-		       <orig>MAn</orig>
+		       <orig>MAnꝰ</orig>
 		       <reg>MAnus</reg>
 	     </choice> tue 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> fe⸗        
 	<choice>
 		       <seg type="lucas">l(?).</seg>
-		       <orig>l.</orig>
+		       <orig>l͘.</orig>
 		       <reg>l?.<!--  check expansion --></reg>
 	     </choice> 
  
@@ -269,7 +271,7 @@
 		       <seg type="lucas">m(?).
 
 </seg>
-		       <orig>m.
+		       <orig>m̈.
 
 </orig>
 		       <reg>m?.
