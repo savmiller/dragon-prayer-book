@@ -27,14 +27,14 @@
 	     </choice>
       <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">t(er)be(n)t(ur)</seg>
+		       <seg type="lucas">t(ur)be(n)t(ur)</seg>
 		       <orig>tbet</orig>
-		       <reg>terbentur</reg>
+		       <reg>turbentur</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">vehenie(n)t(er)</seg>
-		       <orig>veheniet</orig>
-		       <reg>vehenienter</reg>
+		       <seg type="lucas">veheme(n)t(er)</seg>
+		       <orig>vehemet</orig>
+		       <reg>vehementer</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>
@@ -78,7 +78,7 @@
 		       <seg type="lucas">quor(um)</seg>
 		       <orig>quor</orig>
 		       <reg>quorum</reg>
-	     </choice> remisse 
+	     </choice> tecta 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
 		       <orig>st</orig>
@@ -169,9 +169,9 @@
 		       <reg>eius</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">dol(us?).</seg>
+		       <seg type="lucas">dol(us).</seg>
 		       <orig>dol.</orig>
-		       <reg>dolus?.<!--  check expansion --></reg>
+		       <reg>dolus.</reg>
 	     </choice> 
  
 	     <choice>
@@ -221,12 +221,12 @@
 		       <seg type="lucas">s(upe)r</seg>
 		       <orig>sr</orig>
 		       <reg>super</reg>
-	     </choice> me via
-<lb/>
+	     </choice> me ma
+<lb break="no"/>
 	     <choice>
-		       <seg type="lucas">n(os?)</seg>
+		       <seg type="lucas">n(us)</seg>
 		       <orig>n</orig>
-		       <reg>nos?</reg>
+		       <reg>nus</reg>
 	     </choice> tua: 
 	<choice>
 		       <seg type="lucas">(con)</seg>
@@ -249,9 +249,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">eru(?)pna</seg>
+		       <seg type="lucas">eru(m)na</seg>
 		       <orig>erupna</orig>
-		       <reg>eru?pna<!--  check expansion --></reg>
+		       <reg>erumna<!--  check expansion --></reg>
 	     </choice> 
       <lb/>mea 
 	<choice>
