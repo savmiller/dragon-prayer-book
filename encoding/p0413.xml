@@ -205,9 +205,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">u(n)i?</seg>
-		       <orig>ui?</orig>
-		       <reg>uni?</reg>
+		       <seg type="lucas">vi(m)</seg>
+		       <orig>vi</orig>
+		       <reg>vim</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">facieba(n)t</seg>
@@ -278,9 +278,9 @@
 		       <reg>et </reg>
 	     </choice> dolos 
 	<choice>
-		       <seg type="lucas">to(ta?)</seg>
+		       <seg type="lucas">to(ta)</seg>
 		       <orig>to</orig>
-		       <reg>tota?<!--  check expansion --></reg>
+		       <reg>tota</reg>
 	     </choice> 
       <lb/>die 
 	<choice>
