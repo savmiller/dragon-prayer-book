@@ -164,9 +164,9 @@
 		       <reg>est</reg>
 	     </choice> a furore 
 	<choice>
-		       <seg type="lucas">oc(u)l(i)s</seg>
+		       <seg type="lucas">oc(u)l(u)s</seg>
 		       <orig>ocls</orig>
-		       <reg>oculis</reg>
+		       <reg>oculus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">m(eu)s:</seg>
@@ -207,9 +207,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">op(er)anu(m)</seg>
-		       <orig>opanu</orig>
-		       <reg>operanum</reg>
+		       <seg type="lucas">op(er)ami(ni)</seg>
+		       <orig>opami</orig>
+		       <reg>operamini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)iq(ui)tate(m):</seg>
