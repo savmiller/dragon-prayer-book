@@ -96,15 +96,15 @@
 		       <reg>tempore</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">op(er)tu(n)o.</seg>
+		       <seg type="lucas">op(or)tu(n)o.</seg>
 		       <orig>optuo.</orig>
-		       <reg>opertuno.</reg>
+		       <reg>oportuno.</reg>
 	     </choice> Ve
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">ru(n)tu(m)</seg>
-		       <orig>rutu</orig>
-		       <reg>runtum</reg>
+		       <seg type="lucas">ru(m)t(ame)n</seg>
+		       <orig>rutn</orig>
+		       <reg>rumtamen</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -138,9 +138,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ap(ro)pximab(u)nt?.</seg>
-		       <orig>appximabnt?.</orig>
-		       <reg>apropximabunt?.</reg>
+		       <seg type="lucas">ap(ro)pximab(u)nt.</seg>
+		       <orig>appximabnt.</orig>
+		       <reg>apropximabunt.</reg>
 	     </choice>
       <lb/>Tu es 
 	<choice>
@@ -170,9 +170,9 @@
 		       <reg>que</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">c(ir)cu(n)dedit</seg>
+		       <seg type="lucas">c(ir)cu(m)dedit</seg>
 		       <orig>ccudedit</orig>
-		       <reg>circundedit</reg>
+		       <reg>circumdedit</reg>
 	     </choice> me: ex
 <lb break="no"/>
 	     <choice>
@@ -181,9 +181,9 @@
 		       <reg>ultatio</reg>
 	     </choice> mea erue me a 
 	<choice>
-		       <seg type="lucas">c(ir)cu(n)</seg>
+		       <seg type="lucas">c(ir)cu(m)</seg>
 		       <orig>ccu</orig>
-		       <reg>circun</reg>
+		       <reg>circum</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
