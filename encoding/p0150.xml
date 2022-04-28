@@ -12,7 +12,7 @@
       <lb/>salute 
 	<choice>
 		       <seg type="lucas">n(ost)ra:</seg>
-		       <orig>n̄ra:</orig>
+		       <orig>nr̄a:</orig>
 		       <reg>nostra:</reg>
 	     </choice> 
 	     <choice>
@@ -22,13 +22,13 @@
 	     </choice> ad 
 	<choice>
 		       <seg type="lucas">i(n)fe</seg>
-		       <orig>̄ife</orig>
+	      <orig>īfe</orig>
 		       <reg>infe</reg>
 	     </choice>
       <lb break="no"/>ros: 
 	<choice>
 		       <seg type="lucas">r(e)surrexit</seg>
-		       <orig>̄rsurrexit</orig>
+		       <orig>r̄surrexit</orig>
 		       <reg>resurrexit</reg>
 	     </choice> a 
 	<choice>
@@ -50,7 +50,7 @@
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">p(at)ris</seg>
-		       <orig>p̄ris</orig>
+		       <orig>pr̄is</orig>
 		       <reg>patris</reg>
 	     </choice> 
 	     <choice>
@@ -103,7 +103,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">r(e)surge(re)</seg>
-	           <orig>̄rsurgė</orig>
+	           <orig>r̄surgė</orig>
 		       <reg>resurgere</reg>
 	     </choice>
       <lb/>
@@ -157,17 +157,17 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">bo(na)</seg>
-		       <orig>b̈o</orig>
+		       <orig>bö</orig>
 		       <reg>bona</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eger(un)t</seg>
-	           <orig>ege ̄rt</orig><!-- Oxygen placed the combining macron over the e instead of the r no matter what I did, so I added a space here -->
+	           <orig>eger̄t</orig>
 		       <reg>egerunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ib(un)t</seg>
-	           <orig>i ̄bt</orig><!-- Oxygen placed the combining macron over the i instead of the b no matter what I did, so I added a space here -->
+	           <orig>ib̄t</orig>
 		       <reg>ibunt</reg>
 	     </choice> 
 	     <choice>
@@ -193,7 +193,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(er)o</seg>
-	           <orig>̇v o</orig><!-- Oxygen placed the combining macron over the o instead of the v or doubled the v and added the dot over the v, so I added a space here -->
+	           <orig>̇vo</orig>
 		       <reg>vero</reg>
 	     </choice> mala 
 	<choice>
@@ -204,12 +204,12 @@
 <lb break="no"/>
 	     <choice>
 		       <seg type="lucas">ne(m)</seg>
-	           <orig>nė</orig>
+	           <orig>nē</orig>
 		       <reg>nem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">et(er)nu(m).</seg>
-	           <orig>e͘tnū.</orig><!--is this an example of the t with a dot to the right? -->
+	           <orig>eṫnū.</orig><!-- I used t with a dot, but is this instead an example of the t with a dot to the right? -->
 		       <reg>eternum.</reg>
 	     </choice> Hec 
 	<choice>
@@ -262,7 +262,7 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">n(on)</seg>
-		       <orig>̄n</orig>
+		       <orig>n̄</orig>
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
@@ -278,8 +278,8 @@
  
 	     <choice>
 		       <seg type="lucas">an(?).</seg>
-	           <orig>a ̈n.<!--  added space; diacritic appeared over the a only--></orig>
-		       <reg>an?.<!--  check expansion --></reg>
+	           <orig>an̈.</orig>
+		       <reg>an?.<!--  check expansion; EMB -I'll check on this with Dr. Jones --></reg>
 	     </choice> 
                 
 	     <choice>
@@ -288,7 +288,7 @@
 		       <reg>Gloria</reg>
 	     </choice>
    </ab>
-
+͘
    <ab type="translation"
        xml:id="p0150_translation"
        corresp="#p0150_transcription"/>
