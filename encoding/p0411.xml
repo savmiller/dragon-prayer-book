@@ -84,9 +84,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ap(ro)pxima(n)t</seg>
+		       <seg type="lucas">app(ro)xima(n)t</seg>
 		       <orig>appximat</orig>
-		       <reg>apropximant</reg>
+		       <reg>approximant</reg>
 	     </choice> ad te. Mul
 <lb break="no"/>ta flagella 
 	<choice>
@@ -121,15 +121,15 @@
 		       <reg>misericordia</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">c(ir)cudabit.</seg>
+		       <seg type="lucas">c(ir)cu(m)dabit.</seg>
 		       <orig>ccudabit.</orig>
-		       <reg>circudabit.</reg>
+		       <reg>circumdabit.</reg>
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">Letavu(m)</seg>
-		       <orig>Letavu</orig>
-		       <reg>Letavum</reg>
+		       <seg type="lucas">Letami(ni)</seg>
+		       <orig>Letami</orig>
+		       <reg>Letamini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -153,9 +153,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">gl(ori)anu(m)</seg>
-		       <orig>glanu</orig>
-		       <reg>glorianum</reg>
+		       <seg type="lucas">gl(ori)ami(ni)</seg>
+		       <orig>glami</orig>
+		       <reg>gloriamini</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">o(mne)s</seg>
@@ -248,7 +248,7 @@
 		       <orig>e</orig>
 		       <reg>est</reg>
 	     </choice> sa
-<lb break="no"/>vitas 
+<lb break="no"/>nitas 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
 		       <orig>i</orig>
