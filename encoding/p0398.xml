@@ -251,7 +251,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Q(ui)a</seg>
-		       <orig>Qa</orig>
+		       <orig>Qa</orig> <!-- unsure -->
 		       <reg>Quia</reg>
 	     </choice> ipse
 
