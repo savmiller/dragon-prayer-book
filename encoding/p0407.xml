@@ -32,9 +32,9 @@
 	     </choice>
       <lb/>
 	     <choice>
-		       <seg type="lucas">h(ic?)</seg>
+		       <seg type="lucas">h(ic)</seg>
 		       <orig>h</orig>
-		       <reg>hic?</reg>
+		       <reg>hic</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -170,7 +170,7 @@
 		       <orig>su:</orig>
 		       <reg>sum:</reg>
 	     </choice>
-      <lb/>sa na me 
+      <lb/>sana me 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>
 		       <orig>dne</orig>
@@ -182,14 +182,9 @@
 		       <reg>quoniam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">t(ra)bata</seg>
+		       <seg type="lucas">(con)t(ur)bata</seg>
 		       <orig>tbata</orig>
-		       <reg>trabata</reg>
+		       <reg>conturbata</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -209,9 +204,9 @@
 		       <reg>est</reg>
 	     </choice> valde; 
 	<choice>
-		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
-		       <reg>et </reg>
+		       <seg type="lucas">(sed) </seg> <!--one-in-a-million irregular case, don't worry about it-->
+		       <orig>+</orig>
+		       <reg>sed</reg>
 	     </choice> tu 
 	<choice>
 		       <seg type="lucas">do(mine)</seg>
