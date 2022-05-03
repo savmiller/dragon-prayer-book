@@ -57,9 +57,9 @@
 		       <reg>est</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sp(er).</seg>
+		       <seg type="lucas">s(em)p(er).</seg>
 		       <orig>sp.</orig>
-		       <reg>sper.</reg>
+		       <reg>semper.</reg>
 	     </choice>
       <lb/>Tibi soli peccavi 
 	<choice>
@@ -80,9 +80,9 @@
 	     </choice> te feci: ut iustifi
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">c(er?)is</seg>
+		       <seg type="lucas">c(er)is</seg>
 		       <orig>cis</orig>
-		       <reg>cer?is<!--  check expansion --></reg>
+		       <reg>ceris</reg>
 	     </choice> 
  
 	     <choice>
@@ -99,7 +99,7 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig> </orig>
 		       <reg>et </reg>
-	     </choice> vin?
+	     </choice> vin
 <lb break="no"/>cas 
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
@@ -164,9 +164,9 @@
 		       <reg>mater</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">m(?)a.</seg>
+		       <seg type="lucas">m(e)a.</seg>
 		       <orig>ma.</orig>
-		       <reg>m?a.<!--  check expansion --></reg>
+		       <reg>mea.</reg>
 	     </choice> 
       <lb/>Ecce 
 	<choice>
@@ -181,9 +181,9 @@
 	     </choice> dilexisti:
 <lb/>
 	     <choice>
-		       <seg type="lucas">m(?)c(?)ta</seg>
-		       <orig>mcta</orig>
-		       <reg>m?c?ta<!--  check expansion --></reg>
+		       <seg type="lucas">inc(er)ta</seg>
+		       <orig>incta</orig>
+		       <reg>incerta<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
