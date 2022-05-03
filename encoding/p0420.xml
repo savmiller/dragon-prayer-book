@@ -19,7 +19,7 @@
 		       <seg type="lucas">sic(ut)</seg>
 		       <orig>sic</orig>
 		       <reg>sicut</reg>
-	     </choice> [*]?ucticoriax 
+	     </choice> nicticorax 
 	<choice>
 		       <seg type="lucas">i(n)</seg>
 		       <orig>i</orig>
@@ -54,14 +54,14 @@
 	     </choice> in
 <lb/>tecto. 
 	<choice>
-		       <seg type="lucas">Vo(ca)</seg>
-		       <orig>Vo</orig>
-		       <reg>Voca</reg>
+		       <seg type="lucas">To(ta)</seg>
+		       <orig>To</orig>
+		       <reg>Tota</reg>
 	     </choice> die 
 	<choice>
-		       <seg type="lucas">exp(ro)b(ra?)ba(n)t</seg>
+		       <seg type="lucas">exp(ro)b(ra)ba(n)t</seg>
 		       <orig>expbbat</orig>
-		       <reg>exprobra?bant</reg>
+		       <reg>exprobrabant</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -80,9 +80,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">q(ui?)</seg>
+		       <seg type="lucas">q(ui)</seg>
 		       <orig>q</orig>
-		       <reg>qui?</reg>
+		       <reg>qui</reg>
 	     </choice> lauda
 <lb break="no"/>
 	     <choice>
@@ -131,12 +131,7 @@
 		       <seg type="lucas">(et) </seg>
 		       <orig> </orig>
 		       <reg>et </reg>
-	     </choice> 
-	     <choice>
-		       <seg type="lucas">poc(u?)l(?)m</seg>
-		       <orig>poclm</orig>
-		       <reg>pocu?l?m<!--  check expansion --></reg>
-	     </choice> 
+	     </choice> potum 
       <lb/>
 	     <choice>
 		       <seg type="lucas">meu(m)</seg>
@@ -174,7 +169,7 @@
 		       <seg type="lucas">eleva(n)s</seg>
 		       <orig>elevas</orig>
 		       <reg>elevans</reg>
-	     </choice> as?isisti me. Di
+	     </choice> asllisisti me. Di
 <lb break="no"/>es mei 
 	<choice>
 		       <seg type="lucas">sic(ut)</seg>
