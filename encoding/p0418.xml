@@ -59,9 +59,9 @@
 		       <reg>sacrificium</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">dedisse(re?)</seg>
+		       <seg type="lucas">dedisse(m)</seg>
 		       <orig>dedisse</orig>
-		       <reg>dedissere?</reg>
+		       <reg>dedissem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">utiq(ue):</seg>
@@ -75,18 +75,10 @@
 		       <reg>non</reg>
 	     </choice> delectaberis.
 <lb/>
-	     <choice>
-		       <seg type="lucas">Sac(ri?)
-	</seg>
-		       <orig>Sac
-	</orig>
-		       <reg>Sacri?
-	<!--  check expansion --></reg>
-	     </choice> 
       <choice>
-		       <seg type="lucas">ficiu(m)</seg>
-		       <orig>ficiu</orig>
-		       <reg>ficium</reg>
+		       <seg type="lucas">Sac(ri)ficiu(m)</seg>
+		       <orig>Sacficiu</orig>
+		       <reg>Sacrificium</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(e)o</seg>
@@ -99,9 +91,9 @@
 		       <reg>spiritus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)t(ri?)bula</seg>
+		       <seg type="lucas">(con)t(ri)bula</seg>
 		       <orig>tbula</orig>
-		       <reg>contri?bula</reg>
+		       <reg>contribula</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -109,15 +101,10 @@
 		       <orig>t:</orig>
 		       <reg>tus:</reg>
 	     </choice> cor 
-	<choice>
-		       <seg type="lucas">(con)(?)</seg>
-		       <orig/>
-		       <reg>con?</reg>
-	     </choice> 
 	     <choice>
-		       <seg type="lucas">ctu(m)</seg>
-		       <orig>ctu</orig>
-		       <reg>ctum</reg>
+		       <seg type="lucas">(con)t(ri)tu(m)</seg>
+		       <orig>ttu</orig>
+		       <reg>contritum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -141,9 +128,9 @@
 		       <reg>non</reg>
 	     </choice> despicies. 
 	<choice>
-		       <seg type="lucas">Benig(us?)</seg>
+		       <seg type="lucas">Benig(ne)</seg>
 		       <orig>Benig</orig>
-		       <reg>Benigus?</reg>
+		       <reg>Benigne</reg>
 	     </choice> fac
 <lb/>
 	     <choice>
@@ -194,9 +181,9 @@
 		       <reg>acceptabis</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">sac(ri?)</seg>
+		       <seg type="lucas">sac(ri)</seg>
 		       <orig>sac</orig>
-		       <reg>sacri?<!--  check expansion --></reg>
+		       <reg>sacri</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
