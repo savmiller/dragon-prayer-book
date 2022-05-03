@@ -96,9 +96,9 @@
 	     </choice> te:
 <lb/>
 	     <choice>
-		       <seg type="lucas">velocit(er?)</seg>
+		       <seg type="lucas">velocit(er)</seg>
 		       <orig>velocit</orig>
-		       <reg>velociter?</reg>
+		       <reg>velociter</reg>
 	     </choice> exaudi me. 
 	<choice>
 		       <seg type="lucas">Q(ui)a</seg>
@@ -115,11 +115,12 @@
 		       <seg type="lucas">sic(ut)</seg>
 		       <orig>sic</orig>
 		       <reg>sicut</reg>
-	     </choice> f??
+	     </choice> 
 	<choice>
-		       <seg type="lucas">(us) </seg>
-		       <orig> </orig>
 		       <reg>us </reg>
+		       <seg type="lucas">fum(us) </seg>
+		       <orig>fum </orig>
+		       <reg>fumus </reg>
 	     </choice> dies
 <lb/>mei: 
 	<choice>
@@ -186,14 +187,9 @@
 		       <reg>sum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">med(er)e</seg>
+		       <seg type="lucas">(co)med(er)e</seg>
 		       <orig>mede</orig>
-		       <reg>medere</reg>
+		       <reg>comedere</reg>
 	     </choice> pa
 <lb break="no"/>
 	     <choice>
@@ -219,9 +215,9 @@
 	     </choice>
       <lb/>carni mee. 
 	<choice>
-		       <seg type="lucas">Sil(er)is</seg>
+		       <seg type="lucas">Sil(mil)is</seg>
 		       <orig>Silis</orig>
-		       <reg>Sileris</reg>
+		       <reg>Silmilis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">f(a)c(tu)s</seg>
