@@ -45,7 +45,12 @@
 		       <seg type="lucas">Q(ui)</seg>
 		       <orig>Q</orig>
 		       <reg>Qui</reg>
-	     </choice> retribu?(?)t
+	     </choice> 
+         <choice>
+                  <seg type="lucas">retribuu(n)t</seg>
+                  <orig>retribuut</orig>
+                  <reg>retribuunt</reg>
+         </choice>
 <lb/>mala 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
@@ -106,9 +111,9 @@
 		       <reg>meus:</reg>
 	     </choice> ne 
 	<choice>
-		       <seg type="lucas">discessi(?)s</seg>
+		       <seg type="lucas">discess(er)is</seg>
 		       <orig>discessis</orig>
-		       <reg>discessi?s<!--  check expansion --></reg>
+		       <reg>discess(er)is</reg>
 	     </choice> 
  a me.
 <lb/>
@@ -218,7 +223,7 @@
 		       <orig>Ampli</orig>
 		       <reg>Amplius</reg>
 	     </choice> la
-<lb break="no"/>na me ab 
+<lb break="no"/>va me ab 
 	<choice>
 		       <seg type="lucas">i(n)iq(ui)tate</seg>
 		       <orig>iiqtate</orig>
@@ -236,10 +241,10 @@
 		       <reg>peccato</reg>
 	     </choice> mea 
 	<choice>
-		       <seg type="lucas">m(?)dame.</seg>
-		       <orig>mdame.</orig>
-		       <reg>m?dame.<!--  check expansion --></reg>
-	     </choice> 
+		       <seg type="lucas">m(un)da</seg>
+		       <orig>mda</orig>
+		       <reg>munda</reg>
+	     </choice> me. 
  
 	     <choice>
 		       <seg type="lucas">Q(uonia)m</seg>

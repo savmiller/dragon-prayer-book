@@ -95,9 +95,9 @@
 		       <reg>rectum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">i(n)nova?</seg>
-		       <orig>inova?</orig>
-		       <reg>innova?</reg>
+		       <seg type="lucas">i(n)nova</seg>
+		       <orig>inova</orig>
+		       <reg>innova</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
@@ -105,9 +105,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">visci(ent?)i</seg>
-		       <orig>viscii</orig>
-		       <reg>viscient?i<!--  check expansion --></reg>
+		       <seg type="lucas">visc(er)i</seg>
+		       <orig>visci</orig>
+		       <reg>visceri</reg>
 	     </choice> 
       <lb break="no"/>
 	     <choice>
@@ -116,9 +116,9 @@
 		       <reg>bus</reg>
 	     </choice> meis. Ne 
 	<choice>
-		       <seg type="lucas">p(ro)i[*]cias</seg>
-		       <orig>pi[*]cias</orig>
-		       <reg>proi[*]cias</reg>
+		       <seg type="lucas">p(ro)iicias</seg>
+		       <orig>piicias</orig>
+		       <reg>proiicias</reg>
 	     </choice> me
 <lb/>a facie tua: 
 	<choice>
@@ -170,9 +170,9 @@
 		       <reg>principali</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(con)f(ir?)ma</seg>
+		       <seg type="lucas">(con)f(ir)ma</seg>
 		       <orig>fma</orig>
-		       <reg>confir?ma</reg>
+		       <reg>confirma</reg>
 	     </choice> me.
 <lb/>Docebo 
 	<choice>
@@ -187,9 +187,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ip(s?)ii</seg>
+		       <seg type="lucas">i(m)pii</seg>
 		       <orig>ipii</orig>
-		       <reg>ips?ii<!--  check expansion --></reg>
+		       <reg>impii</reg>
 	     </choice> 
  ad te 
 	<choice>
@@ -209,9 +209,9 @@
 	     </choice>
       <lb/>me de 
 	<choice>
-		       <seg type="lucas">sa(n)g?(?)b(us)</seg>
-		       <orig>sag?b</orig>
-		       <reg>sang??bus</reg>
+		       <seg type="lucas">sa(n)gui(ni)b(us)</seg>
+		       <orig>saguib</orig>
+		       <reg>sanguinibus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
