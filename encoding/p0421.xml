@@ -11,9 +11,9 @@
 
       <lb/>
 	     <choice>
-		       <seg type="lucas">g(e)n(er)at(i)o(n)e</seg>
+		       <seg type="lucas">g(e)n(er)at(i)o(n)e(m)</seg>
 		       <orig>gnatoe</orig>
-		       <reg>generatione</reg>
+		       <reg>generationem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -32,9 +32,9 @@
 		       <reg>exurgens</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">mise(re)b(?)is</seg>
+		       <seg type="lucas">mise(re)b(er)is</seg>
 		       <orig>misebis</orig>
-		       <reg>misereb?is</reg>
+		       <reg>misereberis</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">syo(n):</seg>
@@ -174,7 +174,7 @@
 	     </choice>
       <lb/>edificavit 
 	<choice>
-		       <seg type="lucas">d(omi)n(u0s</seg>
+		       <seg type="lucas">d(omi)n(u)s</seg>
 		       <orig>dns</orig>
 		       <reg>dominus</reg>
 	     </choice> 
@@ -232,9 +232,9 @@
 	     </choice> spre
 <lb break="no"/>vit 
 	<choice>
-		       <seg type="lucas">p(re)ce(?)</seg>
+		       <seg type="lucas">p(re)ce(m)</seg>
 		       <orig>pce</orig>
-		       <reg>prece?</reg>
+		       <reg>precem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">eor(um).</seg>
@@ -273,9 +273,9 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">p(o)p(u)l(i)s</seg>
+		       <seg type="lucas">p(o)p(u)l(u)s</seg>
 		       <orig>ppls</orig>
-		       <reg>populis</reg>
+		       <reg>populus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">q(ui)</seg>

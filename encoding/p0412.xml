@@ -9,7 +9,7 @@
        xml:id="p0412_transcription"
        corresp="#p0412_translation">
 
-      <lb/>ire? tue: 
+      <lb/>ire tue: 
 	<choice>
 		       <seg type="lucas">n(on)</seg>
 		       <orig>n</orig>
@@ -21,16 +21,16 @@
 		       <reg>est</reg>
 	     </choice> pax 
 	<choice>
-		       <seg type="lucas">cissib(us)</seg>
-		       <orig>cissib</orig>
-		       <reg>cissibus</reg>
+		       <seg type="lucas">ossib(us)</seg>
+		       <orig>ossib</orig>
+		       <reg>ossibus</reg>
 	     </choice> me
 <lb break="no"/>is a facie 
 	<choice>
-		       <seg type="lucas">p(ec)c(a)tor(um)meorum.</seg>
-		       <orig>pctormeorum.</orig>
-		       <reg>peccatorummeorum.</reg>
-	     </choice>
+		       <seg type="lucas">p(ec)c(a)tor(um)</seg>
+		       <orig>pctor</orig>
+		       <reg>peccatorum</reg>
+	     </choice> meorum.
       <lb/>
 	     <choice>
 		       <seg type="lucas">Q(uonia)m</seg>
@@ -69,9 +69,9 @@
 		       <reg>sicut</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ov(us)?</seg>
-		       <orig>ov?</orig>
-		       <reg>ovus?</reg>
+		       <seg type="lucas">on(us)</seg>
+		       <orig>on̄</orig> <!--decided to drop this combining macron in while doing some spring cleaning for fun-->
+		       <reg>onus</reg>
 	     </choice>
       <lb/>
 	     <choice>
@@ -112,9 +112,9 @@
 	     </choice> cica
 <lb break="no"/>
 	     <choice>
-		       <seg type="lucas">t(er?)ces</seg>
+		       <seg type="lucas">t(ri)ces</seg>
 		       <orig>tces</orig>
-		       <reg>ter?ces<!--  check expansion --></reg>
+		       <reg>trices</reg>
 	     </choice> 
  mee: a facie 
 	<choice>
@@ -139,18 +139,10 @@
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">c(ir?)
-	</seg>
-		       <orig>c
-	</orig>
-		       <reg>cir?
-	<!--  check expansion --></reg>
+		       <seg type="lucas">c(ur)vat(us)</seg>
+		       <orig>cvat</orig>
+		       <reg>curvatus</reg>
 	     </choice> 
-      <choice>
-		       <seg type="lucas">vat(us)</seg>
-		       <orig>vat</orig>
-		       <reg>vatus</reg>
-	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">su(m)</seg>
@@ -173,19 +165,14 @@
 		       <reg>finem:</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">to(ta?)</seg>
+		       <seg type="lucas">to(ta)</seg>
 		       <orig>to</orig>
-		       <reg>tota?</reg>
+		       <reg>tota</reg>
 	     </choice> die 
 	<choice>
-		       <seg type="lucas">(con)</seg>
-		       <orig/>
-		       <reg>con</reg>
-	     </choice>
-	     <choice>
-		       <seg type="lucas">t(ra)sta</seg>
+		       <seg type="lucas">(con)t(ri)sta</seg>
 		       <orig>tsta</orig>
-		       <reg>trasta</reg>
+		       <reg>contrista</reg>
 	     </choice>
       <lb break="no"/>
 	     <choice>
@@ -204,9 +191,9 @@
 		       <reg>Quoniam</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">lu(?)bi</seg>
+		       <seg type="lucas">lu(m)bi</seg>
 		       <orig>lubi</orig>
-		       <reg>lu?bi<!--  check expansion --></reg>
+		       <reg>lumbi</reg>
 	     </choice> 
       <lb/>mei 
 	<choice>

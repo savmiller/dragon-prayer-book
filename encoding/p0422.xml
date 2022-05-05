@@ -43,9 +43,9 @@
 		       <reg>ditorum:</reg>
 	     </choice> ut 
 	<choice>
-		       <seg type="lucas">solve(n?)t</seg>
+		       <seg type="lucas">solve(re)t</seg>
 		       <orig>solvet</orig>
-		       <reg>solven?t<!--  check expansion --></reg>
+		       <reg>solveret</reg>
 	     </choice> 
  filios 
 	<choice>
@@ -149,9 +149,9 @@
 		       <reg>domino.</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">R(?)n(?)dit</seg>
+		       <seg type="lucas">R(espo)ndit</seg>
 		       <orig>Rndit</orig>
-		       <reg>R?n?dit<!--  check expansion --></reg>
+		       <reg>Respondit</reg>
 	     </choice> 
  ei 
 	<choice>
@@ -192,9 +192,9 @@
 		       <reg>mihi.</reg>
 	     </choice> Ne 
 	<choice>
-		       <seg type="lucas">r(?)?oces</seg>
-		       <orig>r?oces</orig>
-		       <reg>r??oces<!--  check expansion --></reg>
+		       <seg type="lucas">r(e)voces</seg>
+		       <orig>rvoces</orig>
+		       <reg>revoces</reg>
 	     </choice> 
       <lb/>me 
 	<choice>
@@ -219,9 +219,9 @@
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">g(e)n(er)at(i)o(n)e</seg>
+		       <seg type="lucas">g(e)n(er)at(i)o(n)e(m)</seg>
 		       <orig>gnatoe</orig>
-		       <reg>generatione</reg>
+		       <reg>generationem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
@@ -240,9 +240,9 @@
 	     </choice>
       <lb/>tui. 
 	<choice>
-		       <seg type="lucas">Init(i)o?</seg>
-		       <orig>Inito?</orig>
-		       <reg>Initio?</reg>
+		       <seg type="lucas">Init(i)o</seg>
+		       <orig>Inito</orig>
+		       <reg>Initio</reg>
 	     </choice> tu 
 	<choice>
 		       <seg type="lucas">d(omi)ne</seg>

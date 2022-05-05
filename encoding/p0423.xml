@@ -42,17 +42,9 @@
 		       <reg>timentum</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">vet(er?)
-	</seg>
-		       <orig>vet
-	</orig>
-		       <reg>veter?
-	<!--  check expansion --></reg>
-	     </choice> 
-      <choice>
-		       <seg type="lucas">asce(n)t.</seg>
-		       <orig>ascet.</orig>
-		       <reg>ascent.</reg>
+		       <seg type="lucas">vet(er)asce(n)t.</seg>
+		       <orig>vetascet.</orig>
+		       <reg>veterascent.</reg>
 	     </choice> Et 
 	<choice>
 		       <seg type="lucas">sic(ut)</seg>
@@ -87,9 +79,9 @@
 		       <reg>autem</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">ide(?)</seg>
+		       <seg type="lucas">ide(m)</seg>
 		       <orig>ide</orig>
-		       <reg>ide?</reg>
+		       <reg>idem</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ip(s)e</seg>
@@ -98,9 +90,9 @@
 	     </choice> es et
 <lb/>
 	     <choice>
-		       <seg type="lucas">a(n)ui?)</seg>
-		       <orig>aui?)</orig>
-		       <reg>anui?)</reg>
+		       <seg type="lucas">a(n)ni</seg>
+		       <orig>ani</orig>
+		       <reg>anni</reg>
 	     </choice> tui 
 	<choice>
 		       <seg type="lucas">n(on)</seg>
@@ -108,9 +100,9 @@
 		       <reg>non</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">degicie(n)t.</seg>
-		       <orig>degiciet.</orig>
-		       <reg>degicient.</reg>
+		       <seg type="lucas">deficie(n)t.</seg>
+		       <orig>deficiet.</orig>
+		       <reg>deficient.</reg>
 	     </choice> Filii
 <lb/>
 	     <choice>
@@ -161,10 +153,15 @@
 	     </choice>
       <lb/>DE 
 	<choice>
-		       <seg type="lucas">p(ro)fu(n)d(is?)</seg>
+		       <seg type="lucas">p(ro)fu(n)d(is)</seg>
 		       <orig>pfud</orig>
-		       <reg>profundis?</reg>
-	     </choice> clavi? adte
+		       <reg>profundis</reg>
+	     </choice> 
+         <choice>
+                  <seg type="lucas">cla(ma)vi</seg>
+                  <orig>clävi</orig> <!--I added in the diacritic too because it's hard to see on the page-->
+                  <reg>clamavi</reg>
+         </choice> adte
 <lb/>
 	     <choice>
 		       <seg type="lucas">d(omi)ne:</seg>
