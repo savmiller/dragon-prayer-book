@@ -238,7 +238,12 @@
 		       <seg type="lucas">me(m)oriale</seg>
 		       <orig>meoriale</orig>
 		       <reg>memoriale</reg>
-	     </choice> tui in
+	     </choice> 
+         <choice>
+                  <seg type="lucas">tuu(m)</seg>
+                  <orig>tuu</orig>
+                  <reg>tuum</reg>
+         </choice> in
 
 
 </ab>
