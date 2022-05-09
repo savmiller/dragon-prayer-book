@@ -12,178 +12,178 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+	           <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">genit(ri)x</seg>
-		       <orig>genitx</orig>
+	           <orig>geniṫx</orig>
 		       <reg>genitrix</reg>
 	     </choice>                                or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+	           <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)go</seg>
-		       <orig>vgo</orig>
+	           <orig>v̇go</orig>
 		       <reg>virgo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)ginu(m)</seg>
-		       <orig>vginu</orig>
+	           <orig>v̇ginū</orig>
 		       <reg>virginum</reg>
 	     </choice>                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Michael                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> gabriel                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> raphael                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Os̄</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)g(e)li</seg>
-		       <orig>agli</orig>
+	           <orig>āgl͘i</orig>
 		       <reg>angeli</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">archa(n)g(e)li</seg>
-		       <orig>archagli</orig>
+	           <orig>archāgl͘i</orig>
 		       <reg>archangeli</reg>
 	     </choice>         orte
 <lb/>
 	     <choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Os̄</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)tor(um)</seg>
-		       <orig>btor</orig>
+	           <orig>btōꝝ</orig>
 		       <reg>beatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(irit)u?(?)</seg>
-		       <orig>spu?</orig>
+	           <orig>sp̄ū?</orig> <!-- might be other characters in here?? -->
 		       <reg>spiritu??</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ordi(n)es</seg>
-		       <orig>ordies</orig>
+	           <orig>ordīes</orig>
 		       <reg>ordines</reg>
 	     </choice> orte
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ioh(?)es</seg>
-		       <orig>iohes</orig>
+	           <orig>ioḣes</orig>
 		       <reg>ioh?es<!--  check expansion --></reg>
 	     </choice> 
  baptista                                or
 <lb/>
 	     <choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Os̄</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)riarche</seg>
-		       <orig>priarche</orig>
+		       <orig>pr̄iarche</orig>
 		       <reg>patriarche</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)ph(er?)e</seg>
-		       <orig>pphe</orig>
+	           <orig>ꝓpḣe</orig>
 		       <reg>propher?e</reg>
 	     </choice>        orte
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Petre                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> paule                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Andrea                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> iacobe                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ioh(?)es</seg>
-		       <orig>iohes</orig>
+	           <orig>ioḣes</orig>
 		       <reg>ioh?es<!--  check expansion --></reg>
 	     </choice> 
                                         or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Thoma                                        or
 
