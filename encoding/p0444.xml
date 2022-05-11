@@ -12,187 +12,187 @@
 <lb/>tas 
 	<choice>
 		       <seg type="lucas">un(us)</seg>
-		       <orig>un</orig>
+	           <orig>unꝰ</orig>
 		       <reg>unus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(eu)s</seg>
-		       <orig>ds</orig>
+	           <orig>ḋs</orig>
 		       <reg>deus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">misere(re)</seg>
-		       <orig>misere</orig>
+	           <orig>miserė</orig>
 		       <reg>miserere</reg>
 	     </choice> eis.
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> Maria ora 
 	<choice>
 		       <seg type="lucas">p(ro)</seg>
-		       <orig>p</orig>
+	           <orig>ꝓ</orig>
 		       <reg>pro</reg>
 	     </choice> eis.
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> dei 
 	<choice>
 		       <seg type="lucas">ge(n)it(ri)x</seg>
-		       <orig>geitx</orig>
+	           <orig>gēiṫx</orig>
 		       <reg>genitrix</reg>
 	     </choice>                                or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)go</seg>
-		       <orig>vgo</orig>
+	           <orig>v̇go</orig>
 		       <reg>virgo</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">v(ir)ginu(m)</seg>
-		       <orig>vginu</orig>
+	           <orig>v̇ginū</orig>
 		       <reg>virginum</reg>
 	     </choice>                        ora e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> michael                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> gabriel                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> raphael                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Os̄</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(n)g(e)li</seg>
-		       <orig>agli</orig>
+	           <orig>āgl͘i</orig>
 		       <reg>angeli</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig> + </orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">a(r)cha(n)g(e)li</seg>
-		       <orig>achagli</orig>
+	           <orig>ȧchāgl͘i</orig>
 		       <reg>archangeli</reg>
 	     </choice>     orte.
 <lb/>
 	     <choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Os̄</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">b(ea)tor(um)</seg>
-		       <orig>btor</orig>
+	           <orig>bt̄oꝝ</orig>
 		       <reg>beatorum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">sp(iritu)m</seg>
-		       <orig>spm</orig>
+		       <orig>sp̄m̄</orig>
 		       <reg>spiritum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ordi(n)es</seg>
-		       <orig>ordies</orig>
+	           <orig>ordīes</orig>
 		       <reg>ordines</reg>
 	     </choice> orte.
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">joh(?)s</seg>
-		       <orig>johs</orig>
+	           <orig>joḣs</orig>
 		       <reg>joh?s<!--  check expansion --></reg>
 	     </choice> 
  baptista                                or e
 + 11 
 	<choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Os̄</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(at)ria(r)che</seg>
-		       <orig>priache</orig>
+	           <orig>pr̄iāche</orig>
 		       <reg>patriarche</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+		       <orig>  +</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(ro)phe</seg>
-		       <orig>pphe</orig>
+	           <orig>ꝓpḣe</orig>
 		       <reg>prophe</reg>
 	     </choice>        orate.
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Petre                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> paule                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Andrea                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)e</seg>
-		       <orig>Sce</orig>
+		       <orig>Sc̄e</orig>
 		       <reg>Sancte</reg>
 	     </choice> Jacobe                                        or e
 
