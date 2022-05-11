@@ -12,122 +12,122 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">O(mne)s</seg>
-		       <orig>Os</orig>
+		       <orig>Ōs</orig>
 		       <reg>Omnes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">s(an)c(t)i</seg>
-		       <orig>sci</orig>
+		       <orig>sc̄i</orig>
 		       <reg>sancti</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)fessores</seg>
-		       <orig>fessores</orig>
+		       <orig>ɔfessores</orig>
 		       <reg>confessores</reg>
 	     </choice>                          orate
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> Anna                                        ore
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> maria 
 	<choice>
 		       <seg type="lucas">magda(lena?).</seg>
-		       <orig>magda.</orig>
+		       <orig>magdä.</orig>
 		       <reg>magdalena?.<!--  check expansion --></reg>
 	     </choice> 
                         or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> martha                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> felicitas                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)petua</seg>
-		       <orig>ppetua</orig>
+		       <orig>ꝑpetua</orig>
 		       <reg>perpetua</reg>
 	     </choice>                                or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> agatha                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> lucia                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> agnes                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> cecilia                                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> Katherina                                or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Kath(er)ina</seg>
-		       <orig>Kathina</orig>
+		       <orig>Katḣina</orig>
 		       <reg>Katherina</reg>
 	     </choice>                                or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> barbaraX \gesenis?/                        or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> margaretha                                or e
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Scā</orig>
 		       <reg>Sancta</reg>
 	     </choice> ursula 
 	<choice>
 		       <seg type="lucas">c(um)</seg>
-		       <orig>c</orig>
+		       <orig>c̄</orig>
 		       <reg>cum</reg>
 	     </choice> soda t.                        or e
 
