@@ -238,7 +238,7 @@
       <lb/>†exurrexi† 
 	<choice>
 		       <seg type="lucas">q(uia)</seg>
-		       <orig>q;(?)</orig> <!-- what character is after q?-->
+		       <orig>q(?)</orig> <!-- what character is after q?-->
 		       <reg>quia</reg>
 	     </choice> 
 	     <choice>
