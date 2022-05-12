@@ -12,10 +12,11 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> maria 
 	<choice>
+	    <!-- unsure how to code, small raised na -->
 		       <seg type="lucas">mag(na?)</seg>
 		       <orig>mag</orig>
 		       <reg>magna?</reg>
@@ -23,95 +24,95 @@
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> martha                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> felicitas                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)petua</seg>
-		       <orig>ppetua</orig>
+		       <orig>ꝑpetua</orig>
 		       <reg>perpetua</reg>
 	     </choice>                                or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> agatha                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> agnes •b•                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> lucia •a•                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> cecilia                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> Katherina                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> Katherina                                or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> barbara                                        or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> margaretha                                or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> ursula 
 	<choice>
 		       <seg type="lucas">cu(m)</seg>
-		       <orig>cu</orig>
+		       <orig>cū</orig>
 		       <reg>cum</reg>
 	     </choice> soda.t.                        or.
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> Kunegundis?                                or
 <lb/>
 	     <choice>
 		       <seg type="lucas">S(an)c(t)a</seg>
-		       <orig>Sca</orig>
+		       <orig>Sc̄a</orig>
 		       <reg>Sancta</reg>
 	     </choice> Elizabeth                                or
 
