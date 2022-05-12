@@ -12,18 +12,18 @@
       <lb/>
 	     <choice>
 		       <seg type="lucas">Om(ne?)s</seg>
-		       <orig>Oms</orig>
+		       <orig>Om̄s</orig>
 		       <reg>Omne?s<!--  check expansion --></reg>
 	     </choice> 
  
 	     <choice>
 		       <seg type="lucas">d(omi)ne</seg>
-		       <orig>dne</orig>
+		       <orig>dn̄e</orig>
 		       <reg>domine</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)</seg>
-		       <orig>p</orig>
+	           <orig>ꝓ</orig>
 		       <reg>per</reg>
 	     </choice> tua        
 	<choice>
