@@ -25,20 +25,20 @@
 	           <orig>ꝑibit.</orig>
 		       <reg>peribit.</reg>
 	     </choice>
-      <lb/>??
+         <lb/>??<!--missing: psalmic text is "fremuerunt," this looks like "umerunt" -->
 	<choice>
 		       <seg type="lucas">eru(n)t</seg>
-		       <orig>erut</orig>
+	      <orig>erūt</orig>
 		       <reg>erunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ge(n)tes:</seg>
-		       <orig>getes:</orig>
+		       <orig>gētes:</orig>
 		       <reg>gentes:</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	           <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> po
 <lb break="no"/>
@@ -49,76 +49,76 @@
 	     </choice> meditati 
 	<choice>
 		       <seg type="lucas">s(un)t</seg>
-		       <orig>st</orig>
+	      <orig>sṫ</orig><!--dot to the right or dot above? I chose dot above-->
 		       <reg>sunt</reg>
-	     </choice> mania.
+	     </choice> inania.
 <lb/>
 	     <choice>
 		       <seg type="lucas">Astiteru(n)t</seg>
-		       <orig>Astiterut</orig>
+	           <orig>Astiterūt</orig>
 		       <reg>Astiterunt</reg>
 	     </choice> reges 
 	<choice>
 		       <seg type="lucas">t(er)re;</seg>
-		       <orig>tre;</orig>
+		       <orig>t͘re;</orig>
 		       <reg>terre;</reg>
 	     </choice> et
 <lb/>
 	     <choice>
 		       <seg type="lucas">p(ri)ncipes</seg>
-		       <orig>pncipes</orig>
+	           <orig>ṗncipes</orig>
 		       <reg>principes</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(con)</seg>
-		       <orig/>
+	           <orig>ɔ</orig>
 		       <reg>con</reg>
 	     </choice>
 	     <choice>
 		       <seg type="lucas">vener(un)t</seg>
-		       <orig>venert</orig>
+		       <orig>vener̄t</orig>
 		       <reg>venerunt</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">i(n)</seg>
-		       <orig>i</orig>
+	           <orig>ī</orig>
 		       <reg>in</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">unu(m):</seg>
-		       <orig>unu:</orig>
+	           <orig>unū:</orig>
 		       <reg>unum:</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">adv(er)s(us)</seg>
-		       <orig>advs</orig>
+	           <orig>adv̇sꝰ</orig><!--used combining dot rather than v character with dot-->
 		       <reg>adversus</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">d(omi)n(u)m</seg>
-		       <orig>dnm</orig>
+		       <orig>dn̄m</orig>
 		       <reg>dominum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">(et) </seg>
-		       <orig> </orig>
+	           <orig>+</orig>
 		       <reg>et </reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">advers(us)</seg>
-		       <orig>advers</orig>
+	           <orig>adversꝰ</orig>
 		       <reg>adversus</reg>
 	     </choice>
       <lb/>
 	     <choice>
 		       <seg type="lucas">(christu)m</seg>
-		       <orig>m</orig>
+	           <orig>xp̄m</orig>
 		       <reg>christum</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">ei(us).</seg>
-		       <orig>ei.</orig>
+	           <orig>eiꝰ.</orig>
 		       <reg>eius.</reg>
 	     </choice> 
 	     <choice>
