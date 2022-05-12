@@ -12,17 +12,17 @@
       <lb/>QUare 
 	<choice>
 		       <seg type="lucas">fr(atr)e</seg>
-		       <orig>fre</orig>
+	      <orig>fre</orig><!--is there no abbreviation here? -->
 		       <reg>fratre</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">Ps(alm).</seg>
-		       <orig>Ps.</orig>
+	           <orig>Ṗṡ.</orig>
 		       <reg>Psalm.</reg>
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">p(er)ibit.</seg>
-		       <orig>pibit.</orig>
+	           <orig>ꝑibit.</orig>
 		       <reg>peribit.</reg>
 	     </choice>
       <lb/>??
