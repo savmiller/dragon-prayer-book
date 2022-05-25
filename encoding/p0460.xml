@@ -17,7 +17,7 @@
 	     </choice> 
 	     <choice>
 		       <seg type="lucas">movebit(ur)</seg>
-	                <orig>movebit֔</orig> <!-- not sure what character to use for this -->
+	                <orig>movebit֔</orig> <!-- not sure what character to use-->
 		       <reg>movebitur</reg>
 	     </choice> 
 	     <choice>
