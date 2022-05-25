@@ -16,7 +16,7 @@
 		       <reg>dominus</reg>
 	     </choice> 
 	     <choice>
-		       <seg type="lucas">(et) </seg>
+		       <seg type="lucas">(et)</seg>
 	                <orig>+</orig>
 		       <reg>et</reg>
 	     </choice> 
